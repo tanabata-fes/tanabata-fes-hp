@@ -1,6 +1,8 @@
 .mediaViewInfo {
 	--web-view-name: HOME;
 	--web-view-id: HOME;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -21,6 +23,8 @@
 	overflow: hidden;
 	--web-view-name: HOME;
 	--web-view-id: HOME;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -158,7 +162,7 @@
 	top: 0px;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #n_37 {
@@ -170,7 +174,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #sliderBox_ {
@@ -280,7 +284,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #n_17_bd {
@@ -407,7 +411,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #n_17_bp {
@@ -520,7 +524,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #sliderBox_b {
@@ -1230,7 +1234,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #text22pt595757_dz {
@@ -1316,7 +1320,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #Text_ea {
@@ -1342,7 +1346,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #text22pt595757_ec {
@@ -1398,7 +1402,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #text22pt595757_ee {
@@ -1454,7 +1458,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #text22pt595757_en {
@@ -1532,7 +1536,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #text22pt595757_eq {
@@ -1588,7 +1592,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #text22pt595757_ev {
@@ -1936,7 +1940,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: page_privacy.html;
+	--web-action-target: __________.html;
 	cursor: pointer;
 }
 #Text_ft {
@@ -1962,7 +1966,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.30000001192092896s linear;
 	--web-action-type: page;
-	--web-action-target: page_donation.html;
+	--web-action-target: ______.html;
 	cursor: pointer;
 }
 #Text_fv {
@@ -1988,7 +1992,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.30000001192092896s linear;
 	--web-action-type: page;
-	--web-action-target: page_access.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 }
 #Text_fx {
@@ -2014,7 +2018,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: page_contact.html;
+	--web-action-target: ______.html;
 	cursor: pointer;
 }
 #Text_fz {
@@ -2533,7 +2537,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: page_contact.html;
+	--web-action-target: ______.html;
 	cursor: pointer;
 }
 #n_23 {
@@ -2591,7 +2595,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.30000001192092896s linear;
 	--web-action-type: page;
-	--web-action-target: page_about.html;
+	--web-action-target: _______.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Tsukushi A Round Gothic;
@@ -2961,7 +2965,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.30000001192092896s linear;
 	--web-action-type: page;
-	--web-action-target: page_committee.html;
+	--web-action-target: _____.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Tsukushi A Round Gothic;
@@ -2979,7 +2983,7 @@
 	overflow: visible;
 	--web-animation: fadein 0.6000000238418579s ease-out;
 	--web-action-type: page;
-	--web-action-target: page_group.html;
+	--web-action-target: _______.html;
 	cursor: pointer;
 }
 #Text_ip {
@@ -3013,7 +3017,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.30000001192092896s linear;
 	--web-action-type: page;
-	--web-action-target: page_donation.html;
+	--web-action-target: ______.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Tsukushi A Round Gothic;
@@ -3039,7 +3043,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.30000001192092896s linear;
 	--web-action-type: page;
-	--web-action-target: page_access.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Tsukushi A Round Gothic;
@@ -3065,7 +3069,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.30000001192092896s linear;
 	--web-action-type: page;
-	--web-action-target: page_access.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Tsukushi A Round Gothic;
@@ -3091,7 +3095,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.30000001192092896s linear;
 	--web-action-type: page;
-	--web-action-target: single.html;
+	--web-action-target: ____.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Tsukushi A Round Gothic;
