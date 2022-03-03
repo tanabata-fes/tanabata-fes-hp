@@ -41,6 +41,7 @@ https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#type
 * page-donation: ご協賛・ご寄付のページです
 * page-group: 参加団体のページです
 * page-privacy: プライバシーポリシーのページです
+* singe: お知らせのベースとなるページです
 
 ### 原則いじらなくて問題ないファイル
 * functions.php: 追加したいものがある場合はシステム局長 舟山までご連絡ください。
