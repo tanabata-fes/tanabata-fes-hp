@@ -1,6 +1,5 @@
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" id="applicationStylesheet"  href="<?php bloginfo('template_url'); ?>/desktop/styles/home.css">
+  <link rel="stylesheet" id="applicationStylesheet"  href="<?php bloginfo('template_url'); ?>/desktop/css/home.css">
   <script id="applicationScript" type="text/javascript" src="<?php bloginfo('template_url'); ?>/desktop/script.js"></script>
 </head>
 <body>
