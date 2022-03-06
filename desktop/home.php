@@ -9,9 +9,7 @@
       </rect>
     </svg>
     <div id="Logo">
-      <img id="n_26" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_26@2x.png 2x">
-        
-      </svg>
+      <img id="n_26" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_26@2x.png 2x">      </svg>
     </div>
     <div id="Text">
       <span>慶應義塾大学</span>
@@ -20,9 +18,7 @@
       <span>第３３回七夕祭</span>
     </div>
     <div id="n_36">
-      <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">
-        
-      </svg>
+      <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
     </div>
     <div id="n_1">
       <div id="n_1_w">
@@ -56,9 +52,7 @@
                 </div>
               </div>
               <div id="n_30">
-                <img id="n_29" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_29@2x.png 2x">
-                  
-                </svg>
+                <img id="n_29" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_29@2x.png 2x">                </svg>
               </div>
             </div>
             <div id="n_41">
@@ -102,9 +96,7 @@
                 </svg>
               </div>
               <div id="n_39">
-                <img id="n_33" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_33@2x.png 2x">
-                  
-                </svg>
+                <img id="n_33" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_33@2x.png 2x">                </svg>
                 <div id="n_">
                   <span>本年度テーマは<br/>「満開」に決定！</span>
                 </div>
@@ -149,9 +141,7 @@
                 </div>
               </div>
               <div id="n_30_b">
-                <img id="n_29_b" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_b.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_b.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_29_b@2x.png 2x">
-                  
-                </svg>
+                <img id="n_29_b" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_b.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_b.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_29_b@2x.png 2x">                </svg>
               </div>
             </div>
             <div id="n_41_b">
@@ -195,9 +185,7 @@
                 </svg>
               </div>
               <div id="n_39_co">
-                <img id="n_33_cp" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_cp.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_cp.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_33_cp@2x.png 2x">
-                  
-                </svg>
+                <img id="n_33_cp" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_cp.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_cp.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_33_cp@2x.png 2x">                </svg>
                 <div id="n__cq">
                   <span>本年度テーマは<br/>「満開」に決定！</span>
                 </div>
@@ -242,9 +230,7 @@
                 </div>
               </div>
               <div id="n_30_c">
-                <img id="n_29_c" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_c.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_c.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_29_c@2x.png 2x">
-                  
-                </svg>
+                <img id="n_29_c" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_c.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_c.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_29_c@2x.png 2x">                </svg>
               </div>
             </div>
             <div id="n_41_c">
@@ -288,9 +274,7 @@
                 </svg>
               </div>
               <div id="n_39_dm">
-                <img id="n_33_dn" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_dn.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_dn.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_33_dn@2x.png 2x">
-                  
-                </svg>
+                <img id="n_33_dn" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_dn.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_dn.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_33_dn@2x.png 2x">                </svg>
                 <div id="n__do">
                   <span>本年度テーマは<br/>「満開」に決定！</span>
                 </div>
@@ -308,15 +292,11 @@
       </div>
     </div>
     <div id="n_147">
-      <img id="n_146" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_146@2x.png 2x">
-        
-      </svg>
+      <img id="n_146" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_146@2x.png 2x">      </svg>
     </div>
     <div id="n_132">
       <div id="n_123">
-        <img id="n_122" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_122.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_122.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_122@2x.png 2x">
-          
-        </svg>
+        <img id="n_122" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_122.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_122.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_122@2x.png 2x">        </svg>
       </div>
       <svg class="n_81">
         <rect id="n_81" rx="20" ry="20" x="0" y="0" width="600" height="594">
@@ -420,9 +400,7 @@
         </rect>
       </svg>
       <div id="n_121">
-        <img id="n_120" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_120.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_120.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_120@2x.png 2x">
-          
-        </svg>
+        <img id="n_120" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_120.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_120.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_120@2x.png 2x">        </svg>
       </div>
       <svg class="n_84">
         <rect id="n_84" rx="0" ry="0" x="0" y="0" width="380" height="490">
@@ -439,9 +417,7 @@
       </rect>
     </svg>
     <div id="n_135">
-      <img id="n_134" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_134.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_134.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_134@2x.png 2x">
-        
-      </svg>
+      <img id="n_134" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_134.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_134.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_134@2x.png 2x">      </svg>
     </div>
     <div id="text22pt595757_fa" class="text22pt_595757">
       <div id="Text_fa">
@@ -449,9 +425,7 @@
       </div>
     </div>
     <div id="n_137">
-      <img id="n_136" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_136.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_136.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_136@2x.png 2x">
-        
-      </svg>
+      <img id="n_136" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_136.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_136.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_136@2x.png 2x">      </svg>
     </div>
     <svg class="n_93">
       <rect id="n_93" rx="20" ry="20" x="0" y="0" width="600" height="488">
@@ -517,56 +491,42 @@
             </path>
           </svg>
           <div id="n_7">
-            <img id="n_6" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_6@2x.png 2x">
-              
-            </svg>
+            <img id="n_6" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_6@2x.png 2x">            </svg>
           </div>
           <svg class="n_9" viewBox="1 5.674 1.647 0.457">
             <path id="n_9" d="M 1 6.13100004196167 L 2.647000074386597 5.673999786376953 L 1 6.13100004196167 Z">
             </path>
           </svg>
           <div id="n_9_f">
-            <img id="n_8_f" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_f.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_f.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_8_f@2x.png 2x">
-              
-            </svg>
+            <img id="n_8_f" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_f.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_f.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_8_f@2x.png 2x">            </svg>
           </div>
           <svg class="n_10" viewBox="3.074 0.999 0.88 1.443">
             <path id="n_10" d="M 3.953999996185303 2.441999912261963 L 3.073999881744385 0.9990000128746033 L 3.953999996185303 2.441999912261963 Z">
             </path>
           </svg>
           <div id="n_11">
-            <img id="n_10_f" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_f.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_f.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_10_f@2x.png 2x">
-              
-            </svg>
+            <img id="n_10_f" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_f.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_f.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_10_f@2x.png 2x">            </svg>
           </div>
           <svg class="n_25" viewBox="0 0 1.101 1.349">
             <path id="n_25" d="M 1.101000308990479 0 L 0 1.348999977111816">
             </path>
           </svg>
           <div id="n_13">
-            <img id="n_12" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_12@2x.png 2x">
-              
-            </svg>
+            <img id="n_12" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_12@2x.png 2x">            </svg>
           </div>
           <svg class="n_11_gd" viewBox="8.11 5.928 1.562 0.61">
             <path id="n_11_gd" d="M 9.671999931335449 6.538000106811523 L 8.109999656677246 5.927999973297119 L 9.671999931335449 6.538000106811523 Z">
             </path>
           </svg>
           <div id="n_15">
-            <img id="n_14" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_14@2x.png 2x">
-              
-            </svg>
+            <img id="n_14" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_14@2x.png 2x">            </svg>
           </div>
         </div>
         <div id="n_18_gg">
-          <img id="n_17_gh" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_17_gh.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_17_gh.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_17_gh@2x.png 2x">
-            
-          </svg>
+          <img id="n_17_gh" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_17_gh.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_17_gh.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_17_gh@2x.png 2x">          </svg>
         </div>
         <div id="n_20">
-          <img id="n_19" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_19.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_19.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_19@2x.png 2x">
-            
-          </svg>
+          <img id="n_19" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_19.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_19.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_19@2x.png 2x">          </svg>
         </div>
       </div>
       <div id="Copyright__2023___All_Rights_R">
@@ -650,16 +610,12 @@
       <div id="n_196">
         <div id="header" class="header">
           <div onclick="application.goToTargetView(event)" id="n_186">
-            <img id="n_23" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_23.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_23.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_23@2x.png 2x">
-              
-            </svg>
+            <img id="n_23" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_23.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_23.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_23@2x.png 2x">            </svg>
             <div id="CONTACT_US">
               <span>CONTACT US!</span>
             </div>
           </div>
-          <img id="n_26_hg" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg@2x.png 2x">
-            
-          </svg>
+          <img id="n_26_hg" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg@2x.png 2x">          </svg>
           <div id="n_177">
             <div id="text18pt595757_hi" class="text18pt_595757">
               <div onclick="application.goToTargetView(event)" id="Text_hj">
@@ -672,61 +628,45 @@
                 </path>
               </svg>
               <div id="n_7_hm">
-                <img id="n_6_hn" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6_hn.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6_hn.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_6_hn@2x.png 2x">
-                  
-                </svg>
+                <img id="n_6_hn" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6_hn.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6_hn.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_6_hn@2x.png 2x">                </svg>
               </div>
               <svg class="n_9_ho" viewBox="1 5.674 1.647 0.457">
                 <path id="n_9_ho" d="M 1 6.13100004196167 L 2.647000074386597 5.673999786376953 L 1 6.13100004196167 Z">
                 </path>
               </svg>
               <div id="n_9_hp">
-                <img id="n_8_hq" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_hq.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_hq.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_8_hq@2x.png 2x">
-                  
-                </svg>
+                <img id="n_8_hq" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_hq.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_hq.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_8_hq@2x.png 2x">                </svg>
               </div>
               <svg class="n_10_hr" viewBox="3.074 0.999 0.88 1.443">
                 <path id="n_10_hr" d="M 3.953999996185303 2.441999912261963 L 3.073999881744385 0.9990000128746033 L 3.953999996185303 2.441999912261963 Z">
                 </path>
               </svg>
               <div id="n_11_hs">
-                <img id="n_10_ht" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_ht.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_ht.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_10_ht@2x.png 2x">
-                  
-                </svg>
+                <img id="n_10_ht" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_ht.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_ht.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_10_ht@2x.png 2x">                </svg>
               </div>
               <svg class="n_25_hu" viewBox="0 0 1.101 1.349">
                 <path id="n_25_hu" d="M 1.101000308990479 0 L 0 1.348999977111816">
                 </path>
               </svg>
               <div id="n_13_hv">
-                <img id="n_12_hw" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12_hw.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12_hw.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_12_hw@2x.png 2x">
-                  
-                </svg>
+                <img id="n_12_hw" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12_hw.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12_hw.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_12_hw@2x.png 2x">                </svg>
               </div>
               <svg class="n_11_hx" viewBox="8.11 5.928 1.562 0.61">
                 <path id="n_11_hx" d="M 9.671999931335449 6.538000106811523 L 8.109999656677246 5.927999973297119 L 9.671999931335449 6.538000106811523 Z">
                 </path>
               </svg>
               <div id="n_15_hy">
-                <img id="n_14_hz" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14_hz.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14_hz.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_14_hz@2x.png 2x">
-                  
-                </svg>
+                <img id="n_14_hz" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14_hz.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14_hz.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_14_hz@2x.png 2x">                </svg>
               </div>
             </div>
             <div id="n_18_h">
-              <img id="n_17_h" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_17_h.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_17_h.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_17_h@2x.png 2x">
-                
-              </svg>
+              <img id="n_17_h" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_17_h.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_17_h.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_17_h@2x.png 2x">              </svg>
             </div>
             <div id="n_20_h">
-              <img id="n_19_h" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_19_h.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_19_h.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_19_h@2x.png 2x">
-                
-              </svg>
+              <img id="n_19_h" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_19_h.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_19_h.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_19_h@2x.png 2x">              </svg>
             </div>
             <div id="n_22_h">
-              <img id="n_21" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_21.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_21.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_21@2x.png 2x">
-                
-              </svg>
+              <img id="n_21" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_21.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_21.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_21@2x.png 2x">              </svg>
             </div>
             <div id="n_164">
               <svg class="n_8_h" viewBox="5.082 7.828 0.136 1.724">
@@ -734,45 +674,35 @@
                 </path>
               </svg>
               <div id="n_7_h">
-                <img id="n_6_h" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6_h.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6_h.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_6_h@2x.png 2x">
-                  
-                </svg>
+                <img id="n_6_h" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6_h.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_6_h.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_6_h@2x.png 2x">                </svg>
               </div>
               <svg class="n_9_ia" viewBox="1 5.674 1.647 0.457">
                 <path id="n_9_ia" d="M 1 6.13100004196167 L 2.647000074386597 5.673999786376953 L 1 6.13100004196167 Z">
                 </path>
               </svg>
               <div id="n_9_ib">
-                <img id="n_8_ic" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_ic.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_ic.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_8_ic@2x.png 2x">
-                  
-                </svg>
+                <img id="n_8_ic" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_ic.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_8_ic.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_8_ic@2x.png 2x">                </svg>
               </div>
               <svg class="n_10_id" viewBox="3.074 0.999 0.88 1.443">
                 <path id="n_10_id" d="M 3.953999996185303 2.441999912261963 L 3.073999881744385 0.9990000128746033 L 3.953999996185303 2.441999912261963 Z">
                 </path>
               </svg>
               <div id="n_11_ie">
-                <img id="n_10_if" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_if.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_if.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_10_if@2x.png 2x">
-                  
-                </svg>
+                <img id="n_10_if" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_if.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_10_if.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_10_if@2x.png 2x">                </svg>
               </div>
               <svg class="n_25_ig" viewBox="0 0 1.101 1.349">
                 <path id="n_25_ig" d="M 1.101000308990479 0 L 0 1.348999977111816">
                 </path>
               </svg>
               <div id="n_13_ih">
-                <img id="n_12_ii" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12_ii.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12_ii.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_12_ii@2x.png 2x">
-                  
-                </svg>
+                <img id="n_12_ii" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12_ii.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_12_ii.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_12_ii@2x.png 2x">                </svg>
               </div>
               <svg class="n_11_ij" viewBox="8.11 5.928 1.562 0.61">
                 <path id="n_11_ij" d="M 9.671999931335449 6.538000106811523 L 8.109999656677246 5.927999973297119 L 9.671999931335449 6.538000106811523 Z">
                 </path>
               </svg>
               <div id="n_15_ik">
-                <img id="n_14_il" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14_il.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14_il.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_14_il@2x.png 2x">
-                  
-                </svg>
+                <img id="n_14_il" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14_il.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_14_il.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_14_il@2x.png 2x">                </svg>
               </div>
             </div>
             <div id="text18pt595757_im" class="text18pt_595757">
