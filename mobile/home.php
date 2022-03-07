@@ -19,14 +19,8 @@
 				<rect id="n_80" rx="20" ry="20" x="0" y="0" width="300" height="367">
 				</rect>
 			</svg>
-			<svg class="n_84">
-				<rect id="n_84" rx="0" ry="0" x="0" y="0" width="235" height="304">
-				</rect>
-			</svg>
-			<div id="text22pt595757" class="text22pt_595757">
-				<div id="Tweet">
-					<span>Tweet埋め込み</span>
-				</div>
+			<div class="n_84">
+				<a class="twitter-timeline" data-lang="ja" data-dnt="true" data-height="305px" href="https://twitter.com/tanabata_fes?ref_src=twsrc%5Etfw">Tweets by tanabata_fes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 			</div>
 		</div>
 	</div>
@@ -111,7 +105,18 @@
 		<img id="n_134" src="<?php bloginfo('template_url'); ?>/mobile/images/home/n_134.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/home/n_134.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/home/n_134@2x.png 2x">		</svg>
 	</div>
 	<div id="Text_by">
-		<span>カウントダウン埋め込み</span>
+		<div class="countDown">七夕祭まであと
+			<span class="countDownText">
+				<script language="JavaScript">
+					var now = new Date();
+					var point = new Date("2022/07/2");
+					var countdown = Math.ceil((point.getTime() - now.getTime()) / (1000 * 60 * 60 * 24));
+					if (countdown > 0) {
+						document.write(countdown);
+					}
+				</script>
+			</span>日
+		</div>
 	</div>
 	<div id="n_248">
 		<div id="n_197">
