@@ -38,6 +38,24 @@
 	}
 
 }
+
+/* 手書き開始 */
+
+body {
+	line-height: 1.7;
+}
+
+.white_text {
+	color: #fff;
+	text-decoration: none;
+}
+
+.blue_text {
+	color: rgba(72,198,200,1);
+	text-decoration: none;
+}
+/* 手書き終わり */
+
 #n_217 {
 	position: absolute;
 	width: 346px;
@@ -70,7 +88,7 @@
 	width: 211px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 30px;
@@ -92,7 +110,7 @@
 	width: 89px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
@@ -117,7 +135,7 @@
 	width: 252px;
 	height: 518px;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -147,7 +165,7 @@
 	width: 169px;
 	white-space: nowrap;
 	text-align: right;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 12px;
@@ -193,7 +211,7 @@
 	width: 155px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
@@ -207,7 +225,7 @@
 	width: 89px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
@@ -221,7 +239,7 @@
 	width: 301px;
 	height: 62px;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -235,7 +253,7 @@
 	width: 89px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
@@ -249,7 +267,7 @@
 	width: 301px;
 	height: 38px;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -263,7 +281,7 @@
 	width: 89px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
@@ -277,7 +295,7 @@
 	width: 301px;
 	height: 62px;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -291,7 +309,7 @@
 	width: 67px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
@@ -305,7 +323,7 @@
 	width: 301px;
 	height: 86px;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -352,7 +370,7 @@
 	width: 181px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -398,7 +416,7 @@
 	width: 239px;
 	white-space: nowrap;
 	text-align: center;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 12px;
@@ -431,7 +449,7 @@
 	width: 83px;
 	white-space: nowrap;
 	text-align: center;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 10px;
@@ -477,7 +495,7 @@
 	width: 155px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
@@ -491,7 +509,7 @@
 	width: 301px;
 	height: 182px;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -538,7 +556,7 @@
 	width: 169px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 14px;
@@ -581,7 +599,7 @@
 	width: 199px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
@@ -627,7 +645,7 @@
 	width: 198px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
@@ -649,7 +667,7 @@
 	width: 280px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 10px;
@@ -679,7 +697,7 @@
 	width: 85px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 12px;
@@ -845,7 +863,7 @@
 	--web-action-target: page_access.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 12px;
@@ -879,7 +897,7 @@
 	--web-action-target: page_privacy.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 12px;
@@ -913,7 +931,7 @@
 	--web-action-target: page_contact.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 12px;
@@ -1018,7 +1036,7 @@
 	--web-action-target: home.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 12px;
@@ -1036,7 +1054,7 @@
 	--web-action-target: home.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
@@ -1143,7 +1161,7 @@
 	width: 34px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 9px;

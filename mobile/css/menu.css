@@ -38,6 +38,15 @@
 	}
 
 }
+
+
+/* 手書き始め */
+body {
+	line-height: 1.7;
+}
+/* 手書き終わり */
+
+
 #n_208 {
 	position: absolute;
 	width: 350px;
@@ -82,7 +91,7 @@
 	width: 39px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 9px;
@@ -453,7 +462,7 @@
 	--web-action-target: page_about.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 18px;
@@ -471,7 +480,7 @@
 	--web-action-target: page_committee.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 18px;
@@ -489,7 +498,7 @@
 	--web-action-target: page_group.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 18px;
@@ -507,7 +516,7 @@
 	--web-action-target: page_donation.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 18px;
@@ -525,7 +534,7 @@
 	--web-action-target: page_access.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 18px;
@@ -543,7 +552,7 @@
 	--web-action-target: single.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 18px;
@@ -561,7 +570,7 @@
 	--web-action-target: page_contact.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 18px;
@@ -579,7 +588,7 @@
 	--web-action-target: home.html;
 	cursor: pointer;
 	text-align: left;
-	font-family: Tsukushi A Round Gothic;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 18px;

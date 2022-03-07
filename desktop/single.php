@@ -12,26 +12,26 @@
 	</div>
 	<div id="footer" class="footer">
 		<div id="footerMenu">
-			<div onclick="application.goToTargetView(event)" id="text18pt595757" class="text18pt_595757">
+			<a href="../privacy" id="text18pt595757" class="text18pt_595757">
 				<div id="Text_v">
 					<span>プライバシーポリシー</span>
 				</div>
-			</div>
-			<div onclick="application.goToTargetView(event)" id="text18pt595757_w" class="text18pt_595757">
+			</a>
+			<a href="../donation" id="text18pt595757_w" class="text18pt_595757">
 				<div id="Text_x">
 					<span>ご協賛・ご寄付</span>
 				</div>
-			</div>
-			<div onclick="application.goToTargetView(event)" id="text18pt595757_y" class="text18pt_595757">
+			</a>
+			<a href="../access" id="text18pt595757_y" class="text18pt_595757">
 				<div id="Text_z">
 					<span>アクセス</span>
 				</div>
-			</div>
-			<div onclick="application.goToTargetView(event)" id="text18pt595757_" class="text18pt_595757">
+			</a>
+			<a href="../contact" id="text18pt595757_" class="text18pt_595757">
 				<div id="Text_">
 					<span>お問い合わせ</span>
 				</div>
-			</div>
+			</a>
 			<div id="n_16">
 				<svg class="n_8" viewBox="5.082 7.828 0.136 1.724">
 					<path id="n_8" d="M 5.081999778747559 9.552000045776367 L 5.217999935150146 7.828000068664551 L 5.081999778747559 9.552000045776367 Z">
@@ -321,7 +321,7 @@
 					</div>
 				</a>
 				<a href="<?php echo site_url(); ?>/access" id="text18pt595757_eb" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_ec">
+					<div id="Text_ec">
 						<span>アクセス</span>
 					</div>
 				</a>
