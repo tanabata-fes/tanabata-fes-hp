@@ -97,23 +97,19 @@
 					</svg>
 				</div>
 			</div>
-			<a href="accesss" id="Text_bo">
+			<a href="../accesss" id="Text_bo">
 				<span>アクセス</span>
 			</a>
 			<div id="n_18">
-				<img id="n_17" src="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_17.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_17.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/privacy/n_17@2x.png 2x">
-					
-				</svg>
+				<img id="n_17" src="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_17.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_17.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/privacy/n_17@2x.png 2x"></svg>
 			</div>
-			<div id="Text_br">
+			<a href="../privacy" id="Text_br">
 				<span>プライバシーポリシー</span>
-			</div>
+			</a>
 			<div id="n_20">
-				<img id="n_19" src="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_19.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_19.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/privacy/n_19@2x.png 2x">
-					
-				</svg>
+				<img id="n_19" src="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_19.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_19.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/privacy/n_19@2x.png 2x"></svg>
 			</div>
-			<a href="contact" id="Text_bu">
+			<a href="../contact" id="Text_bu">
 				<span>お問い合わせ</span>
 			</a>
 		</div>
@@ -126,9 +122,7 @@
 		<div id="header_bx">
 			<a href="..">
 				<div id="Logo">
-					<img id="n_26" src="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_26.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_26.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/privacy/n_26@2x.png 2x">
-						
-					</svg>
+					<img id="n_26" src="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_26.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/privacy/n_26.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/privacy/n_26@2x.png 2x"></svg>
 				</div>
 				<div id="n_233">
 					<div id="n_191">
