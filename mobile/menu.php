@@ -3,7 +3,7 @@
 	<div id="n_208">
 		<img id="n_207" src="<?php bloginfo('template_url'); ?>/mobile/images/menu/n_207.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/menu/n_207.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/menu/n_207@2x.png 2x">		</svg>
 	</div>
-	<div onclick="application.goBack()" id="n_189">
+	<div onclick="history.back(); return false;" id="n_189">
 		<svg class="n_1">
 			<ellipse id="n_1" rx="25" ry="25" cx="25" cy="25">
 			</ellipse>
@@ -121,7 +121,7 @@
 			<span>HOME</span>
 		</a>
 	</div>
-	<div onclick="application.goBack()" id="n_251">
+	<a href="#" onclick="history.back(); return false;" id="n_251">
 		<svg class="n_47" viewBox="0 0 20 2">
 			<path id="n_47" d="M 0 0 L 20 0">
 			</path>
@@ -130,6 +130,6 @@
 			<path id="n_48" d="M 0 0 L 0 20">
 			</path>
 		</svg>
-	</div>
+	</a>
 </div>
 </body>
