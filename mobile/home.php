@@ -19,14 +19,8 @@
 				<rect id="n_80" rx="20" ry="20" x="0" y="0" width="300" height="367">
 				</rect>
 			</svg>
-			<svg class="n_84">
-				<rect id="n_84" rx="0" ry="0" x="0" y="0" width="235" height="304">
-				</rect>
-			</svg>
-			<div id="text22pt595757" class="text22pt_595757">
-				<div id="Tweet">
-					<span>Tweet埋め込み</span>
-				</div>
+			<div class="n_84">
+				<a class="twitter-timeline" data-lang="ja" data-dnt="true" data-height="305px" href="https://twitter.com/tanabata_fes?ref_src=twsrc%5Etfw">Tweets by tanabata_fes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 			</div>
 		</div>
 	</div>
