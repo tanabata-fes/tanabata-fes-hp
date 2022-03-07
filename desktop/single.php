@@ -160,10 +160,10 @@
 		</div>
 	</div>
 	<div id="n_">
-		<span>< 前の投稿を見る</span>
+		<span><?php previous_post_link('%link', '< 前の投稿を見る'); ?></span>
 	</div>
 	<div id="n__ck">
-		<span>次の投稿を見る ></span>
+        <span><?php next_post_link('%link', '次の投稿を見る >'); ?></span>
 	</div>
 	<div id="n_193">
 		<svg class="n_115">
