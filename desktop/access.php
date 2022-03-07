@@ -26,7 +26,7 @@
 	</div>
 	<div id="text22pt595757" class="text22pt_595757">
 		<div id="Google_map">
-			<span>Google map埋め込み</span>
+		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3252.6952761774933!2d139.4250855155249!3d35.388013080263725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60185394acdc07c3%3A0xc281fed97a64744a!2z5oW25oeJ576p5aG-5aSn5a2m5rmY5Y2X6Jek5rKi44Kt44Oj44Oz44OR44K5!5e0!3m2!1sja!2sjp!4v1646668371929!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 		</div>
 	</div>
 	<svg class="n_104">
