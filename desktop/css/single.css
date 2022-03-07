@@ -436,9 +436,7 @@
 	top: 761px;
 	overflow: visible;
 }
-#n_0220129 {
-	left: 0px;
-	top: 30px;
+#single_date {
 	position: absolute;
 	overflow: visible;
 	width: 69px;
@@ -450,9 +448,7 @@
 	font-size: 12px;
 	color: rgba(89,87,87,1);
 }
-#Text_bt {
-	left: 0px;
-	top: 0px;
+#single_title {
 	position: absolute;
 	overflow: visible;
 	width: 251px;

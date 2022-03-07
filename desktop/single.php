@@ -108,52 +108,43 @@
 		</rect>
 	</svg>
 	<div id="n_167">
-		<div id="n_0220129">
-			<span>2022/01/29</span>
-		</div>
-		<div id="Text_bt">
-			<span>うなぎを食べました</span>
-		</div>
-		<div id="n_0220127">
-			<span>2022/01/27</span>
-		</div>
-		<div id="Text_bv">
-			<span>ピザはすごい食べものだね</span>
-		</div>
-		<div id="n_0220113">
-			<span>2022/01/13</span>
-		</div>
-		<div id="Text_bx">
-			<span>メロンパンは美味しいよ</span>
-		</div>
-		<div id="n_0220111">
-			<span>2022/01/11</span>
-		</div>
-		<div id="Text_bz">
-			<span>ディズニーランドに行きたいな</span>
-		</div>
-		<div id="Text_b">
-			<span>そういえばあの子何してるかな</span>
-		</div>
-		<div id="n_0220110">
-			<span>2022/01/10</span>
-		</div>
-		<div id="n_022017">
-			<span>2022/01/7</span>
-		</div>
-		<div id="Text_ca">
-			<span>もうすぐ出勤だあ</span>
-		</div>
-		<div id="n_022011">
-			<span>2022/01/1</span>
-		</div>
-		<div id="Text_cb">
-			<span>あけましておめでとう</span>
-		</div>
+    <?php
+        // 取得したい内容を配列に記載します（不要箇所は省略可）
+        $args = array(
+	    'posts_per_page'   => -1, // 読み込みしたい記事数（全件取得時は-1）
+	    'orderby'          => 'ID', // 何順で記事を読み込むか（省略時は日付順）
+	    'order'            => 'DESC', // 昇順(ASC)か降順か(DESC）
+    );
+    
+    // 配列で指定した内容で、記事情報を取得
+    $datas = get_posts( $args );
+    
+    // 取得した記事情報の表示
+    if ( $datas ): // 記事情報がある場合はforeachで記事情報を表示
+        // ↓ ループ開始 ↓
+        foreach ( $datas as $post ): // $datas as $post の $datas は取得時に設定した変数名、$postは変更不可
+            setup_postdata( $post ); // アーカイブページ同様にthe_titleなどで記事情報を表示できるようにする
+    ?>
+        <div class="single_title">
+            <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
+        </div>
+        <div class="single_date">
+            <span><?php echo mysql2date('Y/n/j', $post->post_date); ?></span>
+        </div>
+    <?php
+        endforeach; 
+        // ↑ ループ終了 ↑
+        else: // 記事情報がなかったら
+    ?>
+    <?php
+        endif;
+        // 一覧情報取得に利用したループをリセットする
+        wp_reset_postdata();
+    ?>
 	</div>
 	<div id="subTitle50pt727171" class="subTitle50pt__727171">
 		<div id="n_3">
-			<span>第33回七夕祭について</span>
+			<span><?php the_title();?></span>
 		</div>
 	</div>
 	<svg class="n_43" viewBox="0 0 1045 4">
@@ -161,31 +152,11 @@
 		</path>
 	</svg>
 	<div id="n_0220210">
-		<span>2022/02/10</span>
+		<span><?php echo mysql2date('Y/n/j', $post->post_date); ?></span>
 	</div>
 	<div id="text22pt4d4d4d" class="text22pt_4d4d4d">
 		<div id="n_021121_______7_10__">
-			<span>2021年12月1日をもって、旧七夕祭実行委員会と<br/>旧秋祭実行委員会は合併し、湘南学祭実行委員会となりました。<br/><br/>旧七夕祭実行委員会及び旧秋祭実行委員会においてキャンパス開催での祭運営における引継ぎが十分でなく、現状両団体が単独で祭運営を行うのは難しいと判断したためです。<br/>両団体の技能や資源を統一することで、円滑な祭運営を目指します。　<br/><br/>今後は、七夕祭を慶應義塾大学湘南藤沢キャンパスを代表するお祭りとし、7月に開催いたします。<br/>例年10月に同キャンパスにて開催しておりました秋祭の実施予定はありません。<br/><br/>合併に関しまして、詳細はこちらをご確認ください。<br/><br/>【第33回七夕祭について】<br/>第33回七夕祭につきましては、以下の通り実施予定です。<br/><br/>　　開催日時：　7月2日土曜日・7月3日日曜日（2日間）<br/><br/>　　開催場所：　慶應義塾大学　湘南藤沢キャンパス<br/><br/>　　開催形態：　キャンパスとオンラインの併用<br/><br/>※上記の内容は変更する場合もございます。<br/>ご理解いただきますようお願いいたします。<br/><br/>第33回七夕祭では、従来「地域の夏祭り」であった七夕祭と「SFCの学園祭」であった秋祭両面の特徴を生かし、キャンパス内外の来場者や祭運営に多くのご支援いただく遠藤地域の方々、祭に参加いただく塾生の皆さんにとってより良い祭となるよう、運営してまいります。<br/><br/>皆さまのご参加お待ちしております！</span>
-		</div>
-	</div>
-	<div id="n_175">
-		<div id="n_0220129_cd">
-			<span>2022/01/29</span>
-		</div>
-		<div id="Text_ce">
-			<span>うなぎを食べました</span>
-		</div>
-		<div id="n_0220127_cf">
-			<span>2022/01/27</span>
-		</div>
-		<div id="Text_cg">
-			<span>ピザはすごい食べものだね</span>
-		</div>
-		<div id="n_0220113_ch">
-			<span>2022/01/13</span>
-		</div>
-		<div id="Text_ci">
-			<span>メロンパンは美味しいよ</span>
+			<span><?php the_content(); ?></span>
 		</div>
 	</div>
 	<div id="n_">
