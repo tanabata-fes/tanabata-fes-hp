@@ -448,6 +448,13 @@
 	font-size: 12px;
 	color: rgba(89,87,87,1);
 }
+.single_date > span {
+	color: rgba(89,87,87,1);
+	font-family: Tsukushi A Round Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+}
 #single_title {
 	position: absolute;
 	overflow: visible;
@@ -459,6 +466,12 @@
 	font-weight: bold;
 	font-size: 18px;
 	color: rgba(89,87,87,1);
+}
+.single_title > a {
+	font-family: Tsukushi A Round Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
 }
 #n_0220127 {
 	left: 0px;
@@ -1442,4 +1455,8 @@
 	left: 0px;
 	top: 0px;
 	overflow: visible;
+}
+a:link, a:visited, a:hover, a:active {
+	color: rgba(89,87,87,1);
+	text-decoration: none;
 }
