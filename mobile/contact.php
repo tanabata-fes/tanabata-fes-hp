@@ -41,7 +41,7 @@
 		<span>MAIL</span>
 	</div>
 	<div id="contacttanabata-fescom">
-		<span>contact@tanabata-fes.com</span>
+		<a href="mailto:contact@tanabata-fes.com" class="mail_link">contact@tanabata-fes.com</a>
 	</div>
 	<svg class="n_125">
 		<rect id="n_125" rx="20" ry="20" x="0" y="0" width="300" height="285">
@@ -56,7 +56,7 @@
 			</rect>
 		</svg>
 		<div id="Twitter">
-			<span>Twitter</span>
+			<a href="https://twitter.com/tanabata_fes" class="sns_link">Twitter</a>
 		</div>
 	</div>
 	<div id="n_23__2" class="________23___2">
@@ -65,7 +65,7 @@
 			</rect>
 		</svg>
 		<div id="Facebook">
-			<span>Facebook</span>
+			<a href="https://www.facebook.com/tanabatafes/" class="sns_link">Facebook</a>
 		</div>
 	</div>
 	<div id="n_23__3" class="________23___3">
@@ -73,8 +73,8 @@
 			<rect id="n_113_bd" rx="10" ry="10" x="0" y="0" width="200" height="50">
 			</rect>
 		</svg>
-		<div id="Instagram">
-			<span>Instagram</span>
+		<div id="Instagram" class="sns_link">
+			<a href="https://www.instagram.com/tanabata_fes/" class="sns_link">Instagram</a>
 		</div>
 	</div>
 	<div id="n_24__8" class="________24___8">
