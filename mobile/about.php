@@ -2,7 +2,7 @@
 <div id="page-about">
 	<div id="n_217">
 		<div id="n_216">
-			<img id="n_215" src="<?php bloginfo('template_url'); ?>/mobile/images/about/n_215.png" srcset= "<?php bloginfo('template_url'); ?>/mobile/images/about/n_215.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/about/n_215@2x.png 2x">
+			<img id="n_215" src="<?php blogInfo('template_url'); ?>/mobile/images/about/n_215.png" srcset="<?php blogInfo('template_url'); ?>/mobile/images/about/n_215.png 1x, <?php blogInfo('template_url'); ?>/mobile/images/about/n_215@2x.png 2x">
 				
 			</svg>
 		</div>
