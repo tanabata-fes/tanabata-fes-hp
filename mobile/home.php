@@ -136,7 +136,7 @@
 					</rect>
 				</svg>
 				<div id="MB_">
-					<span>広報資料（~MB）<br/>ダウンロード</span>
+				    <a href="tanabata-fes.com/pr.pdf"><span>広報資料（7.3MB）<br/>ダウンロード</span></a>
 				</div>
 			</div>
 			<div id="Text_ca">
@@ -148,7 +148,7 @@
 					</rect>
 				</svg>
 				<div id="MB__cb">
-					<span>渉外資料（~MB）<br/>ダウンロード</span>
+				    <a href="tanabata-fes.com/biz.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
 				</div>
 			</div>
 		</div>
