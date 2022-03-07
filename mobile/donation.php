@@ -74,7 +74,7 @@
 			</svg>
 		</div>
 		<div id="Text_bg">
-		    <a href="https://docs.google.com/forms/d/e/1FAIpQLScnWIvUVt9t5YehcGqOit0mT22TSfY1hvCA4WWDRT1ab01EFw/viewform?usp=sf_link%EF%BC%89"><span>支援金受付フォームはこちら</span></a>
+		    <a href="https://docs.google.com/forms/d/e/1FAIpQLScnWIvUVt9t5YehcGqOit0mT22TSfY1hvCA4WWDRT1ab01EFw/viewform?usp=sf_link%EF%BC%89" class="blue_text"><span>支援金受付フォームはこちら</span></a>
 		</div>
 		<svg class="n_1" viewBox="0 0 12 9">
 			<path id="n_1" d="M 6 0 L 12 9 L 0 9 Z">
@@ -95,7 +95,7 @@
 				</rect>
 			</svg>
 			<div id="MB_">
-			    <a href="tanabata-fes.com/biz.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
+			    <a href="tanabata-fes.com/biz.pdf" class="white_text"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
 			</div>
 		</div>
 	</div>
@@ -122,7 +122,7 @@
 			</svg>
 		</div>
 		<div id="Text_bx">
-		    <a href="mailto:biz@tanabata-fes.com"><span>お問い合わせはこちらから</span></a>
+		    <a href="mailto:biz@tanabata-fes.com" class="blue_text"><span>お問い合わせはこちらから</span></a>
 		</div>
 		<svg class="n_1_by" viewBox="0 0 12 9">
 			<path id="n_1_by" d="M 6 0 L 12 9 L 0 9 Z">

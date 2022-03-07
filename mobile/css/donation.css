@@ -38,6 +38,19 @@
 	}
 
 }
+
+/* 手書き開始 */
+.white_text {
+	color: #fff;
+	text-decoration: none;
+}
+
+.blue_text {
+	color: rgba(72,198,200,1);
+	text-decoration: none;
+}
+/* 手書き終わり */
+
 #n_217 {
 	position: absolute;
 	width: 346px;
