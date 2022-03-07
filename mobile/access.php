@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php bloginfo('template_url'); ?>/mobile/css/access.css"/>
-  <script id="applicationScript" type="text/javascript" src="<?php bloginfo('template_url'); ?>/mobile/script.js"></script>
-</head>
 <body>
 <div id="page-access">
 	<div id="n_217">
