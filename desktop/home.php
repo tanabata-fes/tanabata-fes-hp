@@ -299,95 +299,39 @@
         </rect>
       </svg>
       <div id="n_131">
-        <div onclick="application.goToTargetView(event)" id="n_124">
-          <div id="text22pt595757_dz" class="text22pt_595757">
-            <div id="n_0220129">
-              <span>2022/01/29</span>
-            </div>
-          </div>
-          <div id="text22pt595757_d" class="text22pt_595757">
-            <div id="Text_d">
-              <span>うなぎを食べました</span>
-            </div>
-          </div>
+      <?php
+        // 取得したい内容を配列に記載します（不要箇所は省略可）
+        $args = array(
+	    'posts_per_page'   => -1, // 読み込みしたい記事数（全件取得時は-1）
+	    'orderby'          => 'ID', // 何順で記事を読み込むか（省略時は日付順）
+	    'order'            => 'DESC', // 昇順(ASC)か降順か(DESC）
+        );
+    
+        // 配列で指定した内容で、記事情報を取得
+        $datas = get_posts( $args );
+    
+        // 取得した記事情報の表示
+        if ( $datas ): // 記事情報がある場合はforeachで記事情報を表示
+            // ↓ ループ開始 ↓
+            foreach ( $datas as $post ): // $datas as $post の $datas は取得時に設定した変数名、$postは変更不可
+                setup_postdata( $post ); // アーカイブページ同様にthe_titleなどで記事情報を表示できるようにする
+    ?>
+        <div class="single_title">
+            <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
         </div>
-        <div id="n_125">
-          <div id="text22pt595757_ea" class="text22pt_595757">
-            <div id="n_0220127">
-              <span>2022/01/27</span>
-            </div>
-          </div>
-          <div onclick="application.goToTargetView(event)" id="text22pt595757_eb" class="text22pt_595757">
-            <div id="Text_ea">
-              <span>ピザはすごい食べものだね</span>
-            </div>
-          </div>
+        <div class="single_date">
+            <span><?php echo mysql2date('Y/n/j', $post->post_date); ?></span>
         </div>
-        <div onclick="application.goToTargetView(event)" id="n_126">
-          <div id="text22pt595757_ec" class="text22pt_595757">
-            <div id="n_0220113">
-              <span>2022/01/13</span>
-            </div>
-          </div>
-          <div id="text22pt595757_ed" class="text22pt_595757">
-            <div id="Text_ec">
-              <span>メロンパンは美味しいよ</span>
-            </div>
-          </div>
-        </div>
-        <div onclick="application.goToTargetView(event)" id="n_127">
-          <div id="text22pt595757_ee" class="text22pt_595757">
-            <div id="n_0220111">
-              <span>2022/01/11</span>
-            </div>
-          </div>
-          <div id="text22pt595757_eg" class="text22pt_595757">
-            <div id="Text_eh">
-              <span>ディズニーランドに行きたいな</span>
-            </div>
-          </div>
-        </div>
-        <div onclick="application.goToTargetView(event)" id="n_128">
-          <div id="text22pt595757_en" class="text22pt_595757">
-            <div id="n_0220110_eo">
-              <span>2022/01/10</span>
-            </div>
-          </div>
-          <div id="text22pt595757_el" class="text22pt_595757">
-            <div id="Text_em">
-              <span>そういえばあの子何してるかな</span>
-            </div>
-          </div>
-          <div id="text22pt595757_en" class="text22pt_595757">
-            <div id="n_0220110_eo">
-              <span>2022/01/10</span>
-            </div>
-          </div>
-        </div>
-        <div onclick="application.goToTargetView(event)" id="n_129">
-          <div id="text22pt595757_eq" class="text22pt_595757">
-            <div id="n_022017">
-              <span>2022/01/7</span>
-            </div>
-          </div>
-          <div id="text22pt595757_es" class="text22pt_595757">
-            <div id="Text_et">
-              <span>もうすぐ出勤だあ</span>
-            </div>
-          </div>
-        </div>
-        <div onclick="application.goToTargetView(event)" id="n_130">
-          <div id="text22pt595757_ev" class="text22pt_595757">
-            <div id="n_022011">
-              <span>2022/01/1</span>
-            </div>
-          </div>
-          <div id="text22pt595757_ex" class="text22pt_595757">
-            <div id="Text_ey">
-              <span>あけましておめでとう</span>
-            </div>
-          </div>
-        </div>
+    <?php
+        endforeach; 
+        // ↑ ループ終了 ↑
+        else: // 記事情報がなかったら
+    ?>
+    <?php
+        endif;
+        // 一覧情報取得に利用したループをリセットする
+        wp_reset_postdata();
+    ?>
       </div>
     </div>
     <div id="n_133">
@@ -398,14 +342,8 @@
       <div id="n_121">
         <img id="n_120" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_120.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_120.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_120@2x.png 2x">        </svg>
       </div>
-      <svg class="n_84">
-        <rect id="n_84" rx="0" ry="0" x="0" y="0" width="380" height="490">
-        </rect>
-      </svg>
+        <a class="n_84" data-lang="ja" data-dnt="true" href="https://twitter.com/tanabata_fes?ref_src=twsrc%5Etfw">Tweets by tanabata_fes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       <div id="text22pt595757_e" class="text22pt_595757">
-        <div id="Tweet">
-          <span>Tweet埋め込み</span>
-        </div>
       </div>
     </div>
     <svg class="n_81_e">
@@ -417,7 +355,18 @@
     </div>
     <div id="text22pt595757_fa" class="text22pt_595757">
       <div id="Text_fa">
-        <span>カウントダウン埋め込み</span>
+      <div class="countDown">七夕祭まであと
+        <span class="countDownText">
+          <script language="JavaScript">
+            var now = new Date();
+            var point = new Date("2022/07/2");
+            var countdown = Math.ceil((point.getTime() - now.getTime()) / (1000 * 60 * 60 * 24));
+            if (countdown > 0) {
+              document.write(countdown);
+            }
+          </script>
+        </span>日
+      </div>
       </div>
     </div>
     <div id="n_137">
@@ -439,7 +388,7 @@
           </rect>
         </svg>
         <div id="MB_">
-          <span>広報資料（~MB）<br/>ダウンロード</span>
+          <a href="tanabata-fes.com/pr.pdf"><span>広報資料（7.3MB）<br/>ダウンロード</span></a>
         </div>
       </div>
     </div>
@@ -455,7 +404,7 @@
           </rect>
         </svg>
         <div id="MB__fp">
-          <span>渉外資料（~MB）<br/>ダウンロード</span>
+          <a href="tanabata-fes.com/pr.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
         </div>
       </div>
     </div>

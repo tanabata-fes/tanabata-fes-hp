@@ -1245,9 +1245,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#n_0220129 {
-	left: 0px;
-	top: 0px;
+#single_date {
 	position: absolute;
 	overflow: visible;
 	width: 126px;
@@ -1259,6 +1257,13 @@
 	font-size: 22px;
 	color: rgba(89,87,87,1);
 }
+.single_date > span {
+	color: rgba(89,87,87,1);
+	font-family: Tsukushi A Round Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+}
 #text22pt595757_d {
 	position: absolute;
 	width: 196px;
@@ -1267,9 +1272,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Text_d {
-	left: 0px;
-	top: 0px;
+#single_title {
 	position: absolute;
 	overflow: visible;
 	width: 197px;
@@ -1280,6 +1283,12 @@
 	font-weight: bold;
 	font-size: 22px;
 	color: rgba(89,87,87,1);
+}
+.single_title > a {
+	font-family: Tsukushi A Round Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
 }
 #n_125 {
 	position: absolute;
@@ -1673,9 +1682,6 @@
 	left: 0px;
 	top: 0px;
 	overflow: visible;
-}
-#n_84 {
-	fill: rgba(255,255,255,1);
 }
 .n_84 {
 	position: absolute;
@@ -3103,4 +3109,8 @@
 	font-weight: bold;
 	font-size: 18px;
 	color: rgba(89,87,87,1);
+}
+a:link, a:visited, a:hover, a:active {
+	color: rgba(89,87,87,1);
+	text-decoration: none;
 }
