@@ -316,12 +316,14 @@
             foreach ( $datas as $post ): // $datas as $post の $datas は取得時に設定した変数名、$postは変更不可
                 setup_postdata( $post ); // アーカイブページ同様にthe_titleなどで記事情報を表示できるようにする
     ?>
-        <div class="single_title">
-            <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
-        </div>
+      <div class="single_content">
         <div class="single_date">
             <span><?php echo mysql2date('Y/n/j', $post->post_date); ?></span>
         </div>
+        <div class="single_title">
+            <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
+        </div>
+      </div>
     <?php
         endforeach; 
         // ↑ ループ終了 ↑

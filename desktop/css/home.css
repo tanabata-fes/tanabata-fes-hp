@@ -1263,6 +1263,8 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
+	margin-right: 30px;
+	margin-top: auto;
 }
 #text22pt595757_d {
 	position: absolute;
@@ -3121,4 +3123,7 @@
 a:link, a:visited, a:hover, a:active {
 	color: rgba(89,87,87,1);
 	text-decoration: none;
+}
+.single_content{
+	display: flex;
 }
