@@ -342,7 +342,9 @@
       <div id="n_121">
         <img id="n_120" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_120.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_120.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_120@2x.png 2x">        </svg>
       </div>
-        <a class="n_84" data-lang="ja" data-dnt="true" href="https://twitter.com/tanabata_fes?ref_src=twsrc%5Etfw">Tweets by tanabata_fes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <div class="n_84">
+        <a class="twitter-timeline" data-lang="ja" data-dnt="true" data-height="490px" href="https://twitter.com/tanabata_fes?ref_src=twsrc%5Etfw">Tweets by tanabata_fes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
       <div id="text22pt595757_e" class="text22pt_595757">
       </div>
     </div>
