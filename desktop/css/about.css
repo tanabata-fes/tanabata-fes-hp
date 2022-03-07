@@ -431,6 +431,12 @@
 	font-size: 22px;
 	color: rgba(255,255,255,1);
 }
+#MB_ > a:link{
+	color: rgba(255,255,255,1);
+}
+#MB_ > a:visited{
+	color: rgba(255,255,255,1);	
+}
 #footer {
 	position: absolute;
 	width: 731px;
