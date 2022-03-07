@@ -1288,3 +1288,27 @@
 	font-size: 18px;
 	color: rgba(89,87,87,1);
 }
+#Twitter > a:link{
+	color:rgba(255,255,255,1)
+}
+#Twitter > a:visited{
+	color:rgba(255,255,255,1)
+}
+#Facebook > a:link{
+	color:rgba(255,255,255,1)
+}
+#Facebook > a:visited{
+	color:rgba(255,255,255,1)
+}
+#Instagram > a:link{
+	color:rgba(255,255,255,1)
+}
+#Instagram > a:visited{
+	color:rgba(255,255,255,1)
+}
+#contacttanabata-fescom > a:link{
+	color: rgba(0,124,170,1);
+}
+#contacttanabata-fescom > a:visited{
+	color: rgba(0,124,170,1);
+}
