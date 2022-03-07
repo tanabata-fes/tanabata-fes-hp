@@ -2,82 +2,68 @@
 <div id="page-contact">
 	<div id="footer" class="footer">
 		<div id="footerMenu">
-			<div onclick="application.goToTargetView(event)" id="text18pt595757" class="text18pt_595757">
+			<a href="../privacy" id="text18pt595757" class="text18pt_595757">
 				<div id="Text">
 					<span>プライバシーポリシー</span>
 				</div>
-			</div>
-			<div onclick="application.goToTargetView(event)" id="text18pt595757_s" class="text18pt_595757">
+			</a>
+			<a href="../donation" id="text18pt595757_s" class="text18pt_595757">
 				<div id="Text_t">
 					<span>ご協賛・ご寄付</span>
 				</div>
-			</div>
-			<div onclick="application.goToTargetView(event)" id="text18pt595757_u" class="text18pt_595757">
+			</a>
+			<a href="../access" id="text18pt595757_u" class="text18pt_595757">
 				<div id="Text_v">
 					<span>アクセス</span>
 				</div>
-			</div>
-			<div id="text18pt595757_w" class="text18pt_595757">
+			</a>
+			<a href="../contact" id="text18pt595757_w" class="text18pt_595757">
 				<div id="Text_x">
 					<span>お問い合わせ</span>
 				</div>
-			</div>
+			</a>
 			<div id="n_16">
 				<svg class="n_8" viewBox="5.082 7.828 0.136 1.724">
 					<path id="n_8" d="M 5.081999778747559 9.552000045776367 L 5.217999935150146 7.828000068664551 L 5.081999778747559 9.552000045776367 Z">
 					</path>
 				</svg>
 				<div id="n_7">
-					<img id="n_6" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_6@2x.png 2x">
-						
-					</svg>
+					<img id="n_6" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_6@2x.png 2x">					</svg>
 				</div>
 				<svg class="n_9" viewBox="1 5.674 1.647 0.457">
 					<path id="n_9" d="M 1 6.13100004196167 L 2.647000074386597 5.673999786376953 L 1 6.13100004196167 Z">
 					</path>
 				</svg>
 				<div id="n_9_">
-					<img id="n_8_" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_@2x.png 2x">
-						
-					</svg>
+					<img id="n_8_" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_@2x.png 2x">					</svg>
 				</div>
 				<svg class="n_10" viewBox="3.074 0.999 0.88 1.443">
 					<path id="n_10" d="M 3.953999996185303 2.441999912261963 L 3.073999881744385 0.9990000128746033 L 3.953999996185303 2.441999912261963 Z">
 					</path>
 				</svg>
 				<div id="n_11">
-					<img id="n_10_" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_@2x.png 2x">
-						
-					</svg>
+					<img id="n_10_" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_@2x.png 2x">					</svg>
 				</div>
 				<svg class="n_25" viewBox="0 0 1.101 1.349">
 					<path id="n_25" d="M 1.101000308990479 0 L 0 1.348999977111816">
 					</path>
 				</svg>
 				<div id="n_13">
-					<img id="n_12" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_12@2x.png 2x">
-						
-					</svg>
+					<img id="n_12" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_12@2x.png 2x">					</svg>
 				</div>
 				<svg class="n_11_bb" viewBox="8.11 5.928 1.562 0.61">
 					<path id="n_11_bb" d="M 9.671999931335449 6.538000106811523 L 8.109999656677246 5.927999973297119 L 9.671999931335449 6.538000106811523 Z">
 					</path>
 				</svg>
 				<div id="n_15">
-					<img id="n_14" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_14@2x.png 2x">
-						
-					</svg>
+					<img id="n_14" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_14@2x.png 2x">					</svg>
 				</div>
 			</div>
 			<div id="n_18">
-				<img id="n_17" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_17.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_17.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_17@2x.png 2x">
-					
-				</svg>
+				<img id="n_17" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_17.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_17.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_17@2x.png 2x">				</svg>
 			</div>
 			<div id="n_20">
-				<img id="n_19" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_19.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_19.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_19@2x.png 2x">
-					
-				</svg>
+				<img id="n_19" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_19.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_19.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_19@2x.png 2x">				</svg>
 			</div>
 		</div>
 		<div id="Copyright__2023___All_Rights_R">
@@ -86,9 +72,7 @@
 	</div>
 	<div id="pageTitle" class="pageTitle">
 		<div id="n_55">
-			<img id="n_54" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_54.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_54.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_54@2x.png 2x">
-				
-			</svg>
+			<img id="n_54" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_54.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_54.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_54@2x.png 2x">			</svg>
 		</div>
 		<div id="Text_bm">
 			<span>お問い合わせ</span>
@@ -179,84 +163,66 @@
 			</rect>
 		</svg>
 		<div id="header" class="header">
-			<div id="n_186">
-				<img id="n_23" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_23.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_23.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_23@2x.png 2x">
-					
-				</svg>
+			<a href="../contact" id="n_186">
+				<img id="n_23" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_23.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_23.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_23@2x.png 2x">				</svg>
 				<div id="CONTACT_US">
 					<span>CONTACT US!</span>
 				</div>
-			</div>
-			<img onclick="application.goToTargetView(event)" id="n_26" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_26.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_26.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_26@2x.png 2x">
-				
-			</svg>
+			</a>
+			<a href="..">
+				<img id="n_26" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_26.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_26.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_26@2x.png 2x">			</svg>
+			</a>
 			<div id="n_177">
-				<div id="text18pt595757_cn" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_co">
+				<a href="../about" id="text18pt595757_cn" class="text18pt_595757">
+					<div id="Text_co">
 						<span>七夕祭について</span>
 					</div>
-				</div>
+				</a>
 				<div id="n_16_cp">
 					<svg class="n_8_cq" viewBox="5.082 7.828 0.136 1.724">
 						<path id="n_8_cq" d="M 5.081999778747559 9.552000045776367 L 5.217999935150146 7.828000068664551 L 5.081999778747559 9.552000045776367 Z">
 						</path>
 					</svg>
 					<div id="n_7_cr">
-						<img id="n_6_cs" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_cs.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_cs.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_cs@2x.png 2x">
-							
-						</svg>
+						<img id="n_6_cs" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_cs.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_cs.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_cs@2x.png 2x">						</svg>
 					</div>
 					<svg class="n_9_ct" viewBox="1 5.674 1.647 0.457">
 						<path id="n_9_ct" d="M 1 6.13100004196167 L 2.647000074386597 5.673999786376953 L 1 6.13100004196167 Z">
 						</path>
 					</svg>
 					<div id="n_9_cu">
-						<img id="n_8_cv" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_cv.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_cv.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_cv@2x.png 2x">
-							
-						</svg>
+						<img id="n_8_cv" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_cv.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_cv.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_cv@2x.png 2x">						</svg>
 					</div>
 					<svg class="n_10_cw" viewBox="3.074 0.999 0.88 1.443">
 						<path id="n_10_cw" d="M 3.953999996185303 2.441999912261963 L 3.073999881744385 0.9990000128746033 L 3.953999996185303 2.441999912261963 Z">
 						</path>
 					</svg>
 					<div id="n_11_cx">
-						<img id="n_10_cy" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_cy.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_cy.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_cy@2x.png 2x">
-							
-						</svg>
+						<img id="n_10_cy" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_cy.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_cy.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_cy@2x.png 2x">						</svg>
 					</div>
 					<svg class="n_25_cz" viewBox="0 0 1.101 1.349">
 						<path id="n_25_cz" d="M 1.101000308990479 0 L 0 1.348999977111816">
 						</path>
 					</svg>
 					<div id="n_13_c">
-						<img id="n_12_c" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_c.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_c.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_c@2x.png 2x">
-							
-						</svg>
+						<img id="n_12_c" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_c.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_c.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_c@2x.png 2x">						</svg>
 					</div>
 					<svg class="n_11_c" viewBox="8.11 5.928 1.562 0.61">
 						<path id="n_11_c" d="M 9.671999931335449 6.538000106811523 L 8.109999656677246 5.927999973297119 L 9.671999931335449 6.538000106811523 Z">
 						</path>
 					</svg>
 					<div id="n_15_c">
-						<img id="n_14_c" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_c.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_c.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_c@2x.png 2x">
-							
-						</svg>
+						<img id="n_14_c" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_c.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_c.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_c@2x.png 2x">						</svg>
 					</div>
 				</div>
 				<div id="n_18_c">
-					<img id="n_17_c" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_17_c.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_17_c.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_17_c@2x.png 2x">
-						
-					</svg>
+					<img id="n_17_c" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_17_c.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_17_c.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_17_c@2x.png 2x">					</svg>
 				</div>
 				<div id="n_20_c">
-					<img id="n_19_c" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_19_c.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_19_c.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_19_c@2x.png 2x">
-						
-					</svg>
+					<img id="n_19_c" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_19_c.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_19_c.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_19_c@2x.png 2x">					</svg>
 				</div>
 				<div id="n_22">
-					<img id="n_21" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_21.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_21.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_21@2x.png 2x">
-						
-					</svg>
+					<img id="n_21" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_21.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_21.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_21@2x.png 2x">					</svg>
 				</div>
 				<div id="n_164">
 					<svg class="n_8_dc" viewBox="5.082 7.828 0.136 1.724">
@@ -264,77 +230,62 @@
 						</path>
 					</svg>
 					<div id="n_7_dd">
-						<img id="n_6_de" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_de.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_de.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_de@2x.png 2x">
-							
-						</svg>
+						<img id="n_6_de" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_de.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_de.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_6_de@2x.png 2x">						</svg>
 					</div>
 					<svg class="n_9_df" viewBox="1 5.674 1.647 0.457">
 						<path id="n_9_df" d="M 1 6.13100004196167 L 2.647000074386597 5.673999786376953 L 1 6.13100004196167 Z">
 						</path>
 					</svg>
 					<div id="n_9_dg">
-						<img id="n_8_dh" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_dh.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_dh.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_dh@2x.png 2x">
-							
-						</svg>
+						<img id="n_8_dh" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_dh.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_dh.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_8_dh@2x.png 2x">						</svg>
 					</div>
 					<svg class="n_10_di" viewBox="3.074 0.999 0.88 1.443">
 						<path id="n_10_di" d="M 3.953999996185303 2.441999912261963 L 3.073999881744385 0.9990000128746033 L 3.953999996185303 2.441999912261963 Z">
 						</path>
 					</svg>
 					<div id="n_11_dj">
-						<img id="n_10_dk" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_dk.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_dk.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_dk@2x.png 2x">
-							
-						</svg>
+						<img id="n_10_dk" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_dk.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_dk.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_10_dk@2x.png 2x">						</svg>
 					</div>
 					<svg class="n_25_dl" viewBox="0 0 1.101 1.349">
 						<path id="n_25_dl" d="M 1.101000308990479 0 L 0 1.348999977111816">
 						</path>
 					</svg>
 					<div id="n_13_dm">
-						<img id="n_12_dn" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_dn.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_dn.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_dn@2x.png 2x">
-							
-						</svg>
+						<img id="n_12_dn" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_dn.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_dn.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_12_dn@2x.png 2x">						</svg>
 					</div>
 					<svg class="n_11_do" viewBox="8.11 5.928 1.562 0.61">
 						<path id="n_11_do" d="M 9.671999931335449 6.538000106811523 L 8.109999656677246 5.927999973297119 L 9.671999931335449 6.538000106811523 Z">
 						</path>
 					</svg>
 					<div id="n_15_dp">
-						<img id="n_14_dq" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_dq.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_dq.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_dq@2x.png 2x">
-							
-						</svg>
+						<img id="n_14_dq" src="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_dq.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_dq.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/contact/n_14_dq@2x.png 2x">						</svg>
 					</div>
 				</div>
-				<div id="text18pt595757_dr" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_ds">
+				<a href="../committee" id="text18pt595757_dr" class="text18pt_595757">
+					<div id="Text_ds">
 						<span>実行委員会</span>
 					</div>
-				</div>
-				<div onclick="application.goToTargetView(event)" id="text18pt595757_dt" class="text18pt_595757">
+				</a>
+				<a href="../group" id="text18pt595757_dt" class="text18pt_595757">
 					<div id="Text_du">
 						<span>参加団体の方へ</span>
 					</div>
-				</div>
-				<div id="text18pt595757_dv" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_dw">
+				</a>
+				<a href="../donation" id="text18pt595757_dv" class="text18pt_595757">
+					<div id="Text_dw">
 						<span>ご協賛・ご寄付</span>
 					</div>
-				</div>
-				<div id="text18pt595757_dz" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_d">
+				</a>
+				<a href="../access" id="text18pt595757_dz" class="text18pt_595757">
+					<div id="Text_d">
 						<span>アクセス</span>
 					</div>
-				</div>
-				<div id="text18pt595757_dz" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_d">
-						<span>アクセス</span>
-					</div>
-				</div>
-				<div id="text18pt595757_d" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_ea">
+				</a>
+				<a href="<?php echo get_recently_post(); ?>" id="text18pt595757_d" class="text18pt_595757">
+					<div id="Text_ea">
 						<span>お知らせ</span>
 					</div>
-				</div>
+				</a>
 			</div>
 		</div>
 	</div>
