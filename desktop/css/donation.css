@@ -715,6 +715,12 @@
 	font-size: 22px;
 	color: rgba(255,255,255,1);
 }
+#MB_ > a:link{
+	color: rgba(255,255,255,1);
+}
+#MB_ > a:visited{
+	color: rgba(255,255,255,1);	
+}
 #subTitle50pt727171_ci {
 	position: absolute;
 	width: 300px;
@@ -942,6 +948,12 @@
 	font-size: 18px;
 	color: rgba(72,198,200,1);
 }
+#Text_c > a:link{
+	color: rgba(72,198,200,1);
+}
+#Text_c > a:visited{
+	color: rgba(72,198,200,1);	
+}
 #n_1 {
 	fill: rgba(72,198,200,1);
 }
@@ -1000,6 +1012,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 18px;
+	color: rgba(72,198,200,1);
+}
+#Text_da > a:link {
 	color: rgba(72,198,200,1);
 }
 #n_1_c {
@@ -1633,4 +1648,7 @@
 	font-weight: bold;
 	font-size: 18px;
 	color: rgba(89,87,87,1);
+}
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
 }

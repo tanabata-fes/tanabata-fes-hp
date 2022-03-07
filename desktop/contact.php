@@ -86,10 +86,9 @@
 		<div id="n_52-0882_5322_">
 			<span>〒252-0882　神奈川県藤沢市遠藤5322<br/>慶應義塾大学湘南藤沢キャンパス</span>
 		</div>
-		<svg class="n_103">
-			<rect id="n_103" rx="0" ry="0" x="0" y="0" width="500" height="500">
-			</rect>
-		</svg>
+		<div class="n_103">
+		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3252.6952761774933!2d139.4250855155249!3d35.388013080263725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60185394acdc07c3%3A0xc281fed97a64744a!2z5oW25oeJ576p5aG-5aSn5a2m5rmY5Y2X6Jek5rKi44Kt44Oj44Oz44OR44K5!5e0!3m2!1sja!2sjp!4v1646668371929!5m2!1sja!2sjp" width="500" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+		</div>
 		<div id="subTitle50pt727171" class="subTitle50pt__727171">
 			<div id="ADDRESS">
 				<span>ADDRESS</span>
@@ -97,7 +96,6 @@
 		</div>
 		<div id="text22pt595757" class="text22pt_595757">
 			<div id="Google_map">
-				<span>Google map埋め込み</span>
 			</div>
 		</div>
 	</div>
@@ -107,7 +105,7 @@
 	</svg>
 	<div id="n_18__1" class="________18___1">
 		<div id="contacttanabata-fescom">
-			<span>contact@tanabata-fes.com</span>
+			<a href="mailto:contact@tanabata-fes.com"><span>contact@tanabata-fes.com</span></a>
 		</div>
 	</div>
 	<div id="subTitle50pt727171_by" class="subTitle50pt__727171">
@@ -131,7 +129,7 @@
 		</svg>
 		<div id="text22pt595757_b" class="text22pt_595757">
 			<div id="Twitter">
-				<span>Twitter</span>
+				<a href="https://twitter.com/tanabata_fes"><span>Twitter</span></a>
 			</div>
 		</div>
 	</div>
@@ -142,7 +140,7 @@
 		</svg>
 		<div id="text22pt595757_ca" class="text22pt_595757">
 			<div id="Facebook">
-				<span>Facebook</span>
+				<a href="https://www.facebook.com/tanabatafes/"><span>Facebook</span></a>
 			</div>
 		</div>
 	</div>
@@ -153,7 +151,7 @@
 		</svg>
 		<div id="text22pt595757_cd" class="text22pt_595757">
 			<div id="Instagram">
-				<span>Instagram</span>
+				<a href="https://www.instagram.com/tanabata_fes/"><span>Instagram</span></a>
 			</div>
 		</div>
 	</div>

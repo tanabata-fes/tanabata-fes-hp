@@ -29,7 +29,7 @@
 			<span>ロゴについて</span>
 		</div>
 	</div>
-	<div id="LOGO">
+	<div id="LOGOS">
 		<img id="n_60" src= "<?php bloginfo('template_url'); ?>/mobile/images/about/n_60.png" srcset= "<?php bloginfo('template_url'); ?>/mobile/images/about/n_60.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/about/n_60@2x.png 2x">
 			
 		</svg>

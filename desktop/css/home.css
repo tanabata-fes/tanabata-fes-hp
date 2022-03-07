@@ -1263,6 +1263,8 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
+	margin-right: 30px;
+	margin-top: auto;
 }
 #text22pt595757_d {
 	position: absolute;
@@ -1684,6 +1686,14 @@
 	overflow: visible;
 }
 .n_84 {
+	position: absolute;
+	overflow: visible;
+	width: 380px;
+	height: 490px;
+	left: 53px;
+	top: 166px;
+}
+.n_84 > twitter-timeline {
 	position: absolute;
 	overflow: visible;
 	width: 380px;
@@ -3113,4 +3123,7 @@
 a:link, a:visited, a:hover, a:active {
 	color: rgba(89,87,87,1);
 	text-decoration: none;
+}
+.single_content{
+	display: flex;
 }

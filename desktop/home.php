@@ -316,12 +316,14 @@
             foreach ( $datas as $post ): // $datas as $post の $datas は取得時に設定した変数名、$postは変更不可
                 setup_postdata( $post ); // アーカイブページ同様にthe_titleなどで記事情報を表示できるようにする
     ?>
-        <div class="single_title">
-            <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
-        </div>
+      <div class="single_content">
         <div class="single_date">
             <span><?php echo mysql2date('Y/n/j', $post->post_date); ?></span>
         </div>
+        <div class="single_title">
+            <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
+        </div>
+      </div>
     <?php
         endforeach; 
         // ↑ ループ終了 ↑
@@ -342,7 +344,9 @@
       <div id="n_121">
         <img id="n_120" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_120.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_120.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_120@2x.png 2x">        </svg>
       </div>
-        <a class="n_84" data-lang="ja" data-dnt="true" href="https://twitter.com/tanabata_fes?ref_src=twsrc%5Etfw">Tweets by tanabata_fes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <div class="n_84">
+        <a class="twitter-timeline" data-lang="ja" data-dnt="true" data-height="490px" href="https://twitter.com/tanabata_fes?ref_src=twsrc%5Etfw">Tweets by tanabata_fes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
       <div id="text22pt595757_e" class="text22pt_595757">
       </div>
     </div>
