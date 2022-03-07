@@ -38,6 +38,82 @@
 	}
 
 }
+
+/* 手書き始め */
+#sidebar {
+	overflow-x: scroll;
+	width: 100%;
+	height: 100%;
+	scrollbar-width: none;  /* Firefox */
+}
+
+#sidebar::-webkit-scrollbar {  /* Chrome, Safari */
+	display: none;
+}
+
+#sidebar>div {
+	display: inline-flex;
+	height: 100%;
+}
+
+.post {
+	position: relative;
+	display: block;
+	width: 350;
+	height: 250px;
+	flex: 0 1 350px;
+	border-radius: 30px;
+	background-color: #F7F8F8;
+	margin-left: 20px; margin-right: 20px;
+	text-decoration: none;
+}
+
+.post:first-child {
+	margin-left: 120pt;
+}
+.post:last-child {
+	margin-right: 120pt;
+}
+
+.post_tag {
+	display: block;
+	width: 120px;
+	height: 36px;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px;
+	margin: 20px;
+	border-radius: 18px;
+	vertical-align: middle;
+	color: #FFF;
+	text-decoration: none;
+}
+
+.post_title {
+	font-size: 22pt;
+	width: 100%;
+	padding: 20px;
+	position: absolute;
+	top: 140px;
+	color: #595757;
+	text-align: right;
+}
+
+.post_thumnail {
+	position: absolute;
+	width: 100%; height: 85px;
+	top: 70px; left: 0pt;
+}
+
+#no_post {
+	text-align: center;
+	width: 100%; height: 100%;
+	font-size: 15px;
+	vertical-align: middle;
+}
+/* 手書き終わり */
+
 #orangeBackground {
 	fill: rgba(248,195,99,1);
 }

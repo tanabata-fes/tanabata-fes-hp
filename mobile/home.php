@@ -289,6 +289,7 @@
 		</div>
 	</div>
 	<div id="n_6_dt">
+		<!-- 手書き始め -->
 		<div id="sidebar">
 			<div>
 				<?php 
@@ -335,6 +336,7 @@
 				?>
 			</div>
 		</div>
+		<!-- 手書き終わり -->
 	</div>
 	<div id="header" class="header">
 		<svg class="n_119">

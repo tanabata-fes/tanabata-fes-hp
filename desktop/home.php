@@ -17,275 +17,54 @@
       <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
     </div>
     <div id="n_1">
-      <div id="n_1_w">
-        <div id="n_168" class="_____168">
-          <div id="sliderBoxGroup">
-            <div id="sliderBox" class="sliderBox">
-              <svg class="n_17">
-                <rect onclick="application.goToTargetView(event)" id="n_17" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                </rect>
-              </svg>
-            </div>
-            <div onclick="application.goToTargetView(event)" id="n_37">
-              <div id="sliderBox_" class="sliderBox">
-                <svg class="n_17_">
-                  <rect id="n_17_" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                  </rect>
-                </svg>
-              </div>
-              <div id="sliderIndex" class="sliderIndex">
-                <svg class="n_18">
-                  <rect id="n_18" rx="18" ry="18" x="0" y="0" width="119" height="36">
-                  </rect>
-                </svg>
-                <div id="ABOUT__US">
-                  <span>ABOUT  US</span>
-                </div>
-              </div>
-              <div id="text22pt595757" class="text22pt_595757">
-                <div id="Text_">
-                  <span>湘南学祭実行委員会とは？</span>
-                </div>
-              </div>
-              <div id="n_30">
-                <img id="n_29" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_29@2x.png 2x">                </svg>
-              </div>
-            </div>
-            <div id="n_41">
-              <div onclick="application.goToTargetView(event)" id="sliderBox_bc" class="sliderBox">
-                <svg class="n_17_bd">
-                  <rect id="n_17_bd" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                  </rect>
-                </svg>
-              </div>
-              <div id="n_38">
-                <div id="sliderIndex_bf" class="sliderIndex">
-                  <svg class="n_18_bg">
-                    <rect id="n_18_bg" rx="18" ry="18" x="0" y="0" width="119" height="36">
-                    </rect>
-                  </svg>
-                  <div id="ARCHIVES">
-                    <span>ARCHIVES</span>
-                  </div>
-                </div>
-                <div id="text22pt595757_bi" class="text22pt_595757">
-                  <div id="n_2">
-                    <span>第32回七夕祭</span>
-                  </div>
-                </div>
-                <div id="text18pt595757" class="text18pt_595757">
-                  <div id="Text_bl">
-                    <span>ご来場ありがとうございました！</span>
-                  </div>
-                </div>
-                <svg class="n_22">
-                  <rect id="n_22" rx="0" ry="0" x="0" y="0" width="350" height="85">
-                  </rect>
-                </svg>
-              </div>
-            </div>
-            <div id="n_40">
-              <div onclick="application.goToTargetView(event)" id="sliderBox_bo" class="sliderBox">
-                <svg class="n_17_bp">
-                  <rect id="n_17_bp" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                  </rect>
-                </svg>
-              </div>
-              <div id="n_39">
-                <img id="n_33" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_33@2x.png 2x">                </svg>
-                <div id="n_">
-                  <span>本年度テーマは<br/>「満開」に決定！</span>
-                </div>
-                <svg class="n_18_bt">
-                  <rect id="n_18_bt" rx="18" ry="18" x="0" y="0" width="119" height="36">
-                  </rect>
-                </svg>
-                <div id="ABOUT__US_bu">
-                  <span>ABOUT  US</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div id="n_168_bv" class="_____168">
-          <div id="sliderBoxGroup_bw">
-            <div id="sliderBox_bx" class="sliderBox">
-              <svg class="n_17_by">
-                <rect id="n_17_by" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                </rect>
-              </svg>
-            </div>
-            <div onclick="application.goToTargetView(event)" id="n_37_bz">
-              <div id="sliderBox_b" class="sliderBox">
-                <svg class="n_17_b">
-                  <rect id="n_17_b" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                  </rect>
-                </svg>
-              </div>
-              <div id="sliderIndex_b" class="sliderIndex">
-                <svg class="n_18_b">
-                  <rect id="n_18_b" rx="18" ry="18" x="0" y="0" width="119" height="36">
-                  </rect>
-                </svg>
-                <div id="ABOUT__US_b">
-                  <span>ABOUT  US</span>
-                </div>
-              </div>
-              <div id="text22pt595757_b" class="text22pt_595757">
-                <div id="Text_b">
-                  <span>湘南学祭実行委員会とは？</span>
-                </div>
-              </div>
-              <div id="n_30_b">
-                <img id="n_29_b" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_b.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_b.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_29_b@2x.png 2x">                </svg>
-              </div>
-            </div>
-            <div id="n_41_b">
-              <div id="sliderBox_ca" class="sliderBox">
-                <svg class="n_17_cb">
-                  <rect id="n_17_cb" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                  </rect>
-                </svg>
-              </div>
-              <div id="n_38_cc">
-                <div id="sliderIndex_cd" class="sliderIndex">
-                  <svg class="n_18_ce">
-                    <rect id="n_18_ce" rx="18" ry="18" x="0" y="0" width="119" height="36">
-                    </rect>
-                  </svg>
-                  <div id="ARCHIVES_cf">
-                    <span>ARCHIVES</span>
-                  </div>
-                </div>
-                <div id="text22pt595757_cg" class="text22pt_595757">
-                  <div id="n_2_ch">
-                    <span>第32回七夕祭</span>
-                  </div>
-                </div>
-                <div id="text18pt595757_ci" class="text18pt_595757">
-                  <div id="Text_cj">
-                    <span>ご来場ありがとうございました！</span>
-                  </div>
-                </div>
-                <svg class="n_22_ck">
-                  <rect id="n_22_ck" rx="0" ry="0" x="0" y="0" width="350" height="85">
-                  </rect>
-                </svg>
-              </div>
-            </div>
-            <div id="n_40_cl">
-              <div id="sliderBox_cm" class="sliderBox">
-                <svg class="n_17_cn">
-                  <rect id="n_17_cn" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                  </rect>
-                </svg>
-              </div>
-              <div id="n_39_co">
-                <img id="n_33_cp" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_cp.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_cp.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_33_cp@2x.png 2x">                </svg>
-                <div id="n__cq">
-                  <span>本年度テーマは<br/>「満開」に決定！</span>
-                </div>
-                <svg class="n_18_cr">
-                  <rect id="n_18_cr" rx="18" ry="18" x="0" y="0" width="119" height="36">
-                  </rect>
-                </svg>
-                <div id="ABOUT__US_cs">
-                  <span>ABOUT  US</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div id="n_168_ct" class="_____168">
-          <div id="sliderBoxGroup_cu">
-            <div id="sliderBox_cv" class="sliderBox">
-              <svg class="n_17_cw">
-                <rect id="n_17_cw" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                </rect>
-              </svg>
-            </div>
-            <div id="n_37_cx">
-              <div id="sliderBox_cy" class="sliderBox">
-                <svg class="n_17_cz">
-                  <rect id="n_17_cz" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                  </rect>
-                </svg>
-              </div>
-              <div id="sliderIndex_c" class="sliderIndex">
-                <svg class="n_18_c">
-                  <rect id="n_18_c" rx="18" ry="18" x="0" y="0" width="119" height="36">
-                  </rect>
-                </svg>
-                <div id="ABOUT__US_c">
-                  <span>ABOUT  US</span>
-                </div>
-              </div>
-              <div id="text22pt595757_c" class="text22pt_595757">
-                <div id="Text_c">
-                  <span>湘南学祭実行委員会とは？</span>
-                </div>
-              </div>
-              <div id="n_30_c">
-                <img id="n_29_c" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_c.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_29_c.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_29_c@2x.png 2x">                </svg>
-              </div>
-            </div>
-            <div id="n_41_c">
-              <div id="sliderBox_c" class="sliderBox">
-                <svg class="n_17_c">
-                  <rect id="n_17_c" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                  </rect>
-                </svg>
-              </div>
-              <div id="n_38_da">
-                <div id="sliderIndex_db" class="sliderIndex">
-                  <svg class="n_18_dc">
-                    <rect id="n_18_dc" rx="18" ry="18" x="0" y="0" width="119" height="36">
-                    </rect>
-                  </svg>
-                  <div id="ARCHIVES_dd">
-                    <span>ARCHIVES</span>
-                  </div>
-                </div>
-                <div id="text22pt595757_de" class="text22pt_595757">
-                  <div id="n_2_df">
-                    <span>第32回七夕祭</span>
-                  </div>
-                </div>
-                <div id="text18pt595757_dg" class="text18pt_595757">
-                  <div id="Text_dh">
-                    <span>ご来場ありがとうございました！</span>
-                  </div>
-                </div>
-                <svg class="n_22_di">
-                  <rect id="n_22_di" rx="0" ry="0" x="0" y="0" width="350" height="85">
-                  </rect>
-                </svg>
-              </div>
-            </div>
-            <div id="n_40_dj">
-              <div id="sliderBox_dk" class="sliderBox">
-                <svg class="n_17_dl">
-                  <rect id="n_17_dl" rx="20" ry="20" x="0" y="0" width="350" height="250">
-                  </rect>
-                </svg>
-              </div>
-              <div id="n_39_dm">
-                <img id="n_33_dn" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_dn.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_33_dn.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_33_dn@2x.png 2x">                </svg>
-                <div id="n__do">
-                  <span>本年度テーマは<br/>「満開」に決定！</span>
-                </div>
-                <svg class="n_18_dp">
-                  <rect id="n_18_dp" rx="18" ry="18" x="0" y="0" width="119" height="36">
-                  </rect>
-                </svg>
-                <div id="ABOUT__US_dq">
-                  <span>ABOUT  US</span>
-                </div>
-              </div>
-            </div>
-          </div>
+      <!-- トップの投稿。手書き部分始め -->
+      <div id="sidebar">
+        <div>
+          <?php 
+            $args = array(
+              'posts_per_page' => 8,
+              'orderby' => 'ID',
+              'order' => 'DESC',
+              'category_name' => 'TOP',
+            );
+            $datas = get_posts($args);
+            if ($datas):
+              foreach ($datas as $post):
+                setup_postdata($post);
+          ?>
+            <a href="<?php echo the_permalink(); ?>" class="post">
+              <?php 
+                $tags = get_the_tags();
+                if ($tags):
+                  $tag = $tags[0]->name;
+                else:
+                  $tag = "NO TAG";
+                endif;
+
+                $color_map = array(
+                  "ABOUT US" => "#007CAA",
+                  "ARCHIVES" => "#3DBBBC",
+                  "NO TAG"   => "#C0C0C0",
+                );
+                $color = $color_map[$tag];
+              ?>
+              
+              <span class="post_tag" style="background-color: <?php echo $color; ?>"><?php echo $tag; ?></span>
+              <span class="post_title"><?php echo the_title(); ?></span>
+              <?php the_post_thumbnail(array(250, 60), array("class" => "post_thumnail"))?>
+            </a>
+          <?php
+              endforeach;
+            else:
+          ?>
+            <span id="no_post">まだ投稿はありません</span>
+          <?php
+            endif;
+            wp_reset_postdata();
+          ?>
         </div>
       </div>
+      <!-- 手書き部分終わり -->
     </div>
     <div id="n_147">
       <img id="n_146" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_146@2x.png 2x">      </svg>
@@ -408,7 +187,7 @@
           </rect>
         </svg>
         <div id="MB__fp">
-          <a href="tanabata-fes.com/pr.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
+          <a href="tanabata-fes.com/biz.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
         </div>
       </div>
     </div>
