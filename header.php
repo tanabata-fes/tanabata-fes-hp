@@ -50,9 +50,9 @@
     <?php endif; ?>
     <?php if ( is_page('contact') ): ?>
         <?php if (wp_is_mobile()): ?>
-            <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/home.css">
+            <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/contact.css">
         <?php else: ?>
-            <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/desktop/css/home.css">
+            <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/desktop/css/contact.css">
         <?php endif; ?>
     <?php endif; ?>
     <?php if ( is_page('donation') ): ?>
