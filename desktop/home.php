@@ -408,7 +408,7 @@
           </rect>
         </svg>
         <div id="MB__fp">
-          <a href="tanabata-fes.com/pr.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
+          <a href="tanabata-fes.com/biz.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
         </div>
       </div>
     </div>
