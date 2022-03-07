@@ -173,7 +173,7 @@
 				</rect>
 			</svg>
 			<div id="MB_">
-			  <a href="tanabata-fes.com/pr.pdf"><span>広報資料（7.3MB）<br/>ダウンロード</span></a>
+			  <a href="tanabata-fes.com/biz.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
 			</div>
 		</div>
 	</div>
