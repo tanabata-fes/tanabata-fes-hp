@@ -39,6 +39,15 @@
 
 }
 
+
+/* 手書き始め */
+body {
+	line-height: 1.7;
+}
+/* 手書き終わり */
+
+
+
 #MB_>a {
 	color: #fff;
 	text-decoration: none;	

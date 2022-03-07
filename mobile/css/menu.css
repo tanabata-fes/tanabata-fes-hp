@@ -38,6 +38,15 @@
 	}
 
 }
+
+
+/* 手書き始め */
+body {
+	line-height: 1.7;
+}
+/* 手書き終わり */
+
+
 #n_208 {
 	position: absolute;
 	width: 350px;

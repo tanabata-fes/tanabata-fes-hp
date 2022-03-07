@@ -40,6 +40,11 @@
 }
 
 /* 手書き開始 */
+
+body {
+	line-height: 1.7;
+}
+
 .white_text {
 	color: #fff;
 	text-decoration: none;

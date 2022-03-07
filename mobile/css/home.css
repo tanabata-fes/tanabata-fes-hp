@@ -40,6 +40,11 @@
 }
 
 /* 手書き始め */
+
+body {
+	line-height: 1.7;
+}
+
 #sidebar {
 	overflow-x: scroll;
 	width: 100%;
