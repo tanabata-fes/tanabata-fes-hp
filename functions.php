@@ -1,4 +1,6 @@
 <?php
+add_theme_support('post-thumbnails');
+
 function is_mobile(){
   $useragents = array(
     "iPhone", // iPhone

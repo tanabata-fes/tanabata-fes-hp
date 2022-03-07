@@ -284,180 +284,50 @@
 		</div>
 	</div>
 	<div id="n_6_dt">
-		<div id="sliderBoxGroup">
-			<div id="sliderBoxGroup_dv" class="sliderBoxGroup">
-				<div id="sliderBox" class="sliderBox">
-					<svg class="n_17_dx">
-						<rect id="n_17_dx" rx="20" ry="20" x="0" y="0" width="253" height="181">
-						</rect>
-					</svg>
-				</div>
-				<div onclick="application.goToTargetView(event)" id="n_37">
-					<div id="sliderBox_dz" class="sliderBox">
-						<svg class="n_17_d">
-							<rect id="n_17_d" rx="20" ry="20" x="0" y="0" width="253" height="181">
-							</rect>
-						</svg>
-					</div>
-					<div id="sliderIndex" class="sliderIndex">
-						<svg class="n_18_d">
-							<rect id="n_18_d" rx="13" ry="13" x="0" y="0" width="86" height="26">
-							</rect>
-						</svg>
-						<div id="ABOUT__US">
-							<span>ABOUT  US</span>
-						</div>
-					</div>
-					<div id="text22pt595757_d" class="text22pt_595757">
-						<div id="Text_d">
-							<span>湘南学祭実行委員会とは？</span>
-						</div>
-					</div>
-					<div id="n_30">
-						<img id="n_29" src="<?php bloginfo('template_url'); ?>/mobile/images/home/n_29.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/home/n_29.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/home/n_29@2x.png 2x">						</svg>
-					</div>
-				</div>
-				<div id="n_41">
-					<div id="sliderBox_d" class="sliderBox">
-						<svg class="n_17_ea">
-							<rect id="n_17_ea" rx="20" ry="20" x="0" y="0" width="253" height="181">
-							</rect>
-						</svg>
-					</div>
-					<div id="n_38_eb">
-						<div id="sliderIndex_ec" class="sliderIndex">
-							<svg class="n_18_ed">
-								<rect id="n_18_ed" rx="13" ry="13" x="0" y="0" width="86" height="26">
-								</rect>
-							</svg>
-							<div id="ARCHIVES">
-								<span>ARCHIVES</span>
-							</div>
-						</div>
-						<div id="text22pt595757_ef" class="text22pt_595757">
-							<div id="n_2">
-								<span>第32回七夕祭</span>
-							</div>
-						</div>
-						<div id="headerMenu_eh" class="headerMenu">
-							<div id="Text_ei">
-								<span>ご来場ありがとうございました！</span>
-							</div>
-						</div>
-						<svg class="n_22">
-							<rect id="n_22" rx="0" ry="0" x="0" y="0" width="252.889" height="61.416">
-							</rect>
-						</svg>
-					</div>
-				</div>
-				<div id="n_40">
-					<div id="sliderBox_el" class="sliderBox">
-						<svg class="n_17_em">
-							<rect id="n_17_em" rx="20" ry="20" x="0" y="0" width="253" height="181">
-							</rect>
-						</svg>
-					</div>
-					<div id="n_39">
-						<img id="n_33" src="<?php bloginfo('template_url'); ?>/mobile/images/home/n_33.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/home/n_33.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/home/n_33@2x.png 2x">						</svg>
-						<div id="n_">
-							<span>本年度テーマは<br/>「満開」に決定！</span>
-						</div>
-						<svg class="n_18_eq">
-							<rect id="n_18_eq" rx="13" ry="13" x="0" y="0" width="86" height="26">
-							</rect>
-						</svg>
-						<div id="ABOUT__US_er">
-							<span>ABOUT  US</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div id="sliderBoxGroup_es" class="sliderBoxGroup">
-				<div id="sliderBox_et" class="sliderBox">
-					<svg class="n_17_eu">
-						<rect id="n_17_eu" rx="20" ry="20" x="0" y="0" width="253" height="181">
-						</rect>
-					</svg>
-				</div>
-				<div id="n_37_ev">
-					<div id="sliderBox_ew" class="sliderBox">
-						<svg class="n_17_ex">
-							<rect id="n_17_ex" rx="20" ry="20" x="0" y="0" width="253" height="181">
-							</rect>
-						</svg>
-					</div>
-					<div id="sliderIndex_ey" class="sliderIndex">
-						<svg class="n_18_ez">
-							<rect id="n_18_ez" rx="13" ry="13" x="0" y="0" width="86" height="26">
-							</rect>
-						</svg>
-						<div id="ABOUT__US_e">
-							<span>ABOUT  US</span>
-						</div>
-					</div>
-					<div id="text22pt595757_e" class="text22pt_595757">
-						<div id="Text_e">
-							<span>湘南学祭実行委員会とは？</span>
-						</div>
-					</div>
-					<div id="n_30_e">
-						<img id="n_29_e" src="<?php bloginfo('template_url'); ?>/mobile/images/home/n_29_e.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/home/n_29_e.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/home/n_29_e@2x.png 2x">						</svg>
-					</div>
-				</div>
-				<div id="n_41_e">
-					<div id="sliderBox_e" class="sliderBox">
-						<svg class="n_17_e">
-							<rect id="n_17_e" rx="20" ry="20" x="0" y="0" width="253" height="181">
-							</rect>
-						</svg>
-					</div>
-					<div id="n_38_e">
-						<div id="sliderIndex_e" class="sliderIndex">
-							<svg class="n_18_fa">
-								<rect id="n_18_fa" rx="13" ry="13" x="0" y="0" width="86" height="26">
-								</rect>
-							</svg>
-							<div id="ARCHIVES_fb">
-								<span>ARCHIVES</span>
-							</div>
-						</div>
-						<div id="text22pt595757_fc" class="text22pt_595757">
-							<div id="n_2_fd">
-								<span>第32回七夕祭</span>
-							</div>
-						</div>
-						<div id="headerMenu_fe" class="headerMenu">
-							<div id="Text_ff">
-								<span>ご来場ありがとうございました！</span>
-							</div>
-						</div>
-						<svg class="n_22_fg">
-							<rect id="n_22_fg" rx="0" ry="0" x="0" y="0" width="252.889" height="61.416">
-							</rect>
-						</svg>
-					</div>
-				</div>
-				<div id="n_40_fh">
-					<div id="sliderBox_fi" class="sliderBox">
-						<svg class="n_17_fj">
-							<rect id="n_17_fj" rx="20" ry="20" x="0" y="0" width="253" height="181">
-							</rect>
-						</svg>
-					</div>
-					<div id="n_39_fk">
-						<img id="n_33_fl" src="<?php bloginfo('template_url'); ?>/mobile/images/home/n_33_fl.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/home/n_33_fl.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/home/n_33_fl@2x.png 2x">						</svg>
-						<div id="n__fm">
-							<span>本年度テーマは<br/>「満開」に決定！</span>
-						</div>
-						<svg class="n_18_fn">
-							<rect id="n_18_fn" rx="13" ry="13" x="0" y="0" width="86" height="26">
-							</rect>
-						</svg>
-						<div id="ABOUT__US_fo">
-							<span>ABOUT  US</span>
-						</div>
-					</div>
-				</div>
+		<div id="sidebar">
+			<div>
+				<?php 
+					$args = array(
+						'posts_per_page' => 4,
+						'orderby' => 'ID',
+						'order' => 'DESC',
+						'category_name' => 'TOP',
+					);
+					$datas = get_posts($args);
+					if ($datas):
+						foreach ($datas as $post):
+							setup_postdata($post);
+				?>
+					<a href="<?php echo the_permalink(); ?>" class="post">
+						<?php 
+							$tags = get_the_tags();
+							if ($tags):
+								$tag = $tags[0]->name;
+							else:
+								$tag = "NO TAG";
+							endif;
+
+							$color_map = array(
+								"ABOUT US" => "#007CAA",
+								"ARCHIVES" => "#3DBBBC",
+								"NO TAG"   => "#C0C0C0",
+							);
+							$color = $color_map[$tag];
+						?>
+						
+						<span class="post_tag" style="background-color: <?php echo $color; ?>"><?php echo $tag; ?></span>
+						<span class="post_title"><?php echo the_title(); ?></span>
+						<?php the_post_thumbnail(array(250, 60), array("class" => "post_thumnail"))?>
+					</a>
+				<?php
+						endforeach;
+					else:
+				?>
+					<span id="no_post">まだ投稿はありません</span>
+				<?php
+					endif;
+					wp_reset_postdata();
+				?>
 			</div>
 		</div>
 	</div>
