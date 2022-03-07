@@ -106,26 +106,26 @@
 	</div>
 	<div id="footer" class="footer">
 		<div id="footerMenu">
-			<div onclick="application.goToTargetView(event)" id="text18pt595757" class="text18pt_595757">
+			<a href="../privacy" id="text18pt595757" class="text18pt_595757">
 				<div id="Text_br">
 					<span>プライバシーポリシー</span>
 				</div>
-			</div>
-			<div onclick="application.goToTargetView(event)" id="text18pt595757_bs" class="text18pt_595757">
+			</a>
+			<a href="../donation" id="text18pt595757_bs" class="text18pt_595757">
 				<div id="Text_bt">
 					<span>ご協賛・ご寄付</span>
 				</div>
-			</div>
-			<div onclick="application.goToTargetView(event)" id="text18pt595757_bu" class="text18pt_595757">
+			</a>
+			<a href="../access" id="text18pt595757_bu" class="text18pt_595757">
 				<div id="Text_bv">
 					<span>アクセス</span>
 				</div>
-			</div>
-			<div onclick="application.goToTargetView(event)" id="text18pt595757_bw" class="text18pt_595757">
+			</a>
+			<a href="../contact" id="text18pt595757_bw" class="text18pt_595757">
 				<div id="Text_bx">
 					<span>お問い合わせ</span>
 				</div>
-			</div>
+			</a>
 			<div id="n_16">
 				<svg class="n_8" viewBox="5.082 7.828 0.136 1.724">
 					<path id="n_8" d="M 5.081999778747559 9.552000045776367 L 5.217999935150146 7.828000068664551 L 5.081999778747559 9.552000045776367 Z">
@@ -194,16 +194,17 @@
 			</rect>
 		</svg>
 		<div id="header" class="header">
-			<div onclick="application.goToTargetView(event)" id="n_186">
+			<a href="../contact" id="n_186">
 				<img id="n_23" src="<?php bloginfo('template_url'); ?>/desktop/images/about/n_23.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/about/n_23.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/about/n_23@2x.png 2x">
 					
 				</svg>
 				<div id="CONTACT_US">
 					<span>CONTACT US!</span>
 				</div>
-			</div>
-			<img onclick="application.goToTargetView(event)" id="n_26" src="<?php bloginfo('template_url'); ?>/desktop/images/about/n_26.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/about/n_26.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/about/n_26@2x.png 2x">
-				
+			</a>
+			<a href="..">
+				<img id="n_26" src="<?php bloginfo('template_url'); ?>/desktop/images/about/n_26.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/about/n_26.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/about/n_26@2x.png 2x">
+			</a>
 			</svg>
 			<div id="n_177">
 				<div id="text18pt595757_cr" class="text18pt_595757">
@@ -212,9 +213,11 @@
 							
 						</svg>
 					</div>
-					<div id="Text_cu">
-						<span>七夕祭について</span>
-					</div>
+					<a href="">
+						<div id="Text_cu">
+							<span>七夕祭について</span>
+						</div>
+					</a>
 				</div>
 				<div id="n_16_cv">
 					<svg class="n_8_cw" viewBox="5.082 7.828 0.136 1.724">
@@ -325,36 +328,31 @@
 						</svg>
 					</div>
 				</div>
-				<div id="text18pt595757_dx" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_dy">
+				<a href="../committee" id="text18pt595757_dx" class="text18pt_595757">
+					<div id="Text_dy">
 						<span>実行委員会</span>
 					</div>
-				</div>
-				<div onclick="application.goToTargetView(event)" id="text18pt595757_dz" class="text18pt_595757">
+				</a>
+				<a href="../group" id="text18pt595757_dz" class="text18pt_595757">
 					<div id="Text_d">
 						<span>参加団体の方へ</span>
 					</div>
-				</div>
-				<div id="text18pt595757_d" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_ea">
+				</a>
+				<a href="../donation" id="text18pt595757_d" class="text18pt_595757">
+					<div id="Text_ea">
 						<span>ご協賛・ご寄付</span>
 					</div>
-				</div>
-				<div id="text18pt595757_eb" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_ec">
+				</a>
+				<a href="../access" id="text18pt595757_eb" class="text18pt_595757">
+					<div id="Text_ec">
 						<span>アクセス</span>
 					</div>
-				</div>
-				<div id="text18pt595757_eb" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_ec">
-						<span>アクセス</span>
-					</div>
-				</div>
-				<div id="text18pt595757_ec" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_ed">
+				</a>
+				<a href="<?php echo get_recently_post(); ?>" id="text18pt595757_ec" class="text18pt_595757">
+					<div id="Text_ed">
 						<span>お知らせ</span>
 					</div>
-				</div>
+				</a>
 			</div>
 		</div>
 	</div>
