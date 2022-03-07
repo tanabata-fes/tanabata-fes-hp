@@ -101,14 +101,14 @@
 			</rect>
 		</svg>
 		<div id="MB_">
-			<span>広報資料（~MB）<br/>ダウンロード</span>
+		  <a href="tanabata-fes.com/pr.pdf"><span>広報資料（7.3MB）<br/>ダウンロード</span></a>
 		</div>
 	</div>
 	<div id="footer" class="footer">
 		<div id="footerMenu">
 			<a href="../privacy" id="text18pt595757" class="text18pt_595757">
 				<div id="Text_br">
-					<span>プライバシーポリシー</span>
+				  <span>プライバシーポリシー</span>
 				</div>
 			</a>
 			<a href="../donation" id="text18pt595757_bs" class="text18pt_595757">
