@@ -39,7 +39,7 @@
 
 }
 
-
+/* 手書き始め */
 #sidebar {
 	overflow-x: scroll;
 	width: 100%;
@@ -111,6 +111,7 @@
 	font-size: 15px;
 	vertical-align: middle;
 }
+/* 手書き終わり */
 
 #n_199 {
 	position: absolute;
