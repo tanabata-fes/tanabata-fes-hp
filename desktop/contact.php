@@ -105,7 +105,7 @@
 	</svg>
 	<div id="n_18__1" class="________18___1">
 		<div id="contacttanabata-fescom">
-			<span>contact@tanabata-fes.com</span>
+			<a href="mailto:contact@tanabata-fes.com"><span>contact@tanabata-fes.com</span></a>
 		</div>
 	</div>
 	<div id="subTitle50pt727171_by" class="subTitle50pt__727171">
@@ -129,7 +129,7 @@
 		</svg>
 		<div id="text22pt595757_b" class="text22pt_595757">
 			<div id="Twitter">
-				<span>Twitter</span>
+				<a href="https://twitter.com/tanabata_fes"><span>Twitter</span></a>
 			</div>
 		</div>
 	</div>
@@ -140,7 +140,7 @@
 		</svg>
 		<div id="text22pt595757_ca" class="text22pt_595757">
 			<div id="Facebook">
-				<span>Facebook</span>
+				<a href="https://www.facebook.com/tanabatafes/"><span>Facebook</span></a>
 			</div>
 		</div>
 	</div>
@@ -151,7 +151,7 @@
 		</svg>
 		<div id="text22pt595757_cd" class="text22pt_595757">
 			<div id="Instagram">
-				<span>Instagram</span>
+				<a href="https://www.instagram.com/tanabata_fes/"><span>Instagram</span></a>
 			</div>
 		</div>
 	</div>
