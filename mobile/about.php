@@ -159,17 +159,13 @@
 				<span>アクセス</span>
 			</a>
 			<div id="n_18">
-				<img id="n_17" src= "<?php bloginfo('template_url'); ?>/mobile/images/about/n_17.png" srcset= "<?php bloginfo('template_url'); ?>/mobile/images/about/n_17.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/about/n_17@2x.png 2x">
-					
-				</svg>
-			</a>
+				<img id="n_17" src= "<?php bloginfo('template_url'); ?>/mobile/images/about/n_17.png" srcset= "<?php bloginfo('template_url'); ?>/mobile/images/about/n_17.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/about/n_17@2x.png 2x"></svg>
+			</div>
 			<a href="../privacy" id="Text_ca">
 				<span>プライバシーポリシー</span>
-			</div>
+			</a>
 			<div id="n_20_ca">
-				<img id="n_19_cb" src= "<?php bloginfo('template_url'); ?>/mobile/images/about/n_19_cb.png" srcset= "<?php bloginfo('template_url'); ?>/mobile/images/about/n_19_cb.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/about/n_19_cb@2x.png 2x">
-					
-				</svg>
+				<img id="n_19_cb" src= "<?php bloginfo('template_url'); ?>/mobile/images/about/n_19_cb.png" srcset= "<?php bloginfo('template_url'); ?>/mobile/images/about/n_19_cb.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/about/n_19_cb@2x.png 2x"></svg>
 			</div>
 			<a href="../contact" id="Text_cc">
 				<span>お問い合わせ</span>
