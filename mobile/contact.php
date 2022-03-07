@@ -82,11 +82,11 @@
 			<span>Copyright ©️ 2023 慶應義塾大学 七夕祭 All Rights Reserved. </span>
 		</div>
 		<div id="n_201">
-			<div onclick="application.goToTargetView(event)" id="headerMenu" class="headerMenu">
+			<a href="../donation" id="headerMenu" class="headerMenu">
 				<div id="Text_bj">
 					<span>ご協賛・ご寄付</span>
 				</div>
-			</div>
+			</a>
 			<div id="n_16">
 				<svg class="n_8" viewBox="5.082 7.828 0.136 1.724">
 					<path id="n_8" d="M 5.081999778747559 9.552000045776367 L 5.217999935150146 7.828000068664551 L 5.081999778747559 9.552000045776367 Z">
@@ -134,25 +134,25 @@
 					</svg>
 				</div>
 			</div>
-			<div onclick="application.goToTargetView(event)" id="Text_b">
+			<a href="../access" id="Text_b">
 				<span>アクセス</span>
-			</div>
+			</a>
 			<div id="n_18">
 				<img id="n_17" src="<?php bloginfo('template_url'); ?>/mobile/images/contact/n_17.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/contact/n_17.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/contact/n_17@2x.png 2x">
 					
 				</svg>
 			</div>
-			<div onclick="application.goToTargetView(event)" id="Text_ca">
+			<a href="../privacy" id="Text_ca">
 				<span>プライバシーポリシー</span>
-			</div>
+			</a>
 			<div id="n_20">
 				<img id="n_19" src="<?php bloginfo('template_url'); ?>/mobile/images/contact/n_19.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/contact/n_19.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/contact/n_19@2x.png 2x">
 					
 				</svg>
 			</div>
-			<div id="Text_cb">
+			<a href="../contact" id="Text_cb">
 				<span>お問い合わせ</span>
-			</div>
+			</a>
 		</div>
 	</div>
 	<div id="header" class="header">
@@ -161,22 +161,24 @@
 			</rect>
 		</svg>
 		<div id="header_b">
-			<div onclick="application.goToTargetView(event)" id="Logo">
-				<img onclick="application.goToTargetView(event)" id="n_26" src="<?php bloginfo('template_url'); ?>/mobile/images/contact/n_26.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/contact/n_26.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/contact/n_26@2x.png 2x">
-					
-				</svg>
-			</div>
-			<div onclick="application.goToTargetView(event)" id="n_233">
-				<div id="n_191">
-					<div onclick="application.goToTargetView(event)" id="Text_ce">
-						<span>慶應義塾大学</span>
-					</div>
-					<div onclick="application.goToTargetView(event)" id="Text_cf">
-						<span>第３３回七夕祭</span>
+			<a href="..">
+				<div id="Logo">
+					<img id="n_26" src="<?php bloginfo('template_url'); ?>/mobile/images/contact/n_26.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/contact/n_26.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/contact/n_26@2x.png 2x">
+						
+					</svg>
+				</div>
+				<div id="n_233">
+					<div id="n_191">
+						<div id="Text_ce">
+							<span>慶應義塾大学</span>
+						</div>
+						<div id="Text_cf">
+							<span>第３３回七夕祭</span>
+						</div>
 					</div>
 				</div>
-			</div>
-			<div onclick="application.goToTargetView(event)" id="n_190">
+			</a>
+			<a href="../menu" id="n_190">
 				<div id="n_189">
 					<svg class="n_1">
 						<ellipse id="n_1" rx="25" ry="25" cx="25" cy="25">
