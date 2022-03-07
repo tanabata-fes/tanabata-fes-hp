@@ -173,7 +173,7 @@
 				</rect>
 			</svg>
 			<div id="MB_">
-				<span>広報資料（~MB）<br/>ダウンロード</span>
+			  <a href="tanabata-fes.com/pr.pdf"><span>広報資料（7.3MB）<br/>ダウンロード</span></a>
 			</div>
 		</div>
 	</div>
@@ -189,7 +189,7 @@
 	</div>
 	<div id="text22pt595757_cm" class="text22pt_595757">
 		<div id="n_biztanabata-fescom__23_">
-			<span>本件に関するお問い合わせは </span><span style="color:rgba(0,124,170,1);">biz@tanabata-fes.com </span><span>までよろしくお願いいたします。<br/>担当者より返信させていただきます(2,3日いただく場合がございます)。<br/>ご予算に合わせてご協賛いただける多くのプランを用意しておりますのでご気軽にお問合せください。</span>
+			<span>本件に関するお問い合わせは </span><a href="mailto:biz@tanabata-fes.com"><span style="color:rgba(0,124,170,1);">biz@tanabata-fes.com </span></a><span>までよろしくお願いいたします。<br/>担当者より返信させていただきます(2,3日いただく場合がございます)。<br/>ご予算に合わせてご協賛いただける多くのプランを用意しておりますのでご気軽にお問合せください。</span>
 		</div>
 	</div>
 	<div id="n_181">
@@ -230,7 +230,7 @@
 			</svg>
 		</div>
 		<div id="Text_c">
-			<span>支援金受付フォームはこちら</span>
+			<a href="https://docs.google.com/forms/d/e/1FAIpQLScnWIvUVt9t5YehcGqOit0mT22TSfY1hvCA4WWDRT1ab01EFw/viewform?usp=sf_link%EF%BC%89"><span>支援金受付フォームはこちら</span></a>
 		</div>
 		<svg class="n_1" viewBox="0 0 12 9">
 			<path id="n_1" d="M 6 0 L 12 9 L 0 9 Z">
@@ -245,7 +245,7 @@
 			</svg>
 		</div>
 		<div id="Text_da">
-			<span>お問い合わせはこちらから</span>
+		  <a href="mailto:biz@tanabata-fes.com"><span>お問い合わせはこちらから</span></a>
 		</div>
 		<svg class="n_1_c" viewBox="0 0 12 9">
 			<path id="n_1_c" d="M 6 0 L 12 9 L 0 9 Z">
