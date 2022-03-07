@@ -105,7 +105,18 @@
 		<img id="n_134" src="<?php bloginfo('template_url'); ?>/mobile/images/home/n_134.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/home/n_134.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/home/n_134@2x.png 2x">		</svg>
 	</div>
 	<div id="Text_by">
-		<span>カウントダウン埋め込み</span>
+		<div class="countDown">七夕祭まであと
+			<span class="countDownText">
+				<script language="JavaScript">
+					var now = new Date();
+					var point = new Date("2022/07/2");
+					var countdown = Math.ceil((point.getTime() - now.getTime()) / (1000 * 60 * 60 * 24));
+					if (countdown > 0) {
+						document.write(countdown);
+					}
+				</script>
+			</span>日
+		</div>
 	</div>
 	<div id="n_248">
 		<div id="n_197">
