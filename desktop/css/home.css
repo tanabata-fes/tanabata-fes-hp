@@ -1859,7 +1859,7 @@ body {
 	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 22px;
+	font-size: 42px;
 	color: rgba(89,87,87,1);
 }
 #n_137 {
@@ -3210,4 +3210,9 @@ a:link, a:visited, a:hover, a:active {
 }
 .single_content{
 	display: flex;
+}
+.countDown {
+    position: absolute;
+    left: -98px;
+    top: -25px;
 }

@@ -55,7 +55,7 @@
 	</div>
 	<div id="n_24__4" class="________24___4">
 		<div id="Copyright__2023___All_Rights_R">
-			<span>Copyright ©️ 2023 慶應義塾大学 七夕祭 All Rights Reserved. </span>
+			<span>Copyright ©️ 2022 慶應義塾大学 七夕祭 All Rights Reserved. </span>
 		</div>
 		<div id="n_201">
 			<a href="../donation" id="headerMenu" class="headerMenu">
