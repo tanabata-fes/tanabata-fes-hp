@@ -17,7 +17,7 @@
 }
 #home {
 	position: absolute;
-	width: 1920px;
+	width: 1900px;
 	height: 3840px;
 	background-color: rgba(242,242,242,1);
 	overflow: hidden;
@@ -1940,7 +1940,7 @@ body {
 }
 #MB_ {
 	left: 59px;
-	top: 10px;
+	top: 6px;
 	position: absolute;
 	overflow: visible;
 	width: 183px;
@@ -2003,7 +2003,7 @@ body {
 }
 #MB__fp {
 	left: 59px;
-	top: 10px;
+	top: 6px;
 	position: absolute;
 	overflow: visible;
 	width: 183px;

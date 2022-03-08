@@ -236,7 +236,11 @@ body {
 	left: -0.544px;
 	top: 1508.537px;
 	overflow: hidden;
+	overflow-x: auto;
 }
+.n_3::-webkit-scrollbar{
+	display: none;
+  }
 #n_219 {
 	position: absolute;
 	width: 1322.11px;
@@ -427,7 +431,11 @@ body {
 	left: -0.544px;
 	top: 3149.537px;
 	overflow: hidden;
+	overflow-x: auto;
 }
+.n_4::-webkit-scrollbar{
+	display: none;
+  }
 #n_224 {
 	position: absolute;
 	width: 1595.653px;
