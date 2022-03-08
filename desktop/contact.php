@@ -260,27 +260,27 @@
 					</div>
 				</div>
 				<a href="../committee" id="text18pt595757_dr" class="text18pt_595757">
-					<div id="Text_ds">
+					<div id="Text_co">
 						<span>実行委員会</span>
 					</div>
 				</a>
 				<a href="../group" id="text18pt595757_dt" class="text18pt_595757">
-					<div id="Text_du">
+					<div id="Text_co">
 						<span>参加団体の方へ</span>
 					</div>
 				</a>
 				<a href="../donation" id="text18pt595757_dv" class="text18pt_595757">
-					<div id="Text_dw">
+					<div id="Text_co">
 						<span>ご協賛・ご寄付</span>
 					</div>
 				</a>
 				<a href="../access" id="text18pt595757_dz" class="text18pt_595757">
-					<div id="Text_d">
+					<div id="Text_co">
 						<span>アクセス</span>
 					</div>
 				</a>
 				<a href="<?php echo get_recently_post(); ?>" id="text18pt595757_d" class="text18pt_595757">
-					<div id="Text_ea">
+					<div id="Text_co">
 						<span>お知らせ</span>
 					</div>
 				</a>

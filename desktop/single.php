@@ -301,27 +301,22 @@
 					</div>
 				</div>
 				<a href="<?php echo site_url(); ?>/committee" id="text18pt595757_dx" class="text18pt_595757">
-					<div id="Text_dy">
+					<div id="Text_cu">
 						<span>実行委員会</span>
 					</div>
 				</a>
 				<a href="<?php echo site_url(); ?>/group" id="text18pt595757_dz" class="text18pt_595757">
-					<div id="Text_d">
+					<div id="Text_cu">
 						<span>参加団体の方へ</span>
 					</div>
 				</a>
 				<a href="<?php echo site_url(); ?>/donation" id="text18pt595757_d" class="text18pt_595757">
-					<div id="Text_ea">
+					<div id="Text_cu">
 						<span>ご協賛・ご寄付</span>
 					</div>
 	            </a>
 				<a href="<?php echo site_url(); ?>/access" id="text18pt595757_eb" class="text18pt_595757">
-					<div id="Text_ec">
-						<span>アクセス</span>
-					</div>
-				</a>
-				<a href="<?php echo site_url(); ?>/access" id="text18pt595757_eb" class="text18pt_595757">
-					<div id="Text_ec">
+					<div id="Text_cu">
 						<span>アクセス</span>
 					</div>
 				</a>

@@ -278,7 +278,7 @@
 					</div>
 				</div>
 				<a href="../committee" id="text18pt595757_dj" class="text18pt_595757">
-					<div id="Text_dk">
+					<div id="Text_cg">
 						<span>実行委員会</span>
 					</div>
 				</a>
@@ -292,17 +292,17 @@
 					</div>
 				</a>
 				<a href="../donation" id="text18pt595757_dp" class="text18pt_595757">
-					<div id="Text_dq">
+					<div id="Text_cg">
 						<span>ご協賛・ご寄付</span>
 					</div>
 				</a>
 				<a href="../access" id="text18pt595757_dt" class="text18pt_595757">
-					<div id="Text_du">
+					<div id="Text_cg">
 						<span>アクセス</span>
 					</div>
 				</a>
 				<a href="<?php echo get_recently_post(); ?>" id="text18pt595757_dv" class="text18pt_595757">
-					<div id="Text_dw">
+					<div id="Text_cg">
 						<span>お知らせ</span>
 					</div>
 				</a>

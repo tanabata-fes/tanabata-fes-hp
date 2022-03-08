@@ -386,12 +386,12 @@
 					</div>
 				</div>
 				<a href="../committee" id="text18pt595757_em" class="text18pt_595757">
-					<div id="Text_en">
+					<div id="Text_dj">
 						<span>実行委員会</span>
 					</div>
 				</a>
 				<a href="../group" id="text18pt595757_eo" class="text18pt_595757">
-					<div id="Text_ep">
+					<div id="Text_dj">
 						<span>参加団体の方へ</span>
 					</div>
 				</a>
@@ -406,12 +406,12 @@
 					</div>
 				</a>
 				<a href="../access" id="text18pt595757_ew" class="text18pt_595757">
-					<div id="Text_ex">
+					<div id="Text_dj">
 						<span>アクセス</span>
 					</div>
 				</a>
 				<a href="<?php echo get_recently_post(); ?>" id="text18pt595757_ey" class="text18pt_595757">
-					<div id="Text_ez">
+					<div id="Text_dj">
 						<span>お知らせ</span>
 					</div>
 				</a>

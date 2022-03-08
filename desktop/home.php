@@ -441,22 +441,22 @@
               </div>
             </a>
             <a href="group" id="text18pt595757_io" class="text18pt_595757">
-              <div id="Text_ip">
+              <div id="Text_in">
                 <span>参加団体の方へ</span>
               </div>
             </a>
             <a href="donation" id="text18pt595757_iq" class="text18pt_595757">
-              <div id="Text_ir">
+              <div id="Text_in">
                 <span>ご協賛・ご寄付</span>
               </div>
             </a>
             <a href="access" id="text18pt595757_iu" class="text18pt_595757">
-              <div id="Text_iv">
+              <div id="Text_in">
                 <span>アクセス</span>
               </div>
             </a>
             <a href="<?php echo get_recently_post(); ?>" id="text18pt595757_iw" class="text18pt_595757">
-              <div id="Text_ix">
+              <div id="Text_in">
                 <span>お知らせ</span>
               </div>
             </a>

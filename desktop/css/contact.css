@@ -1297,3 +1297,12 @@ body {
 	font-size: 18px;
 	color: rgba(89,87,87,1);
 }
+
+#Text_co, #CONTACT_US {
+	position: relative;
+	top: -8px;
+}
+
+a {
+	text-decoration: none;
+}
