@@ -246,7 +246,7 @@
 					<img id="n_14" src="<?php bloginfo('template_url'); ?>/mobile/images/home/n_14.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/home/n_14.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/home/n_14@2x.png 2x">					</svg>
 				</div>
 			</div>
-			<a href="../acceess" id="Text_dm">
+			<a href="../access" id="Text_dm">
 				<span>アクセス</span>
 			</a>
 			<div id="n_18">
