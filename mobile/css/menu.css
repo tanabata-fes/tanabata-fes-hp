@@ -600,7 +600,7 @@ body {
 	position: absolute;
 	width: 20px;
 	height: 20px;
-	left: 0px;
+	left: 2px;
 	top: 0px;
 	overflow: visible;
 	cursor: pointer;
@@ -617,10 +617,10 @@ body {
 .n_47 {
 	overflow: visible;
 	position: absolute;
-	width: 16.97px;
-	height: 16.971px;
-	left: 7.071px;
-	top: 7.071px;
+	width: 17px;
+	height: 17px;
+	left: 0px;
+	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #n_48 {
@@ -635,9 +635,9 @@ body {
 .n_48 {
 	overflow: visible;
 	position: absolute;
-	width: 16.97px;
-	height: 16.971px;
-	left: 7.071px;
-	top: 7.071px;
+	width: 16px;
+	height: 16px;
+	left: 1px;
+	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
