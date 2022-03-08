@@ -111,7 +111,7 @@
 					</rect>
 				</svg>
 				<div id="MB_">
-				    <a href="tanabata-fes.com/pr.pdf"><span>広報資料（7.3MB）<br/>ダウンロード</span></a>
+				    <a href="https://tanabata-fes.com/pr.pdf"><span>広報資料（7.3MB）<br/>ダウンロード</span></a>
 				</div>
 			</div>
 			<div id="Text_ca">
@@ -123,7 +123,7 @@
 					</rect>
 				</svg>
 				<div id="MB__cb">
-				    <a href="tanabata-fes.com/biz.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
+				    <a href="https://tanabata-fes.com/biz.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
 				</div>
 			</div>
 		</div>
@@ -201,7 +201,7 @@
 	</div>
 	<div id="n_24__1" class="________24___1">
 		<div id="Copyright__2023___All_Rights_R">
-			<span>Copyright ©️ 2023 慶應義塾大学 七夕祭 All Rights Reserved. </span>
+			<span>Copyright ©️ 2022 慶應義塾大学 七夕祭 All Rights Reserved. </span>
 		</div>
 		<div id="n_201">
 			<a href="../donation" id="headerMenu" class="headerMenu">
@@ -246,7 +246,7 @@
 					<img id="n_14" src="<?php bloginfo('template_url'); ?>/mobile/images/home/n_14.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/home/n_14.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/home/n_14@2x.png 2x">					</svg>
 				</div>
 			</div>
-			<a href="../acceess" id="Text_dm">
+			<a href="../access" id="Text_dm">
 				<span>アクセス</span>
 			</a>
 			<div id="n_18">

@@ -631,7 +631,7 @@ body {
 	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 10px;
+	font-size: 25px;
 	color: rgba(89,87,87,1);
 }
 #n_248 {
@@ -1554,4 +1554,9 @@ a:link, a:visited, a:hover, a:active {
 }
 .single_content{
 	display: flex;
+}
+.countDown {
+    position: absolute;
+    left: -65px;
+    top: -10px;
 }

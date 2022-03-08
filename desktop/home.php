@@ -171,7 +171,7 @@
           </rect>
         </svg>
         <div id="MB_">
-          <a href="tanabata-fes.com/pr.pdf"><span>広報資料（7.3MB）<br/>ダウンロード</span></a>
+          <a href="https://tanabata-fes.com/pr.pdf"><span>広報資料（7.3MB）<br/>ダウンロード</span></a>
         </div>
       </div>
     </div>
@@ -187,7 +187,7 @@
           </rect>
         </svg>
         <div id="MB__fp">
-          <a href="tanabata-fes.com/biz.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
+          <a href="https://tanabata-fes.com/biz.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
         </div>
       </div>
     </div>
@@ -258,7 +258,7 @@
         </div>
       </div>
       <div id="Copyright__2023___All_Rights_R">
-        <span>Copyright ©️ 2023 慶應義塾大学 七夕祭 All Rights Reserved. </span>
+        <span>Copyright ©️ 2022 慶應義塾大学 七夕祭 All Rights Reserved. </span>
       </div>
     </div>
     <div id="text22pt595757_gl" class="text22pt_595757">
