@@ -46,13 +46,6 @@ body {
 }
 /* 手書き終わり */
 
-
-
-#MB_>a {
-	color: #fff;
-	text-decoration: none;	
-}
-
 #n_217 {
 	position: absolute;
 	width: 345px;
@@ -402,7 +395,7 @@ body {
 }
 #MB_ {
 	left: 33px;
-	top: 8px;
+	top: 6px;
 	position: absolute;
 	overflow: visible;
 	width: 83px;

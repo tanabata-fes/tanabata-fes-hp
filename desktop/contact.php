@@ -122,39 +122,39 @@
 			<span>SNS</span>
 		</div>
 	</div>
-	<div id="n_19__1" class="________19___1">
+	<a href="https://twitter.com/tanabata_fes" id="n_19__1" class="________19___1">
 		<svg class="n_113">
 			<rect id="n_113" rx="20" ry="20" x="0" y="0" width="200" height="87">
 			</rect>
 		</svg>
 		<div id="text22pt595757_b" class="text22pt_595757">
 			<div id="Twitter">
-				<a href="https://twitter.com/tanabata_fes"><span>Twitter</span></a>
+				Twitter
 			</div>
 		</div>
-	</div>
-	<div id="n_20__1" class="________20___1">
+	</a>
+	<a href="https://www.facebook.com/tanabatafes/" id="n_20__1" class="________20___1">
 		<svg class="n_112">
 			<rect id="n_112" rx="20" ry="20" x="0" y="0" width="200" height="87">
 			</rect>
 		</svg>
 		<div id="text22pt595757_ca" class="text22pt_595757">
 			<div id="Facebook">
-				<a href="https://www.facebook.com/tanabatafes/"><span>Facebook</span></a>
+				Facebook
 			</div>
 		</div>
-	</div>
-	<div id="n_21__1" class="________21___1">
+	</a>
+	<a href="https://www.instagram.com/tanabata_fes/" id="n_21__1" class="________21___1">
 		<svg class="n_114">
 			<rect id="n_114" rx="20" ry="20" x="0" y="0" width="200" height="87">
 			</rect>
 		</svg>
 		<div id="text22pt595757_cd" class="text22pt_595757">
 			<div id="Instagram">
-				<a href="https://www.instagram.com/tanabata_fes/"><span>Instagram</span></a>
+				Instagram
 			</div>
 		</div>
-	</div>
+	</a>
 	<div id="n_194">
 		<svg class="n_115">
 			<rect id="n_115" rx="0" ry="0" x="0" y="0" width="1920" height="159">

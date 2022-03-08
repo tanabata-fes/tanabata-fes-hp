@@ -34,9 +34,9 @@
 	<div id="MAIL">
 		<span>MAIL</span>
 	</div>
-	<div id="contacttanabata-fescom">
-		<a href="mailto:contact@tanabata-fes.com" class="mail_link">contact@tanabata-fes.com</a>
-	</div>
+	<a href="mailto:contact@tanabata-fes.com" id="contacttanabata-fescom">
+		contact@tanabata-fes.com
+	</a>
 	<svg class="n_125">
 		<rect id="n_125" rx="20" ry="20" x="0" y="0" width="300" height="285">
 		</rect>
@@ -44,33 +44,33 @@
 	<div id="SNS">
 		<span>SNS</span>
 	</div>
-	<div id="n_23__1" class="________23___1">
+	<a href="https://twitter.com/tanabata_fes" id="n_23__1" class="________23___1">
 		<svg class="n_113">
 			<rect id="n_113" rx="10" ry="10" x="0" y="0" width="200" height="50">
 			</rect>
 		</svg>
 		<div id="Twitter">
-			<a href="https://twitter.com/tanabata_fes" class="sns_link">Twitter</a>
+			Twitter
 		</div>
-	</div>
-	<div id="n_23__2" class="________23___2">
+	</a>
+	<a href="https://www.facebook.com/tanabatafes/" id="n_23__2" class="________23___2">
 		<svg class="n_113_ba">
 			<rect id="n_113_ba" rx="10" ry="10" x="0" y="0" width="200" height="50">
 			</rect>
 		</svg>
 		<div id="Facebook">
-			<a href="https://www.facebook.com/tanabatafes/" class="sns_link">Facebook</a>
+			Facebook
 		</div>
-	</div>
-	<div id="n_23__3" class="________23___3">
+	</a>
+	<a href="https://www.instagram.com/tanabata_fes/" id="n_23__3" class="________23___3">
 		<svg class="n_113_bd">
 			<rect id="n_113_bd" rx="10" ry="10" x="0" y="0" width="200" height="50">
 			</rect>
 		</svg>
 		<div id="Instagram" class="sns_link">
-			<a href="https://www.instagram.com/tanabata_fes/" class="sns_link">Instagram</a>
+			Instagram
 		</div>
-	</div>
+	</a>
 	<div id="n_24__8" class="________24___8">
 		<div id="Copyright__2023___All_Rights_R">
 			<span>Copyright ©️ 2022 慶應義塾大学 七夕祭 All Rights Reserved. </span>

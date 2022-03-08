@@ -712,7 +712,7 @@ body {
 }
 #MB_ {
 	left: 59px;
-	top: 14px;
+	top: 10px;
 	position: absolute;
 	overflow: visible;
 	width: 183px;
@@ -723,12 +723,6 @@ body {
 	font-weight: bold;
 	font-size: 22px;
 	color: rgba(255,255,255,1);
-}
-#MB_ > a:link{
-	color: rgba(255,255,255,1);
-}
-#MB_ > a:visited{
-	color: rgba(255,255,255,1);	
 }
 #subTitle50pt727171_ci {
 	position: absolute;
@@ -945,7 +939,7 @@ body {
 }
 #Text_c {
 	left: 53px;
-	top: 30px;
+	top: 24px;
 	position: absolute;
 	overflow: visible;
 	width: 232px;
@@ -956,12 +950,6 @@ body {
 	font-weight: bold;
 	font-size: 18px;
 	color: rgba(72,198,200,1);
-}
-#Text_c > a:link{
-	color: rgba(72,198,200,1);
-}
-#Text_c > a:visited{
-	color: rgba(72,198,200,1);	
 }
 #n_1 {
 	fill: rgba(72,198,200,1);
@@ -1011,7 +999,7 @@ body {
 }
 #Text_da {
 	left: 53px;
-	top: 30px;
+	top: 24px;
 	position: absolute;
 	overflow: visible;
 	width: 217px;
@@ -1023,12 +1011,6 @@ body {
 	font-size: 18px;
 	color: rgba(72,198,200,1);
 }
-#Text_da > a:link {
-	color: rgba(72,198,200,1);
-}
-#n_1_c {
-	fill: rgba(72,198,200,1);
-}
 .n_1_c {
 	overflow: visible;
 	position: absolute;
@@ -1038,6 +1020,7 @@ body {
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
+	fill: rgba(72,198,200,1);
 }
 #n_191 {
 	position: absolute;

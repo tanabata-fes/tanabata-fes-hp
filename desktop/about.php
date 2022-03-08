@@ -95,15 +95,15 @@
 	<div id="n_">
 		<span>詳しい情報はこちらから<br/>広報資料をダウンロードしてご覧ください。</span>
 	</div>
-	<div id="n_138">
+	<a href="https://tanabata-fes.com/pr.pdf" id="n_138">
 		<svg class="n_38">
 			<rect id="n_38" rx="20" ry="20" x="0" y="0" width="300" height="87">
 			</rect>
 		</svg>
 		<div id="MB_">
-		  <a href="https://tanabata-fes.com/pr.pdf"><span>広報資料（7.3MB）<br/>ダウンロード</span></a>
+		  広報資料（7.3MB）<br/>ダウンロード
 		</div>
-	</div>
+	</a>
 	<div id="footer" class="footer">
 		<div id="footerMenu">
 			<a href="../privacy" id="text18pt595757" class="text18pt_595757">
