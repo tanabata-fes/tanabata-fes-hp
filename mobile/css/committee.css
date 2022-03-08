@@ -593,7 +593,11 @@ body {
 	left: -0.544px;
 	top: 3910.311px;
 	overflow: hidden;
+	overflow-x: auto;
 }
+.n_4::-webkit-scrollbar{
+	display: none;
+  }
 #n_226 {
 	position: absolute;
 	width: 935.454px;
