@@ -347,7 +347,7 @@
             <img id="n_26_hg" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg@2x.png 2x">          </svg>
           </a>
           <div id="n_177">
-            <a href="contact" id="text18pt595757_hi" class="text18pt_595757">
+            <a href="about" id="text18pt595757_hi" class="text18pt_595757">
               <div id="Text_hj">
                 <span>七夕祭について</span>
               </div>
