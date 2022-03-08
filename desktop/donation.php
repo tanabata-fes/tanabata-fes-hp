@@ -265,7 +265,7 @@
 				<div id="CONTACT_US">
 					<span>CONTACT US!</span>
 				</div>
-			</div>
+			</a>
 			<a href="..">
 				<img id="n_26" src="<?php bloginfo('template_url'); ?>/desktop/images/donation/n_26.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/donation/n_26.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/donation/n_26@2x.png 2x">
 				</svg>
