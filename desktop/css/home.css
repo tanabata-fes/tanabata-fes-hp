@@ -3216,3 +3216,8 @@ a:link, a:visited, a:hover, a:active {
     left: -98px;
     top: -25px;
 }
+
+#Text_hj, #CONTACT_US, #Text_in {
+	position: relative;
+	top: -8px;
+}

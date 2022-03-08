@@ -347,7 +347,7 @@
             <img id="n_26_hg" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_26_hg@2x.png 2x">          </svg>
           </a>
           <div id="n_177">
-            <a href="contact" id="text18pt595757_hi" class="text18pt_595757">
+            <a href="about" id="text18pt595757_hi" class="text18pt_595757">
               <div id="Text_hj">
                 <span>七夕祭について</span>
               </div>
@@ -441,22 +441,22 @@
               </div>
             </a>
             <a href="group" id="text18pt595757_io" class="text18pt_595757">
-              <div id="Text_ip">
+              <div id="Text_in">
                 <span>参加団体の方へ</span>
               </div>
             </a>
             <a href="donation" id="text18pt595757_iq" class="text18pt_595757">
-              <div id="Text_ir">
+              <div id="Text_in">
                 <span>ご協賛・ご寄付</span>
               </div>
             </a>
             <a href="access" id="text18pt595757_iu" class="text18pt_595757">
-              <div id="Text_iv">
+              <div id="Text_in">
                 <span>アクセス</span>
               </div>
             </a>
             <a href="<?php echo get_recently_post(); ?>" id="text18pt595757_iw" class="text18pt_595757">
-              <div id="Text_ix">
+              <div id="Text_in">
                 <span>お知らせ</span>
               </div>
             </a>

@@ -1644,3 +1644,13 @@ body {
 a:link, a:visited, a:hover, a:active {
 	text-decoration: none;
 }
+
+#Text_dj, #Text_er, #CONTACT_US {
+	position: relative;
+	top: -8px;
+}
+
+a {
+	text-decoration: none;
+}
+

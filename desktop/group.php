@@ -163,11 +163,11 @@
 				</svg>
 			</a>
 			<div id="n_177">
-				<div id="text18pt595757_cf" class="text18pt_595757">
-					<div onclick="application.goToTargetView(event)" id="Text_cg">
+				<a href="../about" id="text18pt595757_cf" class="text18pt_595757">
+					<div id="Text_cg">
 						<span>七夕祭について</span>
 					</div>
-				</div>
+				</a>
 				<div id="n_16_ch">
 					<svg class="n_8_ci" viewBox="5.082 7.828 0.136 1.724">
 						<path id="n_8_ci" d="M 5.081999778747559 9.552000045776367 L 5.217999935150146 7.828000068664551 L 5.081999778747559 9.552000045776367 Z">
@@ -278,7 +278,7 @@
 					</div>
 				</div>
 				<a href="../committee" id="text18pt595757_dj" class="text18pt_595757">
-					<div id="Text_dk">
+					<div id="Text_cg">
 						<span>実行委員会</span>
 					</div>
 				</a>
@@ -292,17 +292,17 @@
 					</div>
 				</a>
 				<a href="../donation" id="text18pt595757_dp" class="text18pt_595757">
-					<div id="Text_dq">
+					<div id="Text_cg">
 						<span>ご協賛・ご寄付</span>
 					</div>
 				</a>
 				<a href="../access" id="text18pt595757_dt" class="text18pt_595757">
-					<div id="Text_du">
+					<div id="Text_cg">
 						<span>アクセス</span>
 					</div>
 				</a>
 				<a href="<?php echo get_recently_post(); ?>" id="text18pt595757_dv" class="text18pt_595757">
-					<div id="Text_dw">
+					<div id="Text_cg">
 						<span>お知らせ</span>
 					</div>
 				</a>

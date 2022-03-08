@@ -1469,3 +1469,12 @@ a:link, a:visited, a:hover, a:active {
 	color: rgba(89,87,87,1);
 	text-decoration: none;
 }
+
+#Text_cu, #Text_ed, #CONTACT_US {
+	position: relative;
+	top: -8px;
+}
+
+a {
+	text-decoration: none;
+}
