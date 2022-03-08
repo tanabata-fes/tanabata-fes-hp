@@ -167,15 +167,15 @@
 		<div id="n__ce">
 			<span>詳しい情報はこちらから<br/>渉外資料をダウンロードしてご覧ください。</span>
 		</div>
-		<div id="n_161">
+		<a href="https://tanabata-fes.com/biz.pdf" id="n_161">
 			<svg class="n_38">
 				<rect id="n_38" rx="20" ry="20" x="0" y="0" width="300" height="87">
 				</rect>
 			</svg>
 			<div id="MB_">
-			  <a href="https://tanabata-fes.com/biz.pdf"><span>渉外資料（2.7MB）<br/>ダウンロード</span></a>
+			  渉外資料（2.7MB）<br/>ダウンロード
 			</div>
-		</div>
+		</a>
 	</div>
 	<div id="subTitle50pt727171_ci" class="subTitle50pt__727171">
 		<div id="Text_cj">
@@ -222,7 +222,7 @@
 			<span>応援としてご支援いただいたお金を運営資金に充てさせていただきます<br/>一口 ¥1,000〜ご個人/企業問わずご支援いただけます。</span>
 		</div>
 	</div>
-	<div id="n_17__1" class="________17___1">
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLScnWIvUVt9t5YehcGqOit0mT22TSfY1hvCA4WWDRT1ab01EFw/viewform?usp=sf_link%EF%BC%89" id="n_17__1" class="________17___1">
 		<div id="n_13__1" class="________13___1">
 			<svg class="n_107">
 				<rect id="n_107" rx="20" ry="20" x="0" y="0" width="356" height="78">
@@ -230,14 +230,14 @@
 			</svg>
 		</div>
 		<div id="Text_c">
-			<a href="https://docs.google.com/forms/d/e/1FAIpQLScnWIvUVt9t5YehcGqOit0mT22TSfY1hvCA4WWDRT1ab01EFw/viewform?usp=sf_link%EF%BC%89"><span>支援金受付フォームはこちら</span></a>
+			支援金受付フォームはこちら
 		</div>
 		<svg class="n_1" viewBox="0 0 12 9">
 			<path id="n_1" d="M 6 0 L 12 9 L 0 9 Z">
 			</path>
 		</svg>
-	</div>
-	<div id="n_17__2" class="________17___2">
+	</a>
+	<a href="mailto:biz@tanabata-fes.com" id="n_17__2" class="________17___2">
 		<div id="n_13__1_c" class="________13___1">
 			<svg class="n_107_c">
 				<rect id="n_107_c" rx="20" ry="20" x="0" y="0" width="356" height="78">
@@ -245,13 +245,13 @@
 			</svg>
 		</div>
 		<div id="Text_da">
-		  <a href="mailto:biz@tanabata-fes.com"><span>お問い合わせはこちらから</span></a>
+			お問い合わせはこちらから
 		</div>
 		<svg class="n_1_c" viewBox="0 0 12 9">
 			<path id="n_1_c" d="M 6 0 L 12 9 L 0 9 Z">
 			</path>
 		</svg>
-	</div>
+	</a>
 	<div id="n_191">
 		<svg class="n_115">
 			<rect id="n_115" rx="0" ry="0" x="0" y="0" width="1920" height="159">
@@ -265,7 +265,7 @@
 				<div id="CONTACT_US">
 					<span>CONTACT US!</span>
 				</div>
-			</div>
+			</a>
 			<a href="..">
 				<img id="n_26" src="<?php bloginfo('template_url'); ?>/desktop/images/donation/n_26.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/donation/n_26.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/donation/n_26@2x.png 2x">
 				</svg>

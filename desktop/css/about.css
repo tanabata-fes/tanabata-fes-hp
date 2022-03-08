@@ -428,7 +428,7 @@ body {
 }
 #MB_ {
 	left: 59px;
-	top: 14px;
+	top: 10px;
 	position: absolute;
 	overflow: visible;
 	width: 183px;
@@ -439,12 +439,6 @@ body {
 	font-weight: bold;
 	font-size: 22px;
 	color: rgba(255,255,255,1);
-}
-#MB_ > a:link{
-	color: rgba(255,255,255,1);
-}
-#MB_ > a:visited{
-	color: rgba(255,255,255,1);	
 }
 #footer {
 	position: absolute;

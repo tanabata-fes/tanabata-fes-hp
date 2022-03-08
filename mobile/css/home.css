@@ -712,7 +712,7 @@ body {
 }
 #MB_ {
 	left: 33px;
-	top: 8px;
+	top: 6px;
 	position: absolute;
 	overflow: visible;
 	width: 83px;
@@ -722,12 +722,6 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 10px;
-	color: rgba(255,255,255,1);
-}
-#MB_ > a:link{
-	color: rgba(255,255,255,1);
-}
-#MB_ > a:visited{
 	color: rgba(255,255,255,1);
 }
 #Text_ca {
@@ -765,7 +759,7 @@ body {
 }
 #MB__cb {
 	left: 33px;
-	top: 8px;
+	top: 6px;
 	position: absolute;
 	overflow: visible;
 	width: 83px;
@@ -775,12 +769,6 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 10px;
-	color: rgba(255,255,255,1);
-}
-#MB__cb > a:link{
-	color: rgba(255,255,255,1);
-}
-#MB__cb > a:visited{
 	color: rgba(255,255,255,1);
 }
 #n_200 {

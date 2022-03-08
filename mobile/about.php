@@ -86,17 +86,15 @@
 		<div id="n__bh">
 			<span>詳しい情報はこちらから<br/>広報資料をダウンロードしてご覧ください。</span>
 		</div>
-		<div id="n_138">
+		<a href="https://tanabaat-fes.com/pr.pdf" id="n_138">
 			<svg class="n_38">
 				<rect id="n_38" rx="10" ry="10" x="0" y="0" width="148.882" height="42.773">
 				</rect>
 			</svg>
 			<div id="MB_">
-				<a href="https://tanabaat-fes.com/pr.pdf">
-					広報資料（7.3MB）<br/>ダウンロード
-				</a>
+				広報資料（7.3MB）<br/>ダウンロード
 			</div>
-		</div>
+		</a>
 	</div>
 	<div id="n_24__2" class="________24___2">
 		<div id="Copyright__2023___All_Rights_R">

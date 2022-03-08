@@ -12,6 +12,7 @@
     <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     <meta charset="UTF-8">
     <link rel="icon" href="<?php echo get_template_directory_uri(); ?>/img/favicon.png"> <title>七夕祭</title>
+    <meta name="theme-color" content="#f2f2f2">
 
     <?php if (wp_is_mobile()): ?>
         <script id="applicationScript" type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/mobile/script.js"></script>

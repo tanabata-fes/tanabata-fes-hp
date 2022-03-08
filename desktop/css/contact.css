@@ -595,7 +595,7 @@ body {
 	width: 72px;
 	height: 22px;
 	left: 64px;
-	top: 33px;
+	top: 26px;
 	overflow: visible;
 }
 #Twitter {
@@ -636,7 +636,7 @@ body {
 	width: 98px;
 	height: 22px;
 	left: 51px;
-	top: 33px;
+	top: 26px;
 	overflow: visible;
 }
 #Facebook {
@@ -677,7 +677,7 @@ body {
 	width: 99px;
 	height: 25px;
 	left: 51px;
-	top: 31px;
+	top: 26px;
 	overflow: visible;
 }
 #Instagram {
@@ -1296,28 +1296,4 @@ body {
 	font-weight: bold;
 	font-size: 18px;
 	color: rgba(89,87,87,1);
-}
-#Twitter > a:link{
-	color:rgba(255,255,255,1)
-}
-#Twitter > a:visited{
-	color:rgba(255,255,255,1)
-}
-#Facebook > a:link{
-	color:rgba(255,255,255,1)
-}
-#Facebook > a:visited{
-	color:rgba(255,255,255,1)
-}
-#Instagram > a:link{
-	color:rgba(255,255,255,1)
-}
-#Instagram > a:visited{
-	color:rgba(255,255,255,1)
-}
-#contacttanabata-fescom > a:link{
-	color: rgba(0,124,170,1);
-}
-#contacttanabata-fescom > a:visited{
-	color: rgba(0,124,170,1);
 }

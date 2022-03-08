@@ -47,17 +47,6 @@ body {
 /* 手書き終わり */
 
 
-
-.mail_link {
-	color: #007CAA;
-	text-decoration: none;
-}
-
-.sns_link {
-	color: #fff;
-	text-decoration: none;
-}
-
 #n_217 {
 	position: absolute;
 	width: 345px;
@@ -269,7 +258,7 @@ body {
 }
 #Twitter {
 	left: 77px;
-	top: 18px;
+	top: 15px;
 	position: absolute;
 	overflow: visible;
 	width: 47px;
@@ -302,7 +291,7 @@ body {
 }
 #Facebook {
 	left: 69px;
-	top: 18px;
+	top: 15px;
 	position: absolute;
 	overflow: visible;
 	width: 63px;
@@ -335,7 +324,7 @@ body {
 }
 #Instagram {
 	left: 69px;
-	top: 17px;
+	top: 15px;
 	position: absolute;
 	overflow: visible;
 	width: 64px;

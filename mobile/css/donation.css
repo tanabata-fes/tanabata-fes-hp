@@ -45,15 +45,6 @@ body {
 	line-height: 1.7;
 }
 
-.white_text {
-	color: #fff;
-	text-decoration: none;
-}
-
-.blue_text {
-	color: rgba(72,198,200,1);
-	text-decoration: none;
-}
 /* 手書き終わり */
 
 #n_217 {
@@ -364,7 +355,7 @@ body {
 }
 #Text_bg {
 	left: 36px;
-	top: 23px;
+	top: 19px;
 	position: absolute;
 	overflow: visible;
 	width: 181px;
@@ -443,7 +434,7 @@ body {
 }
 #MB_ {
 	left: 33px;
-	top: 8px;
+	top: 6px;
 	position: absolute;
 	overflow: visible;
 	width: 83px;
@@ -550,7 +541,7 @@ body {
 }
 #Text_bx {
 	left: 36px;
-	top: 23px;
+	top: 19px;
 	position: absolute;
 	overflow: visible;
 	width: 169px;

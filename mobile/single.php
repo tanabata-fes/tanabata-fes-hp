@@ -149,12 +149,12 @@
 			</rect>
 		</svg>
 		<div id="header_cf">
-			<div id="Logo">
+			<a href=".." id="Logo">
 				<img id="n_26" src="<?php bloginfo('template_url'); ?>/mobile/images/single/n_26.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/single/n_26.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/single/n_26@2x.png 2x">
 					
 				</svg>
-			</div>
-			<div id="n_233">
+			</a>
+			<a href=".." id="n_233">
 				<div id="n_191">
 					<div id="Text_ck">
 						<span>慶應義塾大学</span>
@@ -163,7 +163,7 @@
 						<span>第３３回七夕祭</span>
 					</div>
 				</div>
-			</div>
+			</a>
 			<a href="../menu" id="n_190">
 				<div id="n_189">
 					<svg class="n_1">
