@@ -87,16 +87,16 @@ body {
 }
 #n_3 {
 	left: 45px;
-	top: 271px;
+	top: 260px;
 	position: absolute;
 	overflow: visible;
 	width: 225px;
-	white-space: nowrap;
+	/* white-space: nowrap; */
 	text-align: left;
 	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 22px;
+	/* font-size: 22px; */
 	color: rgba(114,113,113,1);
 }
 #n_43 {
