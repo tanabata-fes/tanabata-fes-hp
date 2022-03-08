@@ -92,7 +92,7 @@
 				</rect>
 			</svg>
 			<div id="MB_">
-				<a href="tanabaat-fes.com/pr.pdf">
+				<a href="https://tanabaat-fes.com/pr.pdf">
 					広報資料（7.3MB）<br/>ダウンロード
 				</a>
 			</div>
