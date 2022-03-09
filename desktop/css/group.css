@@ -18,7 +18,7 @@
 #page-group {
 	position: absolute;
 	width: 1900px;
-	height: 5355px;
+	height: 3063px;
 	background-color: rgba(242,242,242,1);
 	overflow: hidden;
 	--web-view-name: page-group;
@@ -112,7 +112,7 @@ body {
 	width: 731px;
 	height: 76px;
 	left: 595px;
-	top: 5237px;
+	top: 2946px;
 	overflow: visible;
 }
 #footerMenu {

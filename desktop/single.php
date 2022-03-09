@@ -129,7 +129,7 @@
             <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
         </div>
         <div class="single_date">
-            <span><?php echo mysql2date('Y/n/j', $post->post_date); ?></span>
+            <span><?php echo mysql2date('Y/n/j', $post->post_date); ?></span><br><span>――――――――――――――――</span>
         </div>
     <?php
         endforeach; 
