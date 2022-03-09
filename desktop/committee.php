@@ -59,7 +59,7 @@
 				</rect>
 			</svg>
 			<div id="n_-2019">
-				<span> オフライン七夕祭（-2019）</span>
+				<span> オフライン七夕祭（～2019）</span>
 			</div>
 			<div id="text22pt4d4d4d" class="text22pt_4d4d4d">
 				<div id="n__________">
