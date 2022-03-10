@@ -13,9 +13,6 @@
     <div id="Text_s">
       <span>第３３回七夕祭</span>
     </div>
-    <div id="n_36">
-      <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
-    </div>
     <div id="n_1">
       <!-- トップの投稿。手書き部分始め -->
       <div id="sidebar">
@@ -70,6 +67,11 @@
       </div>
       <!-- 手書き部分終わり -->
     </div>
+    <?php if (count($datas) > 4): ?>
+      <div id="n_36">
+        <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
+      </div>
+    <?php endif; ?>
     <div id="n_147">
       <img id="n_146" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_146@2x.png 2x">      </svg>
     </div>
