@@ -44,9 +44,13 @@
                 $color_map = array(
                   "ABOUT US" => "#007CAA",
                   "ARCHIVES" => "#3DBBBC",
-                  "NO TAG"   => "#C0C0C0",
+                  "NO TAG"   => "#AFAFAF",
                 );
-                $color = $color_map[$tag];
+                if (array_key_exists($tag, $color_map)):
+                  $color = $color_map[$tag];
+                else:
+                  $color = "#F8C363";
+                endif;
               ?>
               
               <span class="post_tag" style="background-color: <?php echo $color; ?>"><?php echo $tag; ?></span>
