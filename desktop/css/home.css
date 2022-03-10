@@ -121,6 +121,26 @@ body {
 	font-size: 15px;
 	vertical-align: middle;
 }
+
+#scroll_button {
+	position: absolute;
+	width: 76px;
+	height: 76px;
+	left: 1798px;
+	top: 880px;
+	overflow: visible;
+	background-color: #F1880B;
+	border-radius: 38px;
+}
+
+#n_35 {
+	position: absolute;
+	width: 22px;
+	height: 36px;
+	left: 30px;
+	top: 20px;
+	overflow: visible;
+}
 /* 手書き終わり */
 
 #orangeBackground {
@@ -177,22 +197,6 @@ body {
 	font-weight: bold;
 	font-size: 80px;
 	color: rgba(72,198,200,1);
-}
-#n_36 {
-	position: absolute;
-	width: 21.875px;
-	height: 36.508px;
-	left: 1825px;
-	top: 900px;
-	overflow: visible;
-}
-#n_35 {
-	position: absolute;
-	width: 21.875px;
-	height: 36.508px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
 }
 #n_1 {
 	mix-blend-mode: normal;
