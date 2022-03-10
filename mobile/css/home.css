@@ -91,7 +91,6 @@ body {
 	padding-top: 5px; padding-bottom: 15pt;
 	margin: 15px;
 	border-radius: 13px;
-	vertical-align: middle;
 	color: #FFF;
 	text-decoration: none;
 }
@@ -105,7 +104,7 @@ body {
 	top: 100px;
 	color: #595757;
 	font-weight: bold;
-	text-height: 1;
+	line-height: 1.5;
 }
 
 .post_thumnail {
