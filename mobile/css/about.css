@@ -44,6 +44,31 @@
 body {
 	line-height: 1.7;
 }
+
+.logo_desc_box {
+	width: 281;
+	border-radius: 30px;
+	box-shadow: 20px 20px 0px #DCDDDD;
+}
+
+#asagao_box {
+	height: 349px;
+	background-color: #F8C363; 
+}
+#tsuta_box  { 
+	height: 206px;
+	position: absolute;
+	left: 45px;
+	top: 1538px;
+	background-color: #48C6C8; 
+}
+#hanabi_box {
+	height: 206px;
+	position: absolute;
+	left: 45px;
+	top: 1818px;
+	background-color: #007CAA; 
+}
 /* 手書き終わり */
 
 #n_217 {
