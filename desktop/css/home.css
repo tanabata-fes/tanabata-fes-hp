@@ -83,8 +83,9 @@ body {
 .post_tag {
 	display: block;
 	padding-right: 20px; padding-left: 20px;
-	min-width: fit-content;
-	width: 120px;
+	min-width: 120px;
+	width: fit-content;
+	max-width: 310px;
 	height: 36px;
 	font-size: 12pt;
 	font-weight: bold;
@@ -94,6 +95,9 @@ body {
 	border-radius: 18px;
 	color: #FFF;
 	text-decoration: none;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
 }
 
 .post_title {
