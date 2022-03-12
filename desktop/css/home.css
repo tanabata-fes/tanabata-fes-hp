@@ -48,6 +48,9 @@ body {
 	overflow-x: scroll;
 	width: 100%;
 	height: 100%;
+	scroll-snap-type: x mandatory;
+	scroll-snap-stop: normal;
+	scroll-padding: 0 0 190px 190px;
 	scrollbar-width: none;  /* Firefox */
 	font-family: fot-tsukuardgothic-std, ui-rounded;
 }
@@ -71,13 +74,14 @@ body {
 	background-color: #F7F8F8;
 	margin-left: 20px; margin-right: 20px;
 	text-decoration: none;
+	scroll-snap-align: start;
 }
 
 .post:first-child {
-	margin-left: 120pt;
+	margin-left: 190px;
 }
 .post:last-child {
-	margin-right: 120pt;
+	margin-right: 190px;
 }
 
 .post_tag {
