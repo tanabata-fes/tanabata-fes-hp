@@ -67,11 +67,15 @@
       </div>
       <!-- 手書き部分終わり -->
     </div>
-    <!-- <?php if (count($datas) > 4): ?>
-      <div id="n_36">
+    <?php if (count($datas) > 4): ?>
+      <script>
+      </script>
+      <div id="scroll_button" onclick="scroll_top_posts(370);">
         <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
       </div>
-    <?php endif; ?> -->
+      <script>
+      </script>
+    <?php endif; ?>
     <div id="n_147">
       <img id="n_146" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_146@2x.png 2x">      </svg>
     </div>
