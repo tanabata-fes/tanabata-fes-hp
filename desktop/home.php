@@ -82,10 +82,25 @@
           // });
         }
       </script>
-      <div id="scroll_button" onclick="scroll_top_posts(370);">
+      <!-- <div id="left_scroll_button" class="scroll_button" onclick="scroll_top_posts(370);">
+        <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
+      </div> -->
+      <div id="right_scroll_button" class="scroll_button" onclick="scroll_top_posts(370);">
         <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
       </div>
       <script>
+        // scroll_buttonを表示させたりさせなかったり
+        // window.onload = () => {}
+        //   const target = document.getElementByID("sidebar");
+        //   const observer = new MutationObserver((list, observer) => {
+        //     console.log("observed")
+        //     const mutation = list[0]
+        //     if (mutation.type !== "attributes") return;
+        //     if (mutation.attributeName !== "scrollLeft") return;
+        //     console.log(mutation.oldValue)
+        //   });
+        //   observer.observe(target, { attributes: true, attributeOldValue: true });
+        // }
       </script>
     <?php endif; ?>
     <div id="n_147">

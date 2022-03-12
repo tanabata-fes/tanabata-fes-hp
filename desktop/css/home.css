@@ -130,7 +130,7 @@ body {
 	vertical-align: middle;
 }
 
-#scroll_button {
+.scroll_button {
 	position: absolute;
 	width: 76px;
 	height: 76px;
@@ -140,6 +140,18 @@ body {
 	background-color: #F1880B;
 	border-radius: 38px;
 	cursor: pointer;
+}
+
+#left_scroll_button {
+	position: absolute;
+	left: 26px;
+	top: 880px;
+}
+
+#right_scroll_button {
+	position: absolute;
+	left: 1798px;
+	top: 880px;
 }
 
 #n_35 {
