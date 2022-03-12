@@ -71,20 +71,15 @@
       <script>
         function scroll_top_posts(x) {
           const topPosts = document.getElementById("sidebar");
-          console.log(topPosts.scrollLeft);
-          topPosts.scrollLeft += x
-          // topPosts.animate([
-          //   { scrollLeft: `${topPosts.scrollLeft + x }px` },
-          //   { scrollLeft: `${topPosts.scrollLeft}px` }
-          // ], {
-          //   duration: 100,
-          //   easing: 'ease'
-          // });
+          topPosts.scroll({
+            left: topPosts.scrollLeft + x,
+            behavior: 'smooth'
+          });
         }
       </script>
-      <!-- <div id="left_scroll_button" class="scroll_button" onclick="scroll_top_posts(370);">
+      <div id="left_scroll_button" class="scroll_button" onclick="scroll_top_posts(-370);" style="visibility: hidden">
         <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
-      </div> -->
+      </div>
       <div id="right_scroll_button" class="scroll_button" onclick="scroll_top_posts(370);">
         <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
       </div>
