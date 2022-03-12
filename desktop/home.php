@@ -19,7 +19,7 @@
         <div>
           <?php 
             $args = array(
-              'posts_per_page' => 8,
+              'posts_per_page' => 10,
               'orderby' => 'ID',
               'order' => 'DESC',
               'category_name' => 'TOP',
@@ -67,11 +67,42 @@
       </div>
       <!-- 手書き部分終わり -->
     </div>
-    <!-- <?php if (count($datas) > 4): ?>
-      <div id="n_36">
+    <?php if (count($datas) > 4): ?>
+      <script>
+        function scroll_top_posts(x) {
+          const topPosts = document.getElementById("sidebar");
+          console.log(topPosts.scrollLeft);
+          topPosts.scrollLeft += x
+          // topPosts.animate([
+          //   { scrollLeft: `${topPosts.scrollLeft + x }px` },
+          //   { scrollLeft: `${topPosts.scrollLeft}px` }
+          // ], {
+          //   duration: 100,
+          //   easing: 'ease'
+          // });
+        }
+      </script>
+      <!-- <div id="left_scroll_button" class="scroll_button" onclick="scroll_top_posts(370);">
+        <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
+      </div> -->
+      <div id="right_scroll_button" class="scroll_button" onclick="scroll_top_posts(370);">
         <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
       </div>
-    <?php endif; ?> -->
+      <script>
+        // scroll_buttonを表示させたりさせなかったり
+        // window.onload = () => {}
+        //   const target = document.getElementByID("sidebar");
+        //   const observer = new MutationObserver((list, observer) => {
+        //     console.log("observed")
+        //     const mutation = list[0]
+        //     if (mutation.type !== "attributes") return;
+        //     if (mutation.attributeName !== "scrollLeft") return;
+        //     console.log(mutation.oldValue)
+        //   });
+        //   observer.observe(target, { attributes: true, attributeOldValue: true });
+        // }
+      </script>
+    <?php endif; ?>
     <div id="n_147">
       <img id="n_146" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_146.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_146@2x.png 2x">      </svg>
     </div>

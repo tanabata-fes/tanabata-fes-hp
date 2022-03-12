@@ -269,7 +269,7 @@
 			<div>
 				<?php 
 					$args = array(
-						'posts_per_page' => 4,
+						'posts_per_page' => 10,
 						'orderby' => 'ID',
 						'order' => 'DESC',
 						'category_name' => 'TOP',
