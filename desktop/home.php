@@ -84,18 +84,21 @@
         <img id="n_35" src="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/home/n_35.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/home/n_35@2x.png 2x">      </svg>
       </div>
       <script>
-        // scroll_buttonを表示させたりさせなかったり
-        // window.onload = () => {}
-        //   const target = document.getElementByID("sidebar");
-        //   const observer = new MutationObserver((list, observer) => {
-        //     console.log("observed")
-        //     const mutation = list[0]
-        //     if (mutation.type !== "attributes") return;
-        //     if (mutation.attributeName !== "scrollLeft") return;
-        //     console.log(mutation.oldValue)
-        //   });
-        //   observer.observe(target, { attributes: true, attributeOldValue: true });
-        // }
+        const topPosts = document.getElementById("sidebar");
+        topPosts.onscroll = function() {
+          const leftButton = document.getElementById("left_scroll_button");
+          const rightButton = document.getElementById("right_scroll_button");
+          console.log(`scrollWidth: ${this.scrollWidth}`)
+          console.log(`offsetWidth: ${this.offsetWidth}`)
+          if (this.scrollLeft === 0) {
+            leftButton.style.visibility = "hidden";
+          } else if (this.scrollLeft === (this.scrollWidth - this.offsetWidth)) {
+            rightButton.style.visibility = "hidden";
+          } else {
+            leftButton.style.visibility = "visible";
+            rightButton.style.visibility = "visible";
+          }
+        }
       </script>
     <?php endif; ?>
     <div id="n_147">
