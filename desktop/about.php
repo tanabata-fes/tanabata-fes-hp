@@ -36,7 +36,7 @@
 	</div>
 	<div id="Group">
 		<div id="n_1__36" class="________1___36">
-		<div id="asagao_box" class="logo_desc_box"></div>
+			<div id="asagao_box" class="logo_desc_box"></div>
 			<span id="Text_">朝顔</span>
 			<span id="n_______">夏を象徴する花であると同時に、<br/>朝を告げる花でもあります。<br/>夜になるとしぼみ、<br/>自らが咲く時をじっと待つ花。<br/>花言葉は「愛情」「結束」「絆」。<br/>江戸時代には「牽牛花」（彦星を指す<br/>言葉）や「朝顔姫」（織姫と重ねてそう呼んだとされる）とも呼ばれており、朝顔が美しく咲くと<br/>『彦星と織姫の七夕の逢瀬が叶った』と言われていました。</span>
 		</div>
@@ -50,7 +50,7 @@
 	</div>
 	<div id="Group_bd">
 		<div id="n_1__38" class="________1___38">
-		<div id="hanabi_box" class="logo_desc_box"></div>
+			<div id="hanabi_box" class="logo_desc_box"></div>
 			<span id="Text_bh">花火</span>
 			<span id="SFC____">七夕祭の象徴であり、SFCの夏の風物詩。<br/>多くの花がしぼんでしまう夜こそ、<br/>明るく空を照らす夜の華です。<br/>天高くに向かって<br/>花が咲き誇る様を表しています。</span>
 		</div>

@@ -88,8 +88,6 @@
         topPosts.onscroll = function() {
           const leftButton = document.getElementById("left_scroll_button");
           const rightButton = document.getElementById("right_scroll_button");
-          console.log(`scrollWidth: ${this.scrollWidth}`)
-          console.log(`offsetWidth: ${this.offsetWidth}`)
           if (this.scrollLeft === 0) {
             leftButton.style.visibility = "hidden";
           } else if (this.scrollLeft === (this.scrollWidth - this.offsetWidth)) {
@@ -113,41 +111,40 @@
         </rect>
       </svg>
       <div id="n_131">
-      <?php
-        // 取得したい内容を配列に記載します（不要箇所は省略可）
-        $args = array(
-	    'posts_per_page'   => -1, // 読み込みしたい記事数（全件取得時は-1）
-	    'orderby'          => 'ID', // 何順で記事を読み込むか（省略時は日付順）
-	    'order'            => 'DESC', // 昇順(ASC)か降順か(DESC）
-        );
-    
-        // 配列で指定した内容で、記事情報を取得
-        $datas = get_posts( $args );
-    
-        // 取得した記事情報の表示
-        if ( $datas ): // 記事情報がある場合はforeachで記事情報を表示
+        <?php
+          // 取得したい内容を配列に記載します（不要箇所は省略可）
+          $args = array(
+            'posts_per_page' => -1, // 読み込みしたい記事数（全件取得時は-1）
+            'orderby'        => 'ID', // 何順で記事を読み込むか（省略時は日付順）
+            'order'          => 'DESC', // 昇順(ASC)か降順か(DESC）
+          );
+      
+          // 配列で指定した内容で、記事情報を取得
+          $datas = get_posts( $args );
+      
+          // 取得した記事情報の表示
+          if ( $datas ): // 記事情報がある場合はforeachで記事情報を表示
             // ↓ ループ開始 ↓
             foreach ( $datas as $post ): // $datas as $post の $datas は取得時に設定した変数名、$postは変更不可
-                setup_postdata( $post ); // アーカイブページ同様にthe_titleなどで記事情報を表示できるようにする
-    ?>
-      <div class="single_content">
-        <div class="single_date">
-            <span><?php echo mysql2date('Y/n/j', $post->post_date); ?></span>
-        </div>
-        <div class="single_title">
-            <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
-        </div>
-      </div>
-    <?php
-        endforeach; 
-        // ↑ ループ終了 ↑
-        else: // 記事情報がなかったら
-    ?>
-    <?php
-        endif;
-        // 一覧情報取得に利用したループをリセットする
-        wp_reset_postdata();
-    ?>
+              setup_postdata( $post ); // アーカイブページ同様にthe_titleなどで記事情報を表示できるようにする
+        ?>
+              <div class="single_content">
+                <div class="single_date">
+                  <span><?php echo mysql2date('Y/n/j', $post->post_date); ?></span>
+                </div>
+                <div class="single_title">
+                  <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
+                </div>
+              </div>
+        <?php
+            endforeach; 
+          // ↑ ループ終了 ↑
+          else: // 記事情報がなかったら
+            
+          endif;
+          // 一覧情報取得に利用したループをリセットする
+          wp_reset_postdata();
+        ?>
       </div>
     </div>
     <div id="n_133">
