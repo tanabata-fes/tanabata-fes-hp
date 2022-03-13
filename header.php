@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
     <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     <meta charset="UTF-8">
-    <link rel="icon" href="<?php echo get_template_directory_uri(); ?>/img/favicon.png"> <title>七夕祭</title>
+    <link rel="icon" href="<?php echo get_template_directory_uri(); ?>/img/favicon.png">
     <meta name="theme-color" content="#f2f2f2">
 
     <?php if (wp_is_mobile()): ?>
@@ -22,6 +22,9 @@
 
     <link rel="stylesheet" type="text/css" href="<?php bloginfo( 'stylesheet_url' ); ?>" media="all" />
     <?php if ( is_home() ): ?>
+        <title>七夕祭</title>
+        <meta name="apple-mobile-web-app-title" content="七夕祭">
+
         <?php if (wp_is_mobile()): ?>
             <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/home.css">
         <?php else: ?>
@@ -29,6 +32,9 @@
         <?php endif; ?>
     <?php endif; ?>
     <?php if ( is_page('about') ): ?>
+        <title>七夕祭について | 七夕祭</title>
+        <meta name="apple-mobile-web-app-title" content="七夕祭について | 七夕祭">
+
         <?php if (wp_is_mobile()): ?>
             <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/about.css">
         <?php else: ?>
@@ -36,6 +42,9 @@
         <?php endif; ?>
     <?php endif; ?>
     <?php if ( is_page('access') ): ?>
+        <title>アクセス | 七夕祭</title>
+        <meta name="apple-mobile-web-app-title" content="アクセス | 七夕祭">
+
         <?php if (wp_is_mobile()): ?>
             <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/access.css">
         <?php else: ?>
@@ -43,6 +52,9 @@
         <?php endif; ?>
     <?php endif; ?>
     <?php if ( is_page('committee') ): ?>
+        <title>実行委員会 | 七夕祭</title>
+        <meta name="apple-mobile-web-app-title" content="実行委員会 | 七夕祭">
+
         <?php if (wp_is_mobile()): ?>
             <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/committee.css">
         <?php else: ?>
@@ -50,6 +62,9 @@
         <?php endif; ?>
     <?php endif; ?>
     <?php if ( is_page('contact') ): ?>
+        <title>お問い合わせ | 七夕祭</title>
+        <meta name="apple-mobile-web-app-title" content="お問い合わせ | 七夕祭">
+
         <?php if (wp_is_mobile()): ?>
             <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/contact.css">
         <?php else: ?>
@@ -57,6 +72,9 @@
         <?php endif; ?>
     <?php endif; ?>
     <?php if ( is_page('donation') ): ?>
+        <title>ご協賛・ご寄付 | 七夕祭</title>
+        <meta name="apple-mobile-web-app-title" content="ご協賛・ご寄付 | 七夕祭">
+
         <?php if (wp_is_mobile()): ?>
             <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/donation.css">
         <?php else: ?>
@@ -64,6 +82,9 @@
         <?php endif; ?>
     <?php endif; ?>
     <?php if ( is_page('group') ): ?>
+        <title>参加団体の方へ | 七夕祭</title>
+        <meta name="apple-mobile-web-app-title" content="参加団体の方へ | 七夕祭">
+
         <?php if (wp_is_mobile()): ?>
             <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/group.css">
         <?php else: ?>
@@ -71,6 +92,9 @@
         <?php endif; ?>
     <?php endif; ?>
     <?php if ( is_page('privacy') ): ?>
+        <title>プライバシーポリシー | 七夕祭</title>
+        <meta name="apple-mobile-web-app-title" content="プライバシーポリシー | 七夕祭">
+
         <?php if (wp_is_mobile()): ?>
             <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/privacy.css">
         <?php else: ?>
@@ -78,6 +102,9 @@
         <?php endif; ?>
     <?php endif; ?>    
     <?php if ( is_single() ): ?>
+        <title>お知らせ | 七夕祭</title>
+        <meta name="apple-mobile-web-app-title" content="お知らせ | 七夕祭">
+
         <?php if (wp_is_mobile()): ?>
             <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/single.css">
         <?php else: ?>
@@ -86,6 +113,9 @@
     <?php endif; ?>
 
     <?php if (is_page('menu')): ?>
+        <title>メニュー | 七夕祭</title>
+        <meta name="apple-mobile-web-app-title" content="メニュー | 七夕祭">
+
         <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="<?php echo get_template_directory_uri(); ?>/mobile/css/menu.css">
     <?php endif; ?>
     <?php wp_head(); ?>
