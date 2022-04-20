@@ -178,7 +178,7 @@ body {
 	width: 345.544px;
 	height: 24.359px;
 	left: 44.456px;
-	top: 895.943px;
+	top: 1150px;
 	overflow: visible;
 }
 #n_62 {
@@ -224,7 +224,7 @@ body {
 	width: 269.515px;
 	height: 14.717px;
 	left: 0px;
-	top: 1150.585px;
+	top: 1300px;
 	overflow: visible;
 }
 #n_61_ba {
@@ -240,7 +240,7 @@ body {
 	width: 192px;
 	height: 22px;
 	left: 153px;
-	top: 1135.943px;
+	top: 1300px;
 	overflow: visible;
 }
 #Text_ba {
@@ -777,4 +777,8 @@ body {
 	font-size: 9px;
 	color: rgba(137,137,137,1);
 	letter-spacing: 2px;
+}
+
+img {
+	width: 100%;
 }

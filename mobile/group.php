@@ -29,7 +29,7 @@
 		</div>
 	</div>
 	<div id="n_02272333_____">
-	    <span>2022年7月2日、7月3日に行われる第33回七夕祭に参加する団体・個人様を募集いたします。</br>教室を使った企画をはじめ、ステージでのパフォーマンスや模擬店の出店など、大きく5つの参加形態をご用意しております。</br>参加するには第1回参加団体説明会への出席が必須となっています。</br>詳しくはこちらのgoogleサイトをご覧ください。（keio.jpの認証があります。）</br>https://sites.google.com/keio.jp/tana33th-setumeikai1/%E3%83%9B%E3%83%BC%E3%83%A0</span>
+	    <span>2022年7月2日、7月3日に行われる第33回七夕祭に参加する団体・個人様を募集いたします。</br>教室を使った企画をはじめ、ステージでのパフォーマンスや模擬店の出店など、大きく5つの参加形態をご用意しております。</br>参加するには第1回参加団体説明会への出席が必須となっています。</br>詳しくはこちらのgoogleサイトをご覧ください。（keio.jpの認証があります。）</br><a href="https://sites.google.com/keio.jp/tana33th-setumeikai1/%E3%83%9B%E3%83%BC%E3%83%A0">https://sites.google.com/keio.jp/tana33th-setumeikai1/%E3%83%9B%E3%83%BC%E3%83%A0</a></span>
 		<img src="<?php bloginfo('template_url'); ?>/mobile/images/group/pic_soukaikouhou.png">
 	</div>
 	<div id="n_225">
