@@ -502,7 +502,7 @@ body {
 	width: 655px;
 	height: 207px;
 	left: 905px;
-	top: 1066px;
+	top: 1100px;
 	overflow: visible;
 }
 #n_02272333_____ {
@@ -524,7 +524,7 @@ body {
 	width: 350px;
 	height: 50px;
 	left: 360px;
-	top: 1900px;
+	top: 1600px;
 	overflow: visible;
 }
 #Text_b {
@@ -546,7 +546,7 @@ body {
 	width: 1080.971px;
 	height: 59.028px;
 	left: 839.029px;
-	top: 1900px;
+	top: 1600px;
 	overflow: visible;
 }
 #n_61_b {
@@ -1242,7 +1242,7 @@ div#group_schedule {
 }
 
 div#group_docs {
-    top: 2045px;
+    top: 1830px;
     left: 360px;
     position: absolute;
     font-family: fot-tsukuardgothic-std, ui-rounded;
