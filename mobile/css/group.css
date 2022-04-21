@@ -782,3 +782,23 @@ body {
 img {
 	width: 100%;
 }
+
+div#group_schedule {
+    top: 2400px;
+    position: absolute;
+    left: 1100px;
+    font-family: fot-tsukuardgothic-std, ui-rounded;
+    color: #595757;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+div#group_docs {
+    top: 1830px;
+    left: 360px;
+    position: absolute;
+    font-family: fot-tsukuardgothic-std, ui-rounded;
+    color: #595757;
+    font-size: 22px;
+    font-weight: bold;
+}

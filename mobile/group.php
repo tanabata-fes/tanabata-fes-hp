@@ -29,7 +29,9 @@
 		</div>
 	</div>
 	<div id="n_02272333_____">
-	    <span>2022年7月2日、7月3日に行われる第33回七夕祭に参加する団体・個人様を募集いたします。</br>教室を使った企画をはじめ、ステージでのパフォーマンスや模擬店の出店など、大きく5つの参加形態をご用意しております。</br>参加するには第1回参加団体説明会への出席が必須となっています。</br>詳しくはこちらのgoogleサイトをご覧ください。（keio.jpの認証があります。）</br><a href="https://sites.google.com/keio.jp/tana33th-setumeikai1/%E3%83%9B%E3%83%BC%E3%83%A0">https://sites.google.com/keio.jp/tana33th-setumeikai1/%E3%83%9B%E3%83%BC%E3%83%A0</a></span>
+	    <span>
+			第1回参加団体説明会は終了いたしました。ご参加いただいた皆さまありがとうございました。</br>説明会で使用したスライドや各種フォーム、資料はこちらのサイトに掲載しております。</br>七夕祭への参加をご希望で説明会に参加されなかった方は、</br>contact@tanabata-fes.comまでお問い合わせください。</br><a href="https://sites.google.com/keio.jp/tana33th-setumeikai1/%E3%83%9B%E3%83%BC%E3%83%A0">https://sites.google.com/keio.jp/tana33th-setumeikai1/</a>
+		</span>
 		<img src="<?php bloginfo('template_url'); ?>/mobile/images/group/pic_soukaikouhou.png">
 	</div>
 	<div id="n_225">
@@ -44,6 +46,9 @@
 			</div>
 		</div>
 	</div>
+	<div id="group_docs">
+		<span>上述のGoogleサイトにて、参加団体規約、感染症対策資料、</br>各種フォーム、第1回参加団体説明会スライドを掲載しております。</span>
+    </div>
 	<div id="n_62_">
 		<img id="n_61_ba" src="<?php bloginfo('template_url'); ?>/mobile/images/group/n_61_ba.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/group/n_61_ba.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/group/n_61_ba@2x.png 2x">
 			
@@ -51,9 +56,22 @@
 	</div>
 	<div id="text22pt595757_ba" class="text22pt_595757">
 		<div id="Text_ba">
-			<span>直近のスケジュール</span>
+			<span>今後のスケジュール</span>
 		</div>
 	</div>
+	<div id="group_schedule">
+		<ul>
+			<li>5/1　21:00　第33回七夕祭 参加登録フォーム、第33回七夕祭 教室企画/</br> 模擬店(テント)企画/ステージ企画/開閉会式参加申請フォーム締切</li>
+			<li>5/8　21:00　食品販売調査書・食品販売調査書チェックリスト締切</li>
+			<li>5/18　第2回参加団体説明会</li>
+			<li>5/19　21:00　参加費・義務保証金の振り込み締切</li>
+			<li>6/8　第3回参加団体説明会</li>
+			<li>6月下旬　防火講習会</li>
+			<li>6月下旬　衛生講習会</li>
+			<li>6月下旬　ステージリハーサル</li>
+			<li>7/2, 7/3　七夕祭</li>
+		</ul>
+    </div>
 	<div id="n_24__4" class="________24___4">
 		<div id="Copyright__2023___All_Rights_R">
 			<span>Copyright ©️ 2022 慶應義塾大学 七夕祭 All Rights Reserved. </span>
