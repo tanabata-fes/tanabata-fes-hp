@@ -122,7 +122,7 @@
 	<div id="text22pt595757_bx" class="text22pt_595757">
 		<div id="n_02272333_____">
 			<span>
-				第1回参加団体説明会は終了いたしました。ご参加いただいた皆さまありがとうございました。</br>説明会で使用したスライドや各種フォーム、資料はこちらのサイトに掲載しております。</br>七夕祭への参加をご希望で説明会に参加されなかった方は、contact@tanabata-fes.comまでお問い合わせください。</br><a href="https://sites.google.com/keio.jp/tana33th-setumeikai1/%E3%83%9B%E3%83%BC%E3%83%A0">https://sites.google.com/keio.jp/tana33th-setumeikai1/%E3%83%9B%E3%83%BC%E3%83%A0</a>
+				第1回参加団体説明会は終了いたしました。ご参加いただいた皆さまありがとうございました。</br>説明会で使用したスライドや各種フォーム、資料はこちらのサイトに掲載しております。</br>七夕祭への参加をご希望で説明会に参加されなかった方は、</br>contact@tanabata-fes.comまでお問い合わせください。</br><a href="https://sites.google.com/keio.jp/tana33th-setumeikai1/%E3%83%9B%E3%83%BC%E3%83%A0">https://sites.google.com/keio.jp/tana33th-setumeikai1/</a>
 		    </span>
 		</div>
 	</div>
@@ -141,12 +141,12 @@
 	</div>
 	<div id="subTitle50pt727171_b" class="subTitle50pt__727171">
 		<div id="Text_ca">
-			<span>直近のスケジュール</span>
+			<span>今後のスケジュール</span>
 		</div>
 	</div>
 	<div id="group_schedule">
 		<ul>
-			<li>5/1　21:00　第33回七夕祭 参加登録フォーム、第33回七夕祭 教室企画/ 模擬店(テント)企画/ステージ企画/開閉会式参加申請フォーム締切</li>
+			<li>5/1　21:00　第33回七夕祭 参加登録フォーム、第33回七夕祭 教室企画/</br> 模擬店(テント)企画/ステージ企画/開閉会式参加申請フォーム締切</li>
 			<li>5/8　21:00　食品販売調査書・食品販売調査書チェックリスト締切</li>
 			<li>5/18　第2回参加団体説明会</li>
 			<li>5/19　21:00　参加費・義務保証金の振り込み締切</li>
