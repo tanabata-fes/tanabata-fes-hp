@@ -791,6 +791,8 @@ div#group_schedule {
     color: #595757;
     font-size: 12px;
     font-weight: bold;
+	/*箇条書きの点を中に入れるやつです*/
+	list-style-position: inside;
 }
 
 div#group_docs {
