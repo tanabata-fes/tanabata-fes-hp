@@ -484,8 +484,8 @@ body {
 	overflow: visible;
 }
 #n_3 {
-	left: 0px;
-	top: 0px;
+	left: 300px;
+	top: 20px;
 	position: absolute;
 	overflow: visible;
 	width: 911px;
@@ -502,7 +502,7 @@ body {
 	width: 655px;
 	height: 207px;
 	left: 905px;
-	top: 1066px;
+	top: 1100px;
 	overflow: visible;
 }
 #n_02272333_____ {
@@ -510,9 +510,9 @@ body {
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 656px;
+	width: 975px;
 	white-space: nowrap;
-	text-align: right;
+	text-align: left;
 	font-family: fot-tsukuardgothic-std, ui-rounded;
 	font-style: normal;
 	font-weight: bold;
@@ -524,7 +524,7 @@ body {
 	width: 350px;
 	height: 50px;
 	left: 360px;
-	top: 1473px;
+	top: 1600px;
 	overflow: visible;
 }
 #Text_b {
@@ -546,7 +546,7 @@ body {
 	width: 1080.971px;
 	height: 59.028px;
 	left: 839.029px;
-	top: 1491.067px;
+	top: 1600px;
 	overflow: visible;
 }
 #n_61_b {
@@ -1224,3 +1224,29 @@ a {
 	text-decoration: none;
 }
 
+img {
+	width: 100%;
+	right: 0;
+    margin: 20px;
+	position: absolute;
+}
+
+div#group_schedule {
+    top: 2400px;
+    position: absolute;
+    left: 1100px;
+    font-family: fot-tsukuardgothic-std, ui-rounded;
+    color: #595757;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+div#group_docs {
+    top: 1830px;
+    left: 360px;
+    position: absolute;
+    font-family: fot-tsukuardgothic-std, ui-rounded;
+    color: #595757;
+    font-size: 22px;
+    font-weight: bold;
+}

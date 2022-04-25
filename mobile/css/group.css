@@ -178,7 +178,7 @@ body {
 	width: 345.544px;
 	height: 24.359px;
 	left: 44.456px;
-	top: 895.943px;
+	top: 960px;
 	overflow: visible;
 }
 #n_62 {
@@ -224,7 +224,7 @@ body {
 	width: 269.515px;
 	height: 14.717px;
 	left: 0px;
-	top: 1150.585px;
+	top: 1130px;
 	overflow: visible;
 }
 #n_61_ba {
@@ -240,7 +240,7 @@ body {
 	width: 192px;
 	height: 22px;
 	left: 153px;
-	top: 1135.943px;
+	top: 1130px;
 	overflow: visible;
 }
 #Text_ba {
@@ -777,4 +777,30 @@ body {
 	font-size: 9px;
 	color: rgba(137,137,137,1);
 	letter-spacing: 2px;
+}
+
+img {
+	width: 100%;
+}
+
+div#group_schedule {
+    top: 1180px;
+    position: absolute;
+    left: 45px;
+    font-family: fot-tsukuardgothic-std, ui-rounded;
+    color: #595757;
+    font-size: 12px;
+    font-weight: bold;
+	/*箇条書きの点を中に入れるやつです*/
+	list-style-position: inside;
+}
+
+div#group_docs {
+    top: 1010px;
+    left: 45px;
+    position: absolute;
+    font-family: fot-tsukuardgothic-std, ui-rounded;
+    color: #595757;
+    font-size: 14px;
+    font-weight: bold;
 }
