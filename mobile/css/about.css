@@ -1,0 +1,939 @@
+.mediaViewInfo {
+	--web-view-name: page-about;
+	--web-view-id: page-about;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: page-about;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#page-about {
+	position: absolute;
+	width: 390px;
+	height: 2646px;
+	background-color: rgba(242,242,242,1);
+	overflow: hidden;
+	--web-view-name: page-about;
+	--web-view-id: page-about;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+
+
+/* 手書き始め */
+body {
+	line-height: 1.7;
+}
+
+.logo_desc_box {
+	width: 281;
+	border-radius: 30px;
+	box-shadow: 20px 20px 0px #DCDDDD;
+}
+
+#asagao_box {
+	height: 349px;
+	background-color: #F8C363; 
+}
+#tsuta_box  { 
+	height: 206px;
+	position: absolute;
+	left: 45px;
+	top: 1538px;
+	background-color: #48C6C8; 
+}
+#hanabi_box {
+	height: 206px;
+	position: absolute;
+	left: 45px;
+	top: 1818px;
+	background-color: #007CAA; 
+}
+/* 手書き終わり */
+
+#n_217 {
+	position: absolute;
+	width: 345px;
+	height: 62.333px;
+	left: 0px;
+	top: 159px;
+	overflow: visible;
+}
+#n_216 {
+	position: absolute;
+	width: 299px;
+	height: 62.333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_215 {
+	position: absolute;
+	width: 299px;
+	height: 62.333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Text {
+	left: 136px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(114,113,113,1);
+}
+#text22pt595757 {
+	position: absolute;
+	width: 175px;
+	height: 22px;
+	left: 108px;
+	top: 261px;
+	overflow: visible;
+}
+#Text_u {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(89,87,87,1);
+}
+#n_30 {
+	fill: rgba(255,255,255,1);
+}
+.n_30 {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 314px;
+	left: 45px;
+	top: 313px;
+}
+#text14pt595757 {
+	position: absolute;
+	width: 250px;
+	height: 254px;
+	left: 70px;
+	top: 343px;
+	overflow: visible;
+}
+#n__SFC________ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	height: 254px;
+	text-align: center;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(89,87,87,1);
+}
+#text22pt595757_y {
+	position: absolute;
+	width: 131px;
+	height: 22px;
+	left: 130px;
+	top: 697px;
+	overflow: visible;
+}
+#Text_z {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(89,87,87,1);
+}
+#LOGOS {
+	position: absolute;
+	width: 300px;
+	height: 299.985px;
+	left: 45px;
+	top: 764px;
+	overflow: visible;
+}
+#n_60 {
+	position: absolute;
+	width: 300px;
+	height: 299.985px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_218 {
+	position: absolute;
+	width: 300px;
+	height: 373.222px;
+	left: 45px;
+	top: 1114.312px;
+	overflow: visible;
+}
+#n_20 {
+	fill: rgba(220,221,221,1);
+}
+.n_20 {
+	overflow: visible;
+	position: absolute;
+	width: 280.702px;
+	height: 355.094px;
+	left: 19.298px;
+	top: 18.129px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_19 {
+	fill: rgba(248,195,99,1);
+}
+.n_19 {
+	overflow: visible;
+	position: absolute;
+	width: 280.702px;
+	height: 347.852px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Text_ {
+	left: 25px;
+	top: 33.688px;
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(77,77,77,1);
+}
+#n____ {
+	left: 25px;
+	top: 69.688px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 254px;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#n_20_ {
+	fill: rgba(220,221,221,1);
+}
+.n_20_ {
+	overflow: visible;
+	position: absolute;
+	width: 280.702px;
+	height: 211.381px;
+	left: 64.298px;
+	top: 1555.99px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_19_ {
+	fill: rgba(72,198,200,1);
+}
+.n_19_ {
+	overflow: visible;
+	position: absolute;
+	width: 280.702px;
+	height: 204.97px;
+	left: 45px;
+	top: 1537.861px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Text_ba {
+	left: 70px;
+	top: 1571.549px;
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(77,77,77,1);
+}
+#n_ {
+	left: 70px;
+	top: 1607.549px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 110px;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#n_78 {
+	fill: rgba(220,221,221,1);
+}
+.n_78 {
+	overflow: visible;
+	position: absolute;
+	width: 280.702px;
+	height: 211.381px;
+	left: 64.298px;
+	top: 1835.99px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_79 {
+	fill: rgba(0,124,170,1);
+}
+.n_79 {
+	overflow: visible;
+	position: absolute;
+	width: 280.702px;
+	height: 204.97px;
+	left: 45px;
+	top: 1817.861px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Text_bd {
+	left: 70px;
+	top: 1844.549px;
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(77,77,77,1);
+}
+#SFC {
+	left: 70px;
+	top: 1887.549px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 110px;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#n_228 {
+	position: absolute;
+	width: 298.587px;
+	height: 157px;
+	left: 45.707px;
+	top: 2147.627px;
+	overflow: visible;
+}
+#n_115 {
+	fill: rgba(255,255,255,1);
+}
+.n_115 {
+	position: absolute;
+	overflow: visible;
+	width: 298.586px;
+	height: 157px;
+	left: 0px;
+	top: 0px;
+}
+#n__bh {
+	left: 30.293px;
+	top: 30.547px;
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(89,87,87,1);
+}
+#n_138 {
+	position: absolute;
+	width: 148.882px;
+	height: 42.773px;
+	left: 74.853px;
+	top: 83.373px;
+	overflow: visible;
+}
+#n_38 {
+	fill: rgba(255,174,35,1);
+}
+.n_38 {
+	position: absolute;
+	overflow: visible;
+	width: 148.882px;
+	height: 42.773px;
+	left: 0px;
+	top: 0px;
+}
+#MB_ {
+	left: 33px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+#n_24__2 {
+	position: absolute;
+	width: 279px;
+	height: 179px;
+	left: 56px;
+	top: 2453px;
+	overflow: visible;
+}
+#Copyright__2023___All_Rights_R {
+	left: 0px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(89,87,87,1);
+}
+#n_201 {
+	position: absolute;
+	width: 118px;
+	height: 132px;
+	left: 80px;
+	top: 0px;
+	overflow: visible;
+}
+#headerMenu {
+	position: absolute;
+	width: 84px;
+	height: 12px;
+	left: 17px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: page_donation.html;
+	cursor: pointer;
+}
+#Text_bp {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(89,87,87,1);
+}
+#n_16 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 55px;
+	top: 22px;
+	overflow: visible;
+}
+#n_8 {
+	fill: rgba(255,156,13,1);
+}
+.n_8 {
+	overflow: visible;
+	position: absolute;
+	width: 0.136px;
+	height: 1.724px;
+	left: 3.731px;
+	top: 5.276px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_7 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_6 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_9 {
+	fill: rgba(255,156,13,1);
+}
+.n_9 {
+	overflow: visible;
+	position: absolute;
+	width: 1.647px;
+	height: 0.457px;
+	left: 0.858px;
+	top: 4.24px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_9_bv {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_8_bw {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_10 {
+	fill: rgba(255,156,13,1);
+}
+.n_10 {
+	overflow: visible;
+	position: absolute;
+	width: 0.88px;
+	height: 1.443px;
+	left: 2.177px;
+	top: 0.999px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_11 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_10_bz {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_25 {
+	fill: transparent;
+}
+.n_25 {
+	overflow: visible;
+	position: absolute;
+	width: 1.101px;
+	height: 1.349px;
+	left: 5.226px;
+	top: 1.253px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_13 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_12 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_11_b {
+	fill: rgba(255,156,13,1);
+}
+.n_11_b {
+	overflow: visible;
+	position: absolute;
+	width: 1.562px;
+	height: 0.61px;
+	left: 5.296px;
+	top: 4.406px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_15 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_14 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Text_b {
+	left: 36px;
+	top: 40px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: page_access.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(89,87,87,1);
+}
+#n_18 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 55px;
+	top: 62px;
+	overflow: visible;
+}
+#n_17 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Text_ca {
+	left: 0px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: page_privacy.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(89,87,87,1);
+}
+#n_20_ca {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 55px;
+	top: 102px;
+	overflow: visible;
+}
+#n_19_cb {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Text_cc {
+	left: 23px;
+	top: 120px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: page_contact.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(89,87,87,1);
+}
+#header {
+	position: absolute;
+	width: 390px;
+	height: 110px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_119 {
+	fill: rgba(242,242,242,1);
+}
+.n_119 {
+	position: absolute;
+	overflow: visible;
+	width: 390px;
+	height: 110px;
+	left: 0px;
+	top: 0px;
+}
+#header_cf {
+	position: absolute;
+	width: 349.016px;
+	height: 64px;
+	left: 20.492px;
+	top: 30px;
+	overflow: visible;
+}
+#Logo {
+	position: absolute;
+	width: 50.019px;
+	height: 50px;
+	left: 0px;
+	top: 7px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+}
+#n_26 {
+	position: absolute;
+	width: 50.019px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+}
+#n_233 {
+	position: absolute;
+	width: 154px;
+	height: 42px;
+	left: 68.032px;
+	top: 11px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+}
+#n_191 {
+	position: absolute;
+	width: 154px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Text_ck {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(137,137,137,1);
+}
+#Text_cl {
+	left: 0px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(72,198,200,1);
+}
+#n_190 {
+	position: absolute;
+	width: 50px;
+	height: 64px;
+	left: 299.016px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: menu.html;
+	cursor: pointer;
+}
+#n_189 {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_1 {
+	fill: rgba(255,174,35,1);
+}
+.n_1 {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#n_188 {
+	position: absolute;
+	width: 21.5px;
+	height: 12px;
+	left: 14.553px;
+	top: 19.576px;
+	overflow: visible;
+}
+#n_44 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_44 {
+	overflow: visible;
+	position: absolute;
+	width: 23.5px;
+	height: 2px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_45 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_45 {
+	overflow: visible;
+	position: absolute;
+	width: 23.5px;
+	height: 2px;
+	left: 0px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_46 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_46 {
+	overflow: visible;
+	position: absolute;
+	width: 23.5px;
+	height: 2px;
+	left: 0px;
+	top: 12px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#MENU {
+	left: 9px;
+	top: 55px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 9px;
+	color: rgba(137,137,137,1);
+	letter-spacing: 2px;
+}
