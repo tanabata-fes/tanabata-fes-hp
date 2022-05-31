@@ -203,15 +203,25 @@
 				
 			</svg>
 		</div>
-		<div id="n_163">
-			<img id="n_61_cu" src="<?php bloginfo('template_url'); ?>/desktop/images/donation/n_61_cu.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/donation/n_61_cu.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/donation/n_61_cu@2x.png 2x">
-				
+		<div id="banner_1" style="position: absolute; left: 300px; top: 180px;">
+		    <svg class="n_86_g">
+				<rect id="n_86_g" rx="0" ry="0" x="0" y="0" width="485" height="121"></rect>
 			</svg>
 		</div>
-		<div id="subTitle50pt727171_cv" class="subTitle50pt__727171">
-			<div id="Text_cw">
-				<span>七夕祭募金について</span>
-			</div>
+		<div id="banner_2" style="position: absolute; left: 1195px; top: 180px;">
+		    <svg class="n_86_g">
+				<rect id="n_86_g" rx="0" ry="0" x="0" y="0" width="485" height="121"></rect>
+			</svg>
+		</div>
+		<div id="banner_3" style="position: absolute; left: 300px; top: 380px;">
+		    <svg class="n_86_g">
+				<rect id="n_86_g" rx="0" ry="0" x="0" y="0" width="485" height="121"></rect>
+			</svg>
+		</div>
+		<div id="banner_4" style="position: absolute; left: 1195px; top: 380px;">
+		    <svg class="n_86_g">
+				<rect id="n_86_g" rx="0" ry="0" x="0" y="0" width="485" height="121"></rect>
+			</svg>
 		</div>
 	</div>
 	<div id="Text_cx">
