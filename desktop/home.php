@@ -303,7 +303,7 @@
     <div id="n_169">
     <img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png">
       <div id="Text_gp">
-        <span>バナー広告</span>
+        <span></span>
       </div>
     </div>
     <div id="n_170">
