@@ -3246,3 +3246,35 @@ a:link, a:visited, a:hover, a:active {
 	position: relative;
 	top: -8px;
 }
+
+/*バナー広告画像調整*/
+.n169 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+.n170 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+.n171 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+.n172 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+.n173 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+.n174 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
