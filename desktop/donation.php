@@ -209,7 +209,8 @@
 			</svg>
 		</div>
 		<div id="banner_2" style="position: absolute; left: 1195px; top: 180px;">
-		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/ibuki.png">
+		<a href="https://ibuki-farm-restaurant.com/">
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/ibuki.png"></a>
 		</div>
 		<div id="banner_3" style="position: absolute; left: 300px; top: 380px;">
 		    <svg class="n_86_g">
