@@ -1159,3 +1159,27 @@ body {
 	color: rgba(137,137,137,1);
 	letter-spacing: 2px;
 }
+
+.banner_1 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+.banner_2 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+.banner_3 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+.banner_4 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+img {
+    width: 485;
+}
