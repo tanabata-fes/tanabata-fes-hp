@@ -212,7 +212,7 @@
 		</div>
 		<div id="banner_3" style="position: absolute; left: 300px; top: 380px;">
 		<a href="https://www.tenbo.com">
-		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.png"></a>
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg"></a>
 		</div>
 		<div id="banner_4" style="position: absolute; left: 1195px; top: 380px;">
 		    <svg class="n_86_g">
