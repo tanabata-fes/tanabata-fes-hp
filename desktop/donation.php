@@ -215,9 +215,6 @@
 		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg"></a>
 		</div>
 		<div id="banner_4" style="position: absolute; left: 1195px; top: 380px;">
-		    <svg class="n_86_g">
-				<rect id="n_86_g" rx="0" ry="0" x="0" y="0" width="485" height="121"></rect>
-			</svg>
 		</div>
 	</div>
 	<div id="Text_cx">
