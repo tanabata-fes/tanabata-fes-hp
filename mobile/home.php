@@ -131,7 +131,6 @@
 	<div id="n_200">
 		<div id="text22pt595757_cd" class="text22pt_595757">
 			<div id="Text_ce">
-
 			</div>
 		</div>
 		<div id="n_169">
@@ -144,9 +143,7 @@
 				<rect id="n_86_cj" rx="0" ry="0" x="0" y="0" width="485" height="121">
 				</rect>
 			</svg>
-			<div id="Text_ck">
-				<span>バナー広告</span>
-			</div>
+			<div id="Text_ck">			</div>
 		</div>
 		<div id="text22pt595757_cl" class="text22pt_595757">
 			<div id="Text_cm">
