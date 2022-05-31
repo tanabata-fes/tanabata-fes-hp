@@ -184,7 +184,7 @@
 		</div>
 		<div id="n_174">
 			<svg class="n_86_cz">
-				<rect id="n_86_cz" rx="0" ry="0" x="0" y="0" width="485" height="79">
+				<rect id="n_86_cz" rx="0" ry="0" x="0" y="0" width="299" height="79">
 				</rect>
 			</svg>
 			<div id="Text_c">
