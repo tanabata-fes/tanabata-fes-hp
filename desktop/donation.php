@@ -204,7 +204,7 @@
 			</svg>
 		</div>
 		<div id="banner_1" style="position: absolute; left: 300px; top: 180px;">
-		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kamei-kougyou.jpg" alt="">
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kamei-kougyou.jpg" style="width:485px" alt="">
 		</div>
 		<div id="banner_2" style="position: absolute; left: 1195px; top: 180px;">
 		<a href="https://ibuki-farm-restaurant.com/">
