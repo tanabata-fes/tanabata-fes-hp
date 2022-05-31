@@ -1557,3 +1557,7 @@ a:link, a:visited, a:hover, a:active {
     left: -65px;
     top: -10px;
 }
+
+img {
+	width: 299px;
+}
