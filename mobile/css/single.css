@@ -980,6 +980,6 @@ body {
 	letter-spacing: 2px;
 }
 a:link, a:visited, a:hover, a:active {
-	color: rgba(89,87,87,1);
+	color: #007CAA;
 	text-decoration: none;
 }

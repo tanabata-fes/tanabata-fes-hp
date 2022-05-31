@@ -203,15 +203,18 @@
 				
 			</svg>
 		</div>
-		<div id="n_163">
-			<img id="n_61_cu" src="<?php bloginfo('template_url'); ?>/desktop/images/donation/n_61_cu.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/donation/n_61_cu.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/donation/n_61_cu@2x.png 2x">
-				
-			</svg>
+		<div id="banner_1" style="position: absolute; left: 300px; top: 180px;">
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kamei-kougyou.jpg" alt="">
 		</div>
-		<div id="subTitle50pt727171_cv" class="subTitle50pt__727171">
-			<div id="Text_cw">
-				<span>七夕祭募金について</span>
-			</div>
+		<div id="banner_2" style="position: absolute; left: 1195px; top: 180px;">
+		<a href="https://ibuki-farm-restaurant.com/">
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/ibuki.png"></a>
+		</div>
+		<div id="banner_3" style="position: absolute; left: 300px; top: 380px;">
+		<a href="https://www.tenbo.com">
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg"></a>
+		</div>
+		<div id="banner_4" style="position: absolute; left: 1195px; top: 380px;">
 		</div>
 	</div>
 	<div id="Text_cx">

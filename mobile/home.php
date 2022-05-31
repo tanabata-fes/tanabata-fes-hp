@@ -131,26 +131,19 @@
 	<div id="n_200">
 		<div id="text22pt595757_cd" class="text22pt_595757">
 			<div id="Text_ce">
-				<span>バナー広告</span>
 			</div>
 		</div>
 		<div id="n_169">
-			<svg class="n_86">
-				<rect id="n_86" rx="0" ry="0" x="0" y="0" width="299" height="75">
-				</rect>
-			</svg>
+		<img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png">
 			<div id="Text_ch">
-				<span>バナー広告</span>
 			</div>
 		</div>
 		<div id="n_170">
 			<svg class="n_86_cj">
-				<rect id="n_86_cj" rx="0" ry="0" x="0" y="0" width="299" height="75">
+				<rect id="n_86_cj" rx="0" ry="0" x="0" y="0" width="299" height="79">
 				</rect>
 			</svg>
-			<div id="Text_ck">
-				<span>バナー広告</span>
-			</div>
+			<div id="Text_ck">			</div>
 		</div>
 		<div id="text22pt595757_cl" class="text22pt_595757">
 			<div id="Text_cm">
@@ -159,7 +152,7 @@
 		</div>
 		<div id="n_171">
 			<svg class="n_86_co">
-				<rect id="n_86_co" rx="0" ry="0" x="0" y="0" width="299" height="74">
+				<rect id="n_86_co" rx="0" ry="0" x="0" y="0" width="299" height="79">
 				</rect>
 			</svg>
 			<div id="Text_cp">
@@ -168,7 +161,7 @@
 		</div>
 		<div id="n_172">
 			<svg class="n_86_cr">
-				<rect id="n_86_cr" rx="0" ry="0" x="0" y="0" width="299" height="75">
+				<rect id="n_86_cr" rx="0" ry="0" x="0" y="0" width="299" height="79">
 				</rect>
 			</svg>
 			<div id="Text_cs">
@@ -182,7 +175,7 @@
 		</div>
 		<div id="n_173">
 			<svg class="n_86_cw">
-				<rect id="n_86_cw" rx="0" ry="0" x="0" y="0" width="299" height="75">
+				<rect id="n_86_cw" rx="0" ry="0" x="0" y="0" width="299" height="79">
 				</rect>
 			</svg>
 			<div id="Text_cx">
@@ -191,7 +184,7 @@
 		</div>
 		<div id="n_174">
 			<svg class="n_86_cz">
-				<rect id="n_86_cz" rx="0" ry="0" x="0" y="0" width="299" height="75">
+				<rect id="n_86_cz" rx="0" ry="0" x="0" y="0" width="299" height="79">
 				</rect>
 			</svg>
 			<div id="Text_c">

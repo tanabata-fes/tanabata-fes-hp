@@ -138,15 +138,21 @@
 		<span>協賛・支援者の方々</span>
 	</div>
 	<div id="n_230">
-		<div id="n_62_b">
-			<img id="n_61_ca" src="<?php bloginfo('template_url'); ?>/mobile/images/donation/n_61_ca.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/donation/n_61_ca.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/donation/n_61_ca@2x.png 2x">
-				
+		<div id="n_62_b">				
 			</svg>
 		</div>
-		<div id="text22pt595757_b" class="text22pt_595757">
-			<div id="Text_ca">
-				<span>七夕祭募金について</span>
-			</div>
+		<div id="banner_1" style="position: absolute; left: 0px; top: -150px;">
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kamei-kougyou.jpg" alt="">
+		</div>
+		<div id="banner_2" style="position: absolute; left: 0px; top: -50px;">
+		<a href="https://ibuki-farm-restaurant.com/">
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/ibuki.png"></a>
+		</div>
+		<div id="banner_3" style="position: absolute; left: 0px; top: 50px;">
+		<a href="https://www.tenbo.com">
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg"></a>
+		</div>
+		<div id="banner_4" style="position: absolute; left: 116px; top: 880px;">
 		</div>
 	</div>
 	<div id="n_24__5" class="________24___5">

@@ -298,16 +298,12 @@
     </div>
     <div id="text22pt595757_gl" class="text22pt_595757">
       <div id="Text_gm">
-        <span>バナー広告</span>
       </div>
     </div>
     <div id="n_169">
-      <svg class="n_86">
-        <rect id="n_86" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
+    <img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png">
       <div id="Text_gp">
-        <span>バナー広告</span>
+        <span></span>
       </div>
     </div>
     <div id="n_170">
