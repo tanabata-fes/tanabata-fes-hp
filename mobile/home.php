@@ -139,7 +139,7 @@
 			</div>
 		</div>
 		<div id="n_170">
-		<img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_2.jpg">
+		<img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_2.jpg" style="width:299px;">
 			<div id="Text_ck"></div>
 		</div>
 		<div id="text22pt595757_cl" class="text22pt_595757">
