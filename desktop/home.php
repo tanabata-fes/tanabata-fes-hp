@@ -307,10 +307,7 @@
       </div>
     </div>
     <div id="n_170">
-      <svg class="n_86_gr">
-        <rect id="n_86_gr" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
+    <img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_2.jpg">
       <div id="Text_gs">
         <span>バナー広告</span>
       </div>

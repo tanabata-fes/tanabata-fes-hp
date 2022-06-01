@@ -139,11 +139,8 @@
 			</div>
 		</div>
 		<div id="n_170">
-			<svg class="n_86_cj">
-				<rect id="n_86_cj" rx="0" ry="0" x="0" y="0" width="299" height="79">
-				</rect>
-			</svg>
-			<div id="Text_ck">			</div>
+		<img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_2.jpg">
+			<div id="Text_ck"></div>
 		</div>
 		<div id="text22pt595757_cl" class="text22pt_595757">
 			<div id="Text_cm">
