@@ -301,7 +301,7 @@
       </div>
     </div>
     <div id="n_169">
-    <img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png">
+    <img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png" style="width: 485px;">
       <div id="Text_gp">
         <span></span>
       </div>

@@ -134,7 +134,7 @@
 			</div>
 		</div>
 		<div id="n_169">
-		<img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png">
+		<img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png" style="width:299px;">
 			<div id="Text_ch">
 			</div>
 		</div>
