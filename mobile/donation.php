@@ -142,15 +142,15 @@
 			</svg>
 		</div>
 		<div id="banner_1" style="position: absolute; left: 0px; top: -150px;">
-		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kamei-kougyou.jpg" alt="">
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kamei-kougyou.jpg" style="width: 299px;" alt="">
 		</div>
 		<div id="banner_2" style="position: absolute; left: 0px; top: -50px;">
 		<a href="https://ibuki-farm-restaurant.com/">
-		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/ibuki.png"></a>
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/ibuki.png" style="width: 299px;"></a>
 		</div>
 		<div id="banner_3" style="position: absolute; left: 0px; top: 50px;">
 		<a href="https://www.tenbo.com">
-		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg"></a>
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg" style="width: 299px;"></a>
 		</div>
 		<div id="banner_4" style="position: absolute; left: 116px; top: 880px;">
 		</div>
