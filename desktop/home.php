@@ -309,7 +309,7 @@
     <div id="n_170">
     <a href="https://clean-shonan.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_2.jpg" style="width: 485px;"></a>
       <div id="Text_gs">
-        <span>バナー広告</span>
+        <span></span>
       </div>
     </div>
     <div id="text22pt595757_gt" class="text22pt_595757">
