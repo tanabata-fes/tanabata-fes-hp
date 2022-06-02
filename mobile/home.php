@@ -134,17 +134,17 @@
 			</div>
 		</div>
 		<div id="n_169">
-		<img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png" style="width:299px;">
+		<a href="http://www.jinsentei.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png" style="width:299px;"></a>
 			<div id="Text_ch">
 			</div>
 		</div>
 		<div id="n_170">
-		<img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_2.jpg" style="width:299px;">
+		<a href="https://clean-shonan.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_2.jpg" style="width:299px;"></a>
 			<div id="Text_ck"></div>
 		</div>
 		<div id="text22pt595757_cl" class="text22pt_595757">
 			<div id="Text_cm">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
 		</div>
 		<div id="n_171">
