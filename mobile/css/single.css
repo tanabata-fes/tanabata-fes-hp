@@ -18,7 +18,7 @@
 #single {
 	position: absolute;
 	width: 390px;
-	height: 2351px;
+	height: 2851px;
 	background-color: rgba(242,242,242,1);
 	overflow: hidden;
 	--web-view-name: single;
@@ -154,14 +154,14 @@ body {
 	width: 300px;
 	height: 560px;
 	left: 45px;
-	top: 1454px;
+	top: 2054px;
 }
 #n_165 {
 	position: absolute;
 	width: 177.559px;
 	height: 20px;
 	left: 106.221px;
-	top: 1484px;
+	top: 2075px;
 	overflow: visible;
 }
 #n_127 {
@@ -173,14 +173,14 @@ body {
 	width: 250px;
 	height: 466px;
 	left: 70px;
-	top: 1524px;
+	top: 2110px;
 }
 #n_232 {
 	position: absolute;
 	width: 166px;
 	height: 406px;
 	left: 101px;
-	top: 1554px;
+	top: 2120px;
 	overflow: visible;
 }
 #single_date {
@@ -479,7 +479,7 @@ body {
 	width: 279px;
 	height: 179px;
 	left: 56px;
-	top: 2162px;
+	top: 2662px;
 	overflow: visible;
 }
 #Copyright__2023___All_Rights_R {
