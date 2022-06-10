@@ -105,7 +105,7 @@
 		<a href="../group" id="Text_bz">
 			<span>参加団体の方へ</span>
 		</a>
-		<a href="https://tanabata-fes.com/%e7%ac%ac33%e5%9b%9e%e4%b8%83%e5%a4%95%e7%a5%ad%e3%81%b8%e3%81%ae%e3%81%94%e6%9d%a5%e5%a0%b4%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/" id="userpage">
+		<a href="https://guest.tanabata-fes.com" id="userpage">
 			<span>ご来場について</span>
 		</a>
 		<a href="../donation" id="Text_b">
