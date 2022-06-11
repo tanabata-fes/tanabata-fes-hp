@@ -314,7 +314,7 @@
     </div>
     <div id="text22pt595757_gt" class="text22pt_595757">
       <div id="Text_gu">
-        <span>バナー広告</span>
+        <span>バナー広告募集中！</span>
       </div>
     </div>
     <div id="n_171">
@@ -323,7 +323,7 @@
         </rect>
       </svg>
       <div id="Text_gx">
-        <span>バナー広告</span>
+        <span>バナー広告募集中！</span>
       </div>
     </div>
     <div id="n_172">
@@ -332,12 +332,12 @@
         </rect>
       </svg>
       <div id="Text_g">
-        <span>バナー広告</span>
+        <span>バナー広告募集中！</span>
       </div>
     </div>
     <div id="text22pt595757_g" class="text22pt_595757">
       <div id="Text_ha">
-        <span>バナー広告</span>
+        <span>バナー広告募集中！</span>
       </div>
     </div>
     <div id="n_173">
@@ -346,7 +346,7 @@
         </rect>
       </svg>
       <div id="Text_hb">
-        <span>バナー広告</span>
+        <span>バナー広告募集中！</span>
       </div>
     </div>
     <div id="n_174">
@@ -355,7 +355,7 @@
         </rect>
       </svg>
       <div id="Text_hc">
-        <span>バナー広告</span>
+        <span>バナー広告募集中！</span>
       </div>
     </div>
     <div id="n_197">
