@@ -405,9 +405,9 @@
 						</svg>
 					</div>
 				</a>
-				<a href="../group" id="text18pt595757_ex" class="text18pt_595757">
+				<a href="https://guest.tanabata-fes.com" id="text18pt595757_ex" class="text18pt_595757">
 					<div id="Text_dq">
-						<span>参加団体の方へ</span>
+						<span>ご来場について</span>
 					</div>
 				</a>
 				<a href="../donation" id="text18pt595757_ez" class="text18pt_595757">

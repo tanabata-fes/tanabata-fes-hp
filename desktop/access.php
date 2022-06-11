@@ -218,9 +218,9 @@
 						<span>実行委員会</span>
 					</div>
 				</a>
-				<a href="../group" id="text18pt595757_dc" class="text18pt_595757">
+				<a href="https://guest.tanabata-fes.com" id="text18pt595757_dc" class="text18pt_595757">
 					<div id="Text_b">
-						<span>参加団体の方へ</span>
+						<span>ご来場について</span>
 					</div>
 				</a>
 				<a href="../donation" id="text18pt595757_de" class="text18pt_595757">
