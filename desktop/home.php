@@ -313,8 +313,9 @@
       </div>
     </div>
     <div id="text22pt595757_gt" class="text22pt_595757">
+    <a href="https://store.shopping.yahoo.co.jp/karaco6030/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_3.jpg" style="width: 485px;"></a>
       <div id="Text_gu">
-        <span>バナー広告募集中！</span>
+        <span></span>
       </div>
     </div>
     <div id="n_171">
