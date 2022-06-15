@@ -313,19 +313,12 @@
       </div>
     </div>
     <div id="text22pt595757_gt" class="text22pt_595757">
-    <a href="https://store.shopping.yahoo.co.jp/karaco6030/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_3.jpg" style="width: 485px;"></a>
       <div id="Text_gu">
         <span></span>
       </div>
     </div>
     <div id="n_171">
-      <svg class="n_86_gw">
-        <rect id="n_86_gw" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
-      <div id="Text_gx">
-        <span>バナー広告募集中！</span>
-      </div>
+    <a href="https://store.shopping.yahoo.co.jp/karaco6030/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_3.jpg" style="width: 485px;"></a>
     </div>
     <div id="n_172">
       <svg class="n_86_gz">
