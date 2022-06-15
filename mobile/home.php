@@ -148,12 +148,9 @@
 			</div>
 		</div>
 		<div id="n_171">
-			<svg class="n_86_co">
-				<rect id="n_86_co" rx="0" ry="0" x="0" y="0" width="299" height="79">
-				</rect>
-			</svg>
+		<a href="https://store.shopping.yahoo.co.jp/karaco6030/"><img src="<?php bloginfo('template_url'); ?>/mobile/images/home/banner_3.jpg" style="width:299px;"></a>
 			<div id="Text_cp">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
 		</div>
 		<div id="n_172">
