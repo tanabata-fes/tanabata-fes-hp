@@ -319,12 +319,9 @@
       </div>
     </div>
     <div id="n_171">
-      <svg class="n_86_gw">
-        <rect id="n_86_gw" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
+    <a href="https://you2.jp/?utm_source=keiofes&utm_medium=banner&utm_campaign=tanabata2022"><img src="<?php bloginfo('temlate_url'); ?>/desktop/image/home/banner_4.jpg" style="width: 485px;"></a>
       <div id="Text_gx">
-        <span>バナー広告募集中！</span>
+        <span></span>
       </div>
     </div>
     <div id="n_172">
