@@ -321,10 +321,7 @@
     <a href="https://store.shopping.yahoo.co.jp/karaco6030/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_3.jpg" style="width: 485px;"></a>
     </div>
     <div id="n_172">
-      <a href="https://you2.jp/?utm_source=keiofes&utm_medium=banner&utm_campaign=tanabata2022"><img src="<?php bloginfo('temlate_url'); ?>/desktop/image/home/banner_4.jpg" style="width: 485px;"></a>
-      <div id="Text_g">
-        <span></span>
-      </div>
+      <a href="https://you2.jp/?utm_source=keiofes&utm_medium=banner&utm_campaign=tanabata2022"><img src="<?php bloginfo('template_url'); ?>/desktop/image/home/banner_4.jpg" style="width: 485px;"></a>
     </div>
     <div id="text22pt595757_g" class="text22pt_595757">
       <div id="Text_ha">
