@@ -230,7 +230,7 @@
 		<a href="https://www.univcoop.jp/keio/index.html">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/co-op.png" style="width:485px"></a>
 		</div>
-		<div if="banner_8" style="position: absolute; left 1195px; top:780px;">
+		<div if="banner_8" style="position: absolute; left: 1195px; top:780px;">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/yakinikufamily.png" style="width:485px"></a>
 		</div>
 	</div>
