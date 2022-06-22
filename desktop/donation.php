@@ -216,22 +216,22 @@
 		</div>
 		<div id="banner_4" style="position: absolute; left: 1195px; top: 380px;">
 		<a href="https://samukawajinjya.jp/">
-			<img src="<?php bloginfo('template_url'); ?>/desktop/image/donation/samukawa-shrine.png" style="width:485px"></a>
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/samukawa-shrine.png" style="width:485px"></a>
 		</div>
 		<div id="banner_5" style="position: absolute; left: 300px; top: 580px;">
 		<a href="http://pepita-family.com/neworleans/">
-			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/neworleans.png" style="width:485px"></a>
+			<img src="<?php bloginfo('template_url'); ?>/desktop/imagess/donation/neworleans.png" style="width:485px"></a>
 		</div>
 		<div id="banner_6" style="position: absolte; left: 1195px; top: 580px;">
 		<a href="https://www.rocket-chicken.com">
-			<img src="<?php bloginfo('template_url'); ?>/desktop/image/donatioln/rocketchicken.png" style="width:485px"></a>
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donatioln/rocketchicken.png" style="width:485px"></a>
 		</div>
 		<div id="banner_7" style="position: absolute; left: 300px; top: 780px;">
 		<a href="https://www.univcoop.jp/keio/index.html">
-			<img src="<?php bloginfo('tempalte_url'); ?>/desktop/image/donation/co-op.png" style="width:485px"></a>
+			<img src="<?php bloginfo('tempalte_url'); ?>/desktop/images/donation/co-op.png" style="width:485px"></a>
 		</div>
 		<div if="banner_8" style="position: absolute; left 1195px; top:780px;">
-			<img src="<?php bloginfo('template_url'); ?>/desktop/image/donation/yakinikufamily.png" style="width:485px"></a>
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/yakinikufamily.png" style="width:485px"></a>
 		</div>
 	</div>
 	<div id="Text_cx">
