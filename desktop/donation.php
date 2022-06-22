@@ -222,7 +222,7 @@
 		<a href="http://pepita-family.com/neworleans/">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/neworleans.png" style="width:485px"></a>
 		</div>
-		<div id="banner_6" style="position: absolte; left: 1195px; top: 580px;">
+		<div id="banner_6" style="position: absolute; left: 1195px; top: 580px;">
 		<a href="https://www.rocket-chicken.com">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/rocketchicken.png" style="width:485px"></a>
 		</div>
