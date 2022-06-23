@@ -214,10 +214,7 @@
 		<a href="https://www.tenbo.com">
 		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg" style="width:485px"></a>
 		</div>
-		<div id="banner_4" style="position: absolute; left: 1195px; top: 380px;">
-		<a href="https://samukawajinjya.jp/">
-			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/samukawa-shrine.png" style="width:485px"></a>
-		</div>
+		<div id="banner_4" style="position: absolute; left: 1195px; top: 380px;"></div>
 		<div id="banner_5" style="position: absolute; left: 300px; top: 580px;">
 		<a href="http://pepita-family.com/neworleans/">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/neworleans.png" style="width:485px"></a>

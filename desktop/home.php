@@ -325,16 +325,13 @@
     </div>
     <div id="text22pt595757_g" class="text22pt_595757">
       <div id="Text_ha">
-        <span>バナー広告募集中！</span>
+        <span></span>
       </div>
     </div>
     <div id="n_173">
-      <svg class="n_86_g">
-        <rect id="n_86_g" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
+    <a href="https://samukawajinjya.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/samukawa-shrine.png" style="width:485px"></a>
       <div id="Text_hb">
-        <span>バナー広告募集中！</span>
+        <span></span>
       </div>
     </div>
     <div id="n_174">
