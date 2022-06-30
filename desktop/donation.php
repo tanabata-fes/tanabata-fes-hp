@@ -214,7 +214,10 @@
 		<a href="https://www.tenbo.com">
 		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg" style="width:485px"></a>
 		</div>
-		<div id="banner_4" style="position: absolute; left: 1195px; top: 380px;"></div>
+		<div id="banner_4" style="position: absolute; left: 1195px; top: 380px;">
+		<a href="https://spiber.inc/">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/spiber.png" style="width:485px"></a>
+		</div>
 		<div id="banner_5" style="position: absolute; left: 300px; top: 580px;">
 		<a href="http://pepita-family.com/neworleans/">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/neworleans.png" style="width:485px"></a>
@@ -229,6 +232,9 @@
 		</div>
 		<div if="banner_8" style="position: absolute; left: 1195px; top:780px;">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/yakinikufamily.png" style="width:485px"></a>
+		</div>
+		<div if="banner_9" style="position: absolute; left: 300px; top: 980px;">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/okonomiyakikurayoshi.png" style="width:485px"></a>
 		</div>
 	</div>
 	<div id="Text_cx">
