@@ -338,16 +338,15 @@
     <a href="https://www.instagram.com/tapitapichigasaki/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/hot.png" style="width:485px"></a> 
     </div>
 
-    <div class="keiiku">
-    <a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:485px; position: absolute;top: 3726px; left: 360px;"></a>
-    </div>
-
     <div id="n_178">
     <a href="https://www.instagram.com/pan_himawari2022/?igshid=YmMyMTA2M2Y%3D"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/pan.png" style="width:485px"></a>
     </div>
 
     <div id="n_179">
     <a href="https://www.instagram.com/fruitsparlor.bunbun/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/furuite.jpg" style="width:485px"></a>
+    </div>
+    <div class="n_180">
+    <a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:485px; position: absolute;top: 3524px; left: 360px;"></a>
     </div>
     
     </div>
