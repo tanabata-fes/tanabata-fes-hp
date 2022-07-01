@@ -339,7 +339,7 @@
     </div>
 
     <div class="keiiku">
-    <a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:485px; position: absolute;top: 3900px; left: 360px;"></a>
+    <a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:485px; position: absolute;top: 3726px; left: 360px;"></a>
     </div>
 
     <div id="n_178">
