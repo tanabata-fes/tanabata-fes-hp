@@ -343,7 +343,7 @@
     </div>
 
     <div id="n_178">
-    <a href="https://www.instagram.com/pan_himawari2022/?igshid=YmMyMTA2M2Y%3D"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/" style="width:485px"></a>
+    <a href="https://www.instagram.com/pan_himawari2022/?igshid=YmMyMTA2M2Y%3D"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/pan.png" style="width:485px"></a>
     </div>
 
     <div id="n_179">
