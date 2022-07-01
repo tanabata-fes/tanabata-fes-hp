@@ -358,13 +358,6 @@
     <a href="https://www.instagram.com/fruitsparlor.bunbun/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/fruitparlour.jpg" style="width:485px"></a>
     </div>
     
-    <svg class="n_86_ha">
-        <rect id="n_86_ha" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
-      <div id="Text_hc">
-        <span>バナー広告募集中！</span>
-      </div>
     </div>
     <div id="n_197">
       <svg class="n_115">
