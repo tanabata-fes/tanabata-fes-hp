@@ -338,7 +338,7 @@
     <a href="https://www.instagram.com/tapitapichigasaki/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/hot.png" style="width:485px"></a> 
     </div>
 
-    <div id="n_1771">
+    <div class="keiiku">
     <a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:485px"></a>
     </div>
 
