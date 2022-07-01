@@ -174,15 +174,7 @@
     <div id="text22pt595757_fa" class="text22pt_595757">
       <div id="Text_fa">
       <div class="countDown">七夕祭まであと
-        <span class="countDownText">
-          <script language="JavaScript">
-            var now = new Date();
-            var point = new Date("2022/07/2");
-            var countdown = Math.ceil((point.getTime() - now.getTime()) / (1000 * 60 * 60 * 24));
-            if (countdown > 0) {
-              document.write(countdown);
-            }
-          </script>
+        <span class="countDownText">0
         </span>日
       </div>
       </div>
