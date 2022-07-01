@@ -230,11 +230,23 @@
 		<a href="https://www.univcoop.jp/keio/index.html">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/co-op.png" style="width:485px"></a>
 		</div>
-		<div if="banner_8" style="position: absolute; left: 1195px; top:780px;">
+		<div id="banner_8" style="position: absolute; left: 1195px; top:780px;">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/yakinikufamily.png" style="width:485px"></a>
 		</div>
-		<div if="banner_9" style="position: absolute; left: 300px; top: 980px;">
+		<div id="banner_9" style="position: absolute; left: 300px; top: 980px;">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/okonomiyakikurayoshi.png" style="width:485px"></a>
+		</div>
+		<div id="banner_10" style="position: absolute; left 1195px; top:980px;">
+		<a href="http://www.yoh-architect.jp">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/you-architects.jpg" style="width:485px"></a>
+		</div>
+		<div id="banner_11" style="position: absolute; left 300px; top:1180px;">
+		<a href="https://www.fujisawa-meiten.com">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/fujisawa-meitenBldg.jpg" style="width:485px"></a>
+		</div>			
+		<div id="banner_12" style="position: absolute; left 1195px; top:1180px;">
+		<a href="https://fujisawa-kobaken.jp/">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kobayashi-kensetsu.png" style="widdth 485px"></a>
 		</div>
 	</div>
 	<div id="Text_cx">
