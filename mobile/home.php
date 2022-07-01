@@ -154,36 +154,42 @@
 			</div>
 		</div>
 		<div id="n_172">
-			<svg class="n_86_cr">
-				<rect id="n_86_cr" rx="0" ry="0" x="0" y="0" width="299" height="79">
-				</rect>
-			</svg>
+		<a href="https://you2.jp/?utm_source=keiofes&utm_medium=banner&utm_campaign=tanabata2022"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_4.png" style="width: 299px;"></a>
 			<div id="Text_cs">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
 		</div>
 		<div id="text22pt595757_ct" class="text22pt_595757">
 			<div id="Text_cu">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
 		</div>
 		<div id="n_173">
-			<svg class="n_86_cw">
-				<rect id="n_86_cw" rx="0" ry="0" x="0" y="0" width="299" height="79">
-				</rect>
-			</svg>
+		<a href="https://samukawajinjya.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/samukawa-shrine.png" style="width: 299px;"></a>
 			<div id="Text_cx">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
 		</div>
 		<div id="n_174">
-			<svg class="n_86_cz">
-				<rect id="n_86_cz" rx="0" ry="0" x="0" y="0" width="299" height="79">
-				</rect>
-			</svg>
+		<a href="http://www.zanmai1129.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/zanmailogo.png" style="width:299px"></a>
 			<div id="Text_c">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
+		</div>
+		<div id="banner_sp_1">
+		<a href="https://www.lock.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/nls_logo.png" style="width: 299px;"></a>
+		</div>
+		<div id="banner_sp_2">
+		<a href="https://www.instagram.com/tapitapichigasaki/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/hot.png" style="width: 299px;"></a>
+		</div>
+		<div id="banner_sp_3">
+		<a href="https://www.instagram.com/pan_himawari2022/?igshid=YmMyMTA2M2Y%3D"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/pan.png" style="width:299px"></a>
+		</div>
+		<div id="banner_sp_4">
+		<a href="https://www.instagram.com/fruitsparlor.bunbun/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/furuite.jpg" style="width:299px"></a>
+		</div>
+		<div id="banner_sp_5">
+		<a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:299px;"></a>
 		</div>
 	</div>
 	<div id="n_24__1" class="________24___1">
