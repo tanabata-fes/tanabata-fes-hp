@@ -339,7 +339,7 @@
     </div>
       
     <div id="n_175">
-    <a href="https://www.lock.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/nls-logo.png" style="width:485px"></a>
+    <a href="https://www.lock.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/nls_logo.png" style="width:485px"></a>
     </div>
     
     <div id="n_176">
