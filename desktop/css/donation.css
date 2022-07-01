@@ -1678,7 +1678,11 @@ img {
     width: 485px;
 }
 #houmei {
-	position: absolute;
-	top: 6000px;
-	display: flex;
+    position: absolute;
+    top: 1824px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: stretch;
+    flex-direction: row;
 }
