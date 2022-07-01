@@ -336,6 +336,7 @@
     </div>
     <div id="n_174">
     <a href="http://www.zanmai1129.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/yakiniku-zanmai.jpg" style="width:485px"></a>
+    </div>
       
     <div id="n_175">
     <a href="https://www.lock.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/nihonlockservice.png" style="width:485px"></a>
