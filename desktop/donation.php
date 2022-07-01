@@ -248,6 +248,12 @@
 		<a href="https://fujisawa-kobaken.jp/">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kobayashi-kensetsu.png" style="widdth 485px"></a>
 		</div>
+		<div id="houmei">
+			<img src="1.png">
+			<img src="2.png">
+			<img src="3.png">
+			<img src="4.png">
+		</div>
 	</div>
 	<div id="Text_cx">
 		<span>支援金</span>
