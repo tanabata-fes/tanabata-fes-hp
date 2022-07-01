@@ -335,7 +335,29 @@
       </div>
     </div>
     <div id="n_174">
-      <svg class="n_86_ha">
+    <a href="http://www.zanmai1129.com/"><img src="<? php bloginfo('template_url'); ?>/desktop/images/donation/yakiniku-zanmai.jpg" style="width:485px"></a>
+      
+    <div id="n_175">
+    <a href="https://www.lock.co.jp/"><img src="<? php bloginfo('template_url'); ?>/desktop/images/donation/nihonlockservice.png" style="width:485px"></a>
+    </div>
+    
+    <div id="n_176">
+    <a href="https://www.instagram.com/tapitapichigasaki/"><img src="<? php bloginfo('template_url'); ?>/desktop/images/donation/HOT.png" style="width:485px"></a> 
+    </div>
+
+    <div id="n_177">
+    <a href="https://keiiku.gr.jp/"><img src="<? php bloginfo('template_url'); ?>/desktop/images/donation/keiikuhospital.jpg" style="width:485px"></a>
+    </div>
+
+    <div id="n_178">
+    <a href="https://www.instagram.com/pan_himawari2022/?igshid=YmMyMTA2M2Y%3D"><img src="<? php bloginfo('template_url'); ?>/desktop/images/donation/" style="width:485px"></a>
+    </div>
+
+    <div id="n_179">
+    <a href="https://www.instagram.com/fruitsparlor.bunbun/"><img src="<? php bloginfo('template_url'); ?>/desktop/images/donation/fruitparlour.jpg" style="width:485px"></a>
+    </div>
+    
+    <svg class="n_86_ha">
         <rect id="n_86_ha" rx="0" ry="0" x="0" y="0" width="485" height="121">
         </rect>
       </svg>
