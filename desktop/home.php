@@ -346,7 +346,7 @@
     <a href="https://www.instagram.com/fruitsparlor.bunbun/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/furuite.jpg" style="width:485px"></a>
     </div>
     <div class="n_180">
-    <a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:485px; position: absolute;top: 3524px; left: 360px;"></a>
+    <a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:485px; position: absolute;top: 3725px; left: 360px;"></a>
     </div>
     
     </div>
