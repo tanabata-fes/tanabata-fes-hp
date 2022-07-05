@@ -349,7 +349,7 @@
     <a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:485px; position: absolute;top: 3725px; left: 360px;"></a>
     </div>
     <div class="n_180">
-    <a href="https://www.big-power.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/desktop/bigpower.jpg" style="width:485px; position: absolute;top: 3925px; left: 360px;"></a>
+    <a href="https://www.big-power.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/bigpower.jpg" style="width:485px; position: absolute;top: 3925px; left: 360px;"></a>
     </div>
     
     </div>
