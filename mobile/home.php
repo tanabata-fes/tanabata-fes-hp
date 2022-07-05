@@ -192,7 +192,7 @@
 		<a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:299px;"></a>
 		</div>
 		<div id="banner_sp_6">
-		<a href="https://www.big-power.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/home/bogpower.jpg" style="width:299px;"></a>
+		<a href="https://www.big-power.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/home/bigpower.jpg" style="width:299px;"></a>
 		</div>
 	</div>
 	<div id="n_24__1" class="________24___1">
