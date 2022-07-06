@@ -18,7 +18,7 @@
 #page-donation {
 	position: absolute;
 	width: 390px;
-	height: 3287px;
+	height: 4287px;
 	background-color: rgba(242,242,242,1);
 	overflow: hidden;
 	--web-view-name: page-donation;
@@ -647,7 +647,7 @@ body {
 	width: 279px;
 	height: 179px;
 	left: 56px;
-	top: 3097px;
+	top: 4097px;
 	overflow: visible;
 }
 #Copyright__2023___All_Rights_R {
@@ -1158,4 +1158,28 @@ body {
 	font-size: 9px;
 	color: rgba(137,137,137,1);
 	letter-spacing: 2px;
+}
+
+.banner_1 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+.banner_2 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+.banner_3 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+.banner_4 > img {
+	width: 485px;
+	height: 121px;
+	object-fit: cover;
+}
+img {
+    width: 299px;
 }

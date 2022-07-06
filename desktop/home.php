@@ -174,15 +174,7 @@
     <div id="text22pt595757_fa" class="text22pt_595757">
       <div id="Text_fa">
       <div class="countDown">七夕祭まであと
-        <span class="countDownText">
-          <script language="JavaScript">
-            var now = new Date();
-            var point = new Date("2022/07/2");
-            var countdown = Math.ceil((point.getTime() - now.getTime()) / (1000 * 60 * 60 * 24));
-            if (countdown > 0) {
-              document.write(countdown);
-            }
-          </script>
+        <span class="countDownText">0
         </span>日
       </div>
       </div>
@@ -298,72 +290,68 @@
     </div>
     <div id="text22pt595757_gl" class="text22pt_595757">
       <div id="Text_gm">
-        <span>バナー広告</span>
       </div>
     </div>
     <div id="n_169">
-      <svg class="n_86">
-        <rect id="n_86" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
+    <a href="http://www.jinsentei.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png" style="width: 485px;"></a>
       <div id="Text_gp">
-        <span>バナー広告</span>
+        <span></span>
       </div>
     </div>
     <div id="n_170">
-      <svg class="n_86_gr">
-        <rect id="n_86_gr" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
+    <a href="https://clean-shonan.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_2.jpg" style="width: 485px;"></a>
       <div id="Text_gs">
-        <span>バナー広告</span>
+        <span></span>
       </div>
     </div>
     <div id="text22pt595757_gt" class="text22pt_595757">
       <div id="Text_gu">
-        <span>バナー広告</span>
+        <span></span>
       </div>
     </div>
     <div id="n_171">
-      <svg class="n_86_gw">
-        <rect id="n_86_gw" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
-      <div id="Text_gx">
-        <span>バナー広告</span>
-      </div>
+    <a href="https://store.shopping.yahoo.co.jp/karaco6030/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_3.jpg" style="width: 485px;"></a>
     </div>
     <div id="n_172">
-      <svg class="n_86_gz">
-        <rect id="n_86_gz" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
-      <div id="Text_g">
-        <span>バナー広告</span>
-      </div>
+      <a href="https://you2.jp/?utm_source=keiofes&utm_medium=banner&utm_campaign=tanabata2022"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_4.png" style="width: 485px;"></a>
     </div>
     <div id="text22pt595757_g" class="text22pt_595757">
       <div id="Text_ha">
-        <span>バナー広告</span>
+        <span></span>
       </div>
     </div>
     <div id="n_173">
-      <svg class="n_86_g">
-        <rect id="n_86_g" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
+    <a href="https://samukawajinjya.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/samukawa-shrine.png" style="width:485px"></a>
       <div id="Text_hb">
-        <span>バナー広告</span>
+        <span></span>
       </div>
     </div>
     <div id="n_174">
-      <svg class="n_86_ha">
-        <rect id="n_86_ha" rx="0" ry="0" x="0" y="0" width="485" height="121">
-        </rect>
-      </svg>
-      <div id="Text_hc">
-        <span>バナー広告</span>
-      </div>
+    <a href="http://www.zanmai1129.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/zanmailogo.png" style="width:485px"></a>
+    </div>
+      
+    <div id="n_175">
+    <a href="https://www.lock.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/nls_logo.png" style="width:485px"></a>
+    </div>
+    
+    <div id="n_176">
+    <a href="https://www.instagram.com/tapitapichigasaki/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/hot.png" style="width:485px"></a> 
+    </div>
+
+    <div id="n_178">
+    <a href="https://www.instagram.com/pan_himawari2022/?igshid=YmMyMTA2M2Y%3D"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/pan.png" style="width:485px"></a>
+    </div>
+
+    <div id="n_179">
+    <a href="https://www.instagram.com/fruitsparlor.bunbun/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/furuite.jpg" style="width:485px"></a>
+    </div>
+    <div class="n_180">
+    <a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:485px; position: absolute;top: 3725px; left: 360px;"></a>
+    </div>
+    <div class="n_180">
+    <a href="https://www.big-power.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/bigpower.jpg" style="width:485px; position: absolute;top: 4125px; left: 360px;"></a>
+    </div>
+    
     </div>
     <div id="n_197">
       <svg class="n_115">
@@ -475,9 +463,9 @@
                 <span>実行委員会</span>
               </div>
             </a>
-            <a href="group" id="text18pt595757_io" class="text18pt_595757">
+            <a href="https://guest.tanabata-fes.com" id="text18pt595757_io" class="text18pt_595757">
               <div id="Text_in">
-                <span>参加団体の方へ</span>
+                <span>ご来場について</span>
               </div>
             </a>
             <a href="donation" id="text18pt595757_iq" class="text18pt_595757">

@@ -18,7 +18,7 @@
 #single {
 	position: absolute;
 	width: 1900px;
-	height: 2229px;
+	height: 2829px;
 	background-color: rgba(242,242,242,1);
 	overflow: hidden;
 	--web-view-name: single;
@@ -90,7 +90,7 @@ body {
 	width: 731px;
 	height: 76px;
 	left: 590px;
-	top: 2095px;
+	top: 2695px;
 	overflow: visible;
 }
 #footerMenu {
@@ -820,7 +820,7 @@ body {
 }
 #n_ {
 	left: 725px;
-	top: 1835px;
+	top: 2535px;
 	position: absolute;
 	overflow: visible;
 	width: 142px;
@@ -834,7 +834,7 @@ body {
 }
 #n__ck {
 	left: 1619px;
-	top: 1835px;
+	top: 2535px;
 	position: absolute;
 	overflow: visible;
 	width: 142px;

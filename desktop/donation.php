@@ -204,24 +204,59 @@
 			</svg>
 		</div>
 		<div id="banner_1" style="position: absolute; left: 300px; top: 180px;">
-		    <svg class="n_86_g">
-				<rect id="n_86_g" rx="0" ry="0" x="0" y="0" width="485" height="121"></rect>
-			</svg>
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kamei-kougyou.jpg" style="width:485px" alt="">
 		</div>
 		<div id="banner_2" style="position: absolute; left: 1195px; top: 180px;">
-		    <svg class="n_86_g">
-				<rect id="n_86_g" rx="0" ry="0" x="0" y="0" width="485" height="121"></rect>
-			</svg>
+			<a href="https://ibuki-farm-restaurant.com/">
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/ibuki.png" style="width:485px"></a>
 		</div>
 		<div id="banner_3" style="position: absolute; left: 300px; top: 380px;">
-		    <svg class="n_86_g">
-				<rect id="n_86_g" rx="0" ry="0" x="0" y="0" width="485" height="121"></rect>
-			</svg>
+			<a href="https://www.tenbo.com">
+		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg" style="width:485px"></a>
 		</div>
 		<div id="banner_4" style="position: absolute; left: 1195px; top: 380px;">
-		    <svg class="n_86_g">
-				<rect id="n_86_g" rx="0" ry="0" x="0" y="0" width="485" height="121"></rect>
-			</svg>
+			<a href="https://spiber.inc/">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/spiber.png" style="width:485px"></a>
+		</div>
+		<div id="banner_5" style="position: absolute; left: 300px; top: 580px;">
+			<a href="http://pepita-family.com/neworleans/">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/neworleans.png" style="width:485px"></a>
+		</div>
+		<div id="banner_6" style="position: absolute; left: 1195px; top: 580px;">
+			<a href="https://www.rocket-chicken.com">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/rocketchicken.png" style="width:485px"></a>
+		</div>
+		<div id="banner_7" style="position: absolute; left: 300px; top: 780px;">
+			<a href="https://www.univcoop.jp/keio/index.html">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/co-op.png" style="width:485px"></a>
+		</div>
+		<div id="banner_8" style="position: absolute; left: 1195px; top:780px;">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/yakinikufamily.png" style="width:485px"></a>
+		</div>
+		<div id="banner_9" style="position: absolute; left: 300px; top: 980px;">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kurayosi.png" style="width:485px"></a>
+		</div>
+		<div id="banner_10" style="position: absolute; left:1195px; top:980px;">
+			<a href="http://www.yoh-architect.jp">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/you-architects.jpg" style="width:485px"></a>
+		</div>
+		<div id="banner_11" style="position: absolute; left:300px; top:1180px;">
+			<a href="https://www.fujisawa-meiten.com">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/fujisawa-meitenBldg.jpg" style="width:485px"></a>
+		</div>			
+		<div id="banner_12" style="position: absolute; left:1195px; top:1180px;">
+			<a href="https://fujisawa-kobaken.jp/">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kobayashi-kensetsu.png" style="width:485px"></a>
+		</div>
+		<div id="banner_13" style="position: absolute; left:300px; top:1380px;">
+			<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width:485px"></a>
+		</div>
+		<div id="houmei">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/1.png">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/2.png">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/3.png">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/4.png">
 		</div>
 	</div>
 	<div id="Text_cx">
@@ -400,9 +435,9 @@
 						<span>実行委員会</span>
 					</div>
 				</a>
-				<a href="../group" id="text18pt595757_eo" class="text18pt_595757">
+				<a href="https://group.tanabata-fes.com" id="text18pt595757_eo" class="text18pt_595757">
 					<div id="Text_dj">
-						<span>参加団体の方へ</span>
+						<span>ご来場について</span>
 					</div>
 				</a>
 				<a href="../donation" id="text18pt595757_eq" class="text18pt_595757">

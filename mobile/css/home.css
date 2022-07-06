@@ -18,7 +18,7 @@
 #home {
 	position: absolute;
 	width: 390px;
-	height: 3486px;
+	height: 4000px;
 	background-color: rgba(242,242,242,1);
 	overflow: hidden;
 	--web-view-name: home;
@@ -812,8 +812,8 @@ body {
 }
 #n_169 {
 	position: absolute;
-	width: 485px;
-	height: 121px;
+	width: 299px;
+	height: 79px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
@@ -845,8 +845,8 @@ body {
 }
 #n_170 {
 	position: absolute;
-	width: 485px;
-	height: 121px;
+	width: 299px;
+	height: 79px;
 	left: 0px;
 	top: 106px;
 	overflow: visible;
@@ -900,8 +900,8 @@ body {
 }
 #n_171 {
 	position: absolute;
-	width: 485px;
-	height: 121px;
+	width: 299px;
+	height: 79px;
 	left: 0px;
 	top: 212px;
 	overflow: visible;
@@ -933,8 +933,8 @@ body {
 }
 #n_172 {
 	position: absolute;
-	width: 485px;
-	height: 121px;
+	width: 299px;
+	height: 79px;
 	left: 0px;
 	top: 317px;
 	overflow: visible;
@@ -988,8 +988,8 @@ body {
 }
 #n_173 {
 	position: absolute;
-	width: 485px;
-	height: 121px;
+	width: 299px;
+	height: 79px;
 	left: 0px;
 	top: 423px;
 	overflow: visible;
@@ -1021,8 +1021,8 @@ body {
 }
 #n_174 {
 	position: absolute;
-	width: 485px;
-	height: 121px;
+	width: 299px;
+	height: 79px;
 	left: 0px;
 	top: 529px;
 	overflow: visible;
@@ -1057,7 +1057,7 @@ body {
 	width: 279px;
 	height: 179px;
 	left: 56px;
-	top: 3293px;
+	top: 3800px;
 	overflow: visible;
 }
 #Copyright__2023___All_Rights_R {
@@ -1556,4 +1556,32 @@ a:link, a:visited, a:hover, a:active {
     position: absolute;
     left: -65px;
     top: -10px;
+}
+
+img {
+	width: 299px;
+}
+div#banner_sp_1 {
+    position: absolute;
+    top: 640px;
+}
+div#banner_sp_2 {
+    position: absolute;
+    top: 740px;
+}
+div#banner_sp_3 {
+    position: absolute;
+    top: 840px;
+}
+div#banner_sp_4 {
+    position: absolute;
+    top: 940px;
+}
+div#banner_sp_5 {
+    position: absolute;
+    top: 1040;
+}
+div#banner_sp_6 {
+    position: absolute;
+    top: 1140;
 }

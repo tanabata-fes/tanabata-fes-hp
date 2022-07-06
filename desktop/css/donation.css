@@ -18,7 +18,7 @@
 #page-donation {
 	position: absolute;
 	width: 1900px;
-	height: 5279px;
+	height: 7000px;
 	background-color: rgba(242,242,242,1);
 	overflow: hidden;
 	--web-view-name: page-donation;
@@ -123,7 +123,7 @@ body {
 	width: 731px;
 	height: 76px;
 	left: 590px;
-	top: 5162px;
+	top: 6872px;
 	overflow: visible;
 }
 #footerMenu {
@@ -1673,4 +1673,16 @@ a {
 	width: 485px;
 	height: 121px;
 	object-fit: cover;
+}
+img {
+    width: 485px;
+}
+#houmei {
+    position: absolute;
+    top: 1824px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: stretch;
+    flex-direction: row;
 }

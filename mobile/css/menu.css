@@ -506,7 +506,7 @@ body {
 }
 #Text_b {
 	left: 0px;
-	top: 311px;
+	top: 388px;
 	position: absolute;
 	overflow: visible;
 	width: 127px;
@@ -524,7 +524,7 @@ body {
 }
 #Text_ca {
 	left: 0px;
-	top: 388px;
+	top: 466px;
 	position: absolute;
 	overflow: visible;
 	width: 71px;
@@ -542,7 +542,7 @@ body {
 }
 #Text_cb {
 	left: 0px;
-	top: 466px;
+	top: 544px;
 	position: absolute;
 	overflow: visible;
 	width: 73px;
@@ -560,7 +560,7 @@ body {
 }
 #Text_cc {
 	left: 1px;
-	top: 544px;
+	top: 614px;
 	position: absolute;
 	overflow: visible;
 	width: 109px;
@@ -640,4 +640,22 @@ body {
 	left: 1px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
+}
+#userpage {
+	left: 1px;
+	top: 311px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	--web-animation: fadein 1s ease-out;
+	--web-action-type: page;
+	--web-action-target: page_contact.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: fot-tsukuardgothic-std, ui-rounded;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(89,87,87,1);
 }

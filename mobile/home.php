@@ -131,72 +131,68 @@
 	<div id="n_200">
 		<div id="text22pt595757_cd" class="text22pt_595757">
 			<div id="Text_ce">
-				<span>バナー広告</span>
 			</div>
 		</div>
 		<div id="n_169">
-			<svg class="n_86">
-				<rect id="n_86" rx="0" ry="0" x="0" y="0" width="485" height="121">
-				</rect>
-			</svg>
+		<a href="http://www.jinsentei.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png" style="width:299px;"></a>
 			<div id="Text_ch">
-				<span>バナー広告</span>
 			</div>
 		</div>
 		<div id="n_170">
-			<svg class="n_86_cj">
-				<rect id="n_86_cj" rx="0" ry="0" x="0" y="0" width="485" height="121">
-				</rect>
-			</svg>
-			<div id="Text_ck">
-				<span>バナー広告</span>
-			</div>
+		<a href="https://clean-shonan.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_2.jpg" style="width:299px;"></a>
+			<div id="Text_ck"></div>
 		</div>
 		<div id="text22pt595757_cl" class="text22pt_595757">
 			<div id="Text_cm">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
 		</div>
 		<div id="n_171">
-			<svg class="n_86_co">
-				<rect id="n_86_co" rx="0" ry="0" x="0" y="0" width="485" height="121">
-				</rect>
-			</svg>
+		<a href="https://store.shopping.yahoo.co.jp/karaco6030/"><img src="<?php bloginfo('template_url'); ?>/mobile/images/home/banner_3.jpg" style="width:299px;"></a>
 			<div id="Text_cp">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
 		</div>
 		<div id="n_172">
-			<svg class="n_86_cr">
-				<rect id="n_86_cr" rx="0" ry="0" x="0" y="0" width="485" height="121">
-				</rect>
-			</svg>
+		<a href="https://you2.jp/?utm_source=keiofes&utm_medium=banner&utm_campaign=tanabata2022"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_4.png" style="width: 299px;"></a>
 			<div id="Text_cs">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
 		</div>
 		<div id="text22pt595757_ct" class="text22pt_595757">
 			<div id="Text_cu">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
 		</div>
 		<div id="n_173">
-			<svg class="n_86_cw">
-				<rect id="n_86_cw" rx="0" ry="0" x="0" y="0" width="485" height="121">
-				</rect>
-			</svg>
+		<a href="https://samukawajinjya.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/samukawa-shrine.png" style="width: 299px;"></a>
 			<div id="Text_cx">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
 		</div>
 		<div id="n_174">
-			<svg class="n_86_cz">
-				<rect id="n_86_cz" rx="0" ry="0" x="0" y="0" width="485" height="121">
-				</rect>
-			</svg>
+		<a href="http://www.zanmai1129.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/zanmailogo.png" style="width:299px"></a>
 			<div id="Text_c">
-				<span>バナー広告</span>
+				<span></span>
 			</div>
+		</div>
+		<div id="banner_sp_1">
+		<a href="https://www.lock.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/nls_logo.png" style="width: 299px;"></a>
+		</div>
+		<div id="banner_sp_2">
+		<a href="https://www.instagram.com/tapitapichigasaki/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/hot.png" style="width: 299px;"></a>
+		</div>
+		<div id="banner_sp_3">
+		<a href="https://www.instagram.com/pan_himawari2022/?igshid=YmMyMTA2M2Y%3D"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/pan.png" style="width:299px"></a>
+		</div>
+		<div id="banner_sp_4">
+		<a href="https://www.instagram.com/fruitsparlor.bunbun/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/furuite.jpg" style="width:299px"></a>
+		</div>
+		<div id="banner_sp_5">
+		<a href="https://keiiku.gr.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/keiiku.jpg" style="width:299px;"></a>
+		</div>
+		<div id="banner_sp_6">
+		<a href="https://www.big-power.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/bigpower.jpg" style="width:299px;"></a>
 		</div>
 	</div>
 	<div id="n_24__1" class="________24___1">
