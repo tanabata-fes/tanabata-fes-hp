@@ -246,7 +246,11 @@
 		</div>			
 		<div id="banner_12" style="position: absolute; left:1195px; top:1180px;">
 		<a href="https://fujisawa-kobaken.jp/">
-			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kobayashi-kensetsu.png" style="widdth 485px"></a>
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kobayashi-kensetsu.png" style="width:485px"></a>
+		</div>
+		<div id="banner_13" style="position: absolute; left:300px; top:1380px;">
+		<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width:485px"></a>
 		</div>
 		<div id="houmei">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/1.png">
