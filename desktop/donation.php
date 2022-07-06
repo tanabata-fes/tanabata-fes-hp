@@ -207,27 +207,27 @@
 		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kamei-kougyou.jpg" style="width:485px" alt="">
 		</div>
 		<div id="banner_2" style="position: absolute; left: 1195px; top: 180px;">
-		<a href="https://ibuki-farm-restaurant.com/">
+			<a href="https://ibuki-farm-restaurant.com/">
 		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/ibuki.png" style="width:485px"></a>
 		</div>
 		<div id="banner_3" style="position: absolute; left: 300px; top: 380px;">
-		<a href="https://www.tenbo.com">
+			<a href="https://www.tenbo.com">
 		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg" style="width:485px"></a>
 		</div>
 		<div id="banner_4" style="position: absolute; left: 1195px; top: 380px;">
-		<a href="https://spiber.inc/">
+			<a href="https://spiber.inc/">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/spiber.png" style="width:485px"></a>
 		</div>
 		<div id="banner_5" style="position: absolute; left: 300px; top: 580px;">
-		<a href="http://pepita-family.com/neworleans/">
+			<a href="http://pepita-family.com/neworleans/">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/neworleans.png" style="width:485px"></a>
 		</div>
 		<div id="banner_6" style="position: absolute; left: 1195px; top: 580px;">
-		<a href="https://www.rocket-chicken.com">
+			<a href="https://www.rocket-chicken.com">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/rocketchicken.png" style="width:485px"></a>
 		</div>
 		<div id="banner_7" style="position: absolute; left: 300px; top: 780px;">
-		<a href="https://www.univcoop.jp/keio/index.html">
+			<a href="https://www.univcoop.jp/keio/index.html">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/co-op.png" style="width:485px"></a>
 		</div>
 		<div id="banner_8" style="position: absolute; left: 1195px; top:780px;">
@@ -237,28 +237,20 @@
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kurayosi.png" style="width:485px"></a>
 		</div>
 		<div id="banner_10" style="position: absolute; left:1195px; top:980px;">
-		<a href="http://www.yoh-architect.jp">
+			<a href="http://www.yoh-architect.jp">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/you-architects.jpg" style="width:485px"></a>
 		</div>
 		<div id="banner_11" style="position: absolute; left:300px; top:1180px;">
-		<a href="https://www.fujisawa-meiten.com">
+			<a href="https://www.fujisawa-meiten.com">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/fujisawa-meitenBldg.jpg" style="width:485px"></a>
 		</div>			
 		<div id="banner_12" style="position: absolute; left:1195px; top:1180px;">
-		<a href="https://fujisawa-kobaken.jp/">
-<<<<<<< HEAD
+			<a href="https://fujisawa-kobaken.jp/">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kobayashi-kensetsu.png" style="width:485px"></a>
 		</div>
 		<div id="banner_13" style="position: absolute; left:300px; top:1380px;">
-		<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
+			<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width:485px"></a>
-=======
-			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kobayashi-kensetsu.png" style="width 485px"></a>
-		</div>
-		<div id="banner_13" style="position: absolute; left:300px; top:1380px;">
-		<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
-			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width 485px"></a>
->>>>>>> main
 		</div>
 		<div id="houmei">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/1.png">
