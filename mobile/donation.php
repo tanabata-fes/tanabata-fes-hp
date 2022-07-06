@@ -142,17 +142,53 @@
 			</svg>
 		</div>
 		<div id="banner_1" style="position: absolute; left: 0px; top: -150px;">
-		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kamei-kougyou.jpg" style="width: 299px;" alt="">
+		  <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kamei-kougyou.jpg" style="width: 299px;" alt="">
 		</div>
 		<div id="banner_2" style="position: absolute; left: 0px; top: -50px;">
-		<a href="https://ibuki-farm-restaurant.com/">
-		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/ibuki.png" style="width: 299px;"></a>
+			<a href="https://ibuki-farm-restaurant.com/">
+		  <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/ibuki.png" style="width: 299px;"></a>
 		</div>
 		<div id="banner_3" style="position: absolute; left: 0px; top: 50px;">
-		<a href="https://www.tenbo.com">
-		    <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg" style="width: 299px;"></a>
+			<a href="https://www.tenbo.com">
+		  <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/tembou.jpg" style="width: 299px;"></a>
 		</div>
-		<div id="banner_4" style="position: absolute; left: 116px; top: 880px;">
+		<div id="banner_4" style="position: absolute; left: 0px; top: 150px;">
+			<a href="https://spiber.inc/">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/spiber.png" style="width:299px"></a>
+		</div>
+		<div id="banner_5" style="position: absolute; left: 0px; top: 250px;">
+		<a href="http://pepita-family.com/neworleans/">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/neworleans.png" style="width:299px"></a>
+		</div>
+		<div id="banner_6" style="position: absolute; left: 0px; top: 350px;">
+		<a href="https://www.rocket-chicken.com">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/rocketchicken.png" style="width:299px"></a>
+		</div>
+		<div id="banner_7" style="position: absolute; left: 0px; top: 450px;">
+		<a href="https://www.univcoop.jp/keio/index.html">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/co-op.png" style="width:299px"></a>
+		</div>
+		<div id="banner_8" style="position: absolute; left: 0px; top: 550px;">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/yakinikufamily.png" style="width:299px"></a>
+		</div>
+		<div id="banner_9" style="position: absolute; left: 0px; top: 650px;">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kurayosi.png" style="width:299px"></a>
+		</div>
+		<div id="banner_10" style="position: absolute; left:0px; top: 750px;">
+			<a href="http://www.yoh-architect.jp">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/you-architects.jpg" style="width:299px"></a>
+		</div>
+		<div id="banner_11" style="position: absolute; left:0px; top: 850px;">
+			<a href="https://www.fujisawa-meiten.com">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/fujisawa-meitenBldg.jpg" style="width:299px"></a>
+		</div>			
+		<div id="banner_12" style="position: absolute; left:0px; top:950px;">
+			<a href="https://fujisawa-kobaken.jp/">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/kobayashi-kensetsu.png" style="width:299px"></a>
+		</div>
+		<div id="banner_13" style="position: absolute; left:0px; top:1050px;">
+			<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width:299px"></a>
 		</div>
 	</div>
 	<div id="n_24__5" class="________24___5">
