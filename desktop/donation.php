@@ -167,13 +167,13 @@
 		<div id="n__ce">
 			<span>詳しい情報はこちらから<br/>渉外資料をダウンロードしてご覧ください。</span>
 		</div>
-		<a href="https://tanabata-fes.com/biz.pdf" id="n_161">
+		<a href="https://tanabata-fes.com/" id="n_161">
 			<svg class="n_38">
 				<rect id="n_38" rx="20" ry="20" x="0" y="0" width="300" height="87">
 				</rect>
 			</svg>
 			<div id="MB_">
-			  渉外資料（2.7MB）<br/>ダウンロード
+			  渉外資料（2.7MB）<br/>調整中
 			</div>
 		</a>
 	</div>

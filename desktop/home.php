@@ -192,13 +192,13 @@
           <span>より詳しい七夕祭の情報はこちら</span>
         </div>
       </div>
-      <a href="https://tanabata-fes.com/pr.pdf" id="n_138">
+      <a href="https://tanabata-fes.com/" id="n_138">
         <svg class="n_38_fi">
           <rect id="n_38_fi" rx="20" ry="20" x="0" y="0" width="300" height="87">
           </rect>
         </svg>
         <div id="MB_">
-          広報資料（7.3MB）<br/>ダウンロード
+          広報資料（7.3MB）<br/>調整中
         </div>
       </a>
     </div>
@@ -208,13 +208,13 @@
           <span>バナー出稿・協賛をお考えの方はこちら</span>
         </div>
       </div>
-      <a href="https://tanabata-fes.com/biz.pdf" id="n_138_fn">
+      <a href="https://tanabata-fes.com/" id="n_138_fn">
         <svg class="n_38_fo">
           <rect id="n_38_fo" rx="20" ry="20" x="0" y="0" width="300" height="87">
           </rect>
         </svg>
         <div id="MB__fp">
-          渉外資料（2.7MB）<br/>ダウンロード
+          渉外資料（2.7MB）<br/>調整中
         </div>
       </a>
     </div>
