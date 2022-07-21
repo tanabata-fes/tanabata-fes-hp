@@ -351,6 +351,11 @@
     <div class="n_180">
     <a href="https://www.big-power.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/bigpower.jpg" style="width:485px; position: absolute;top: 4125px; left: 360px;"></a>
     </div>
+    <div>
+      <a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
+        <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width:485px; position:absolute; top:4325px; left:360px;">
+      </a>
+    </div>
     
     </div>
     <div id="n_197">

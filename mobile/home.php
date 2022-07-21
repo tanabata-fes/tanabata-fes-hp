@@ -194,8 +194,13 @@
 		<div id="banner_sp_6">
 		<a href="https://www.big-power.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/bigpower.jpg" style="width:299px;"></a>
 		</div>
+		<div id="banner_sp_7">
+			<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
+				<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width:299px;">
+			</a>
+		</div>
 	</div>
-	<div id="n_24__1" class="________24___1">
+	<div id="footer" class="________24___1">
 		<div id="Copyright__2023___All_Rights_R">
 			<span>Copyright ©️ 2022 慶應義塾大学 七夕祭 All Rights Reserved. </span>
 		</div>
