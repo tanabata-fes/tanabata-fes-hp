@@ -105,25 +105,25 @@
 			<div id="Text_b">
 				<span>より詳しい七夕祭の情報はこちら</span>
 			</div>
-			<a href="https://tanabata-fes.com/pr.pdf" id="n_138">
+			<a href="https://tanabata-fes.com/" id="n_138">
 				<svg class="n_38">
 					<rect id="n_38" rx="10" ry="10" x="0" y="0" width="148.882" height="42.773">
 					</rect>
 				</svg>
 				<div id="MB_">
-					広報資料（7.3MB）<br/>ダウンロード
+					広報資料（7.3MB）<br/>調整中
 				</div>
 			</a>
 			<div id="Text_ca">
 				<span>バナー出稿・協賛をお考えの方はこちら</span>
 			</div>
-			<a href="https://tanabata-fes.com/biz.pdf" id="n_138_b">
+			<a href="https://tanabata-fes.com/" id="n_138_b">
 				<svg class="n_38_ca">
 					<rect id="n_38_ca" rx="10" ry="10" x="0" y="0" width="148.882" height="43.595">
 					</rect>
 				</svg>
 				<div id="MB__cb">
-					渉外資料（2.7MB）<br/>ダウンロード
+					渉外資料（2.7MB）<br/>調整中
 				</div>
 			</a>
 		</div>
@@ -194,8 +194,13 @@
 		<div id="banner_sp_6">
 		<a href="https://www.big-power.co.jp/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/bigpower.jpg" style="width:299px;"></a>
 		</div>
+		<div id="banner_sp_7">
+			<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
+				<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width:299px;">
+			</a>
+		</div>
 	</div>
-	<div id="n_24__1" class="________24___1">
+	<div id="footer" class="________24___1">
 		<div id="Copyright__2023___All_Rights_R">
 			<span>Copyright ©️ 2022 慶應義塾大学 七夕祭 All Rights Reserved. </span>
 		</div>

@@ -18,7 +18,7 @@
 #home {
 	position: absolute;
 	width: 390px;
-	height: 4000px;
+	height: 4100px;
 	background-color: rgba(242,242,242,1);
 	overflow: hidden;
 	--web-view-name: home;
@@ -1052,12 +1052,12 @@ body {
 	font-size: 13px;
 	color: rgba(255,255,255,1);
 }
-#n_24__1 {
+#footer {
 	position: absolute;
 	width: 279px;
 	height: 179px;
 	left: 56px;
-	top: 3800px;
+	top: 3900px;
 	overflow: visible;
 }
 #Copyright__2023___All_Rights_R {
@@ -1582,6 +1582,10 @@ div#banner_sp_5 {
     top: 1040;
 }
 div#banner_sp_6 {
-    position: absolute;
-    top: 1140;
+	position: absolute;
+	top: 1140;
+}
+div#banner_sp_7 {
+	position: absolute;
+	top: 1240;
 }

@@ -33,7 +33,7 @@
 	<div id="n_179">
 		<div id="n_79">
 			<div id="n_66">
-				<img id="n_65" src="<?php bloginfo('template_url'); ?>/desktop/images/committee/n_65.png" srcset="<?php bloginfo('template_url'); ?>/desktop/images/committee/n_65.png 1x, <?php bloginfo('template_url'); ?>/desktop/images/committee/n_65@2x.png 2x">
+				<img id="n_65" src="<?php bloginfo('template_url'); ?>/desktop/images/committee/sasikae.jpg">
 					
 				</svg>
 			</div>
