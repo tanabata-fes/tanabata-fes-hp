@@ -252,7 +252,7 @@
 			<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width:485px"></a>
 		</div>
-		<div id="banner_14" style="position: absolute; left:300px; top:1580px;">
+		<div id="banner_14" style="position: absolute; left:1195px; top:1380px;">
 			<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/endo.png" style="width:485px"></a>
 		</div>
