@@ -190,6 +190,10 @@
 			<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width:299px"></a>
 		</div>
+		<div id="banner_14" style="position: absolute; left:0px; top:1150px;">
+			<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
+			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/endo.png" style="width:299px"></a>
+		</div>
 	</div>
 	<div id="n_24__5" class="________24___5">
 		<div id="Copyright__2023___All_Rights_R">
