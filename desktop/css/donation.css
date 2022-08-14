@@ -18,7 +18,7 @@
 #page-donation {
 	position: absolute;
 	width: 1900px;
-	height: 7000px;
+	height: 8000px;
 	background-color: rgba(242,242,242,1);
 	overflow: hidden;
 	--web-view-name: page-donation;
@@ -123,7 +123,7 @@ body {
 	width: 731px;
 	height: 76px;
 	left: 590px;
-	top: 6872px;
+	top: 7900px;
 	overflow: visible;
 }
 #footerMenu {
@@ -1685,4 +1685,25 @@ img {
     justify-content: space-around;
     align-content: stretch;
     flex-direction: row;
+}
+div#houmei-kojin {
+    position: absolute;
+    top: 2500px;
+    left: 360px;
+    font-family: fot-tsukuardgothic-std, ui-rounded;
+}
+p {
+    font-size: 50px;
+    color: rgba(89,87,87,1);
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: rgba(114,113,113,1);
+}
+div#houmei-kurafan {
+    position: absolute;
+    top: 2500px;
+    left: 1195px;
+    font-family: fot-tsukuardgothic-std, ui-rounded;
 }
