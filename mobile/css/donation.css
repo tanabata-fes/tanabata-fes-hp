@@ -1192,10 +1192,12 @@ div#houmei-kojin {
     top: 2000px;
     font-size: 22px;
     font-family: fot-tsukuardgothic-std, ui-rounded;
+	color: rgba(89,87,87,1);
 }
 div#houmei-kurafan {
     position: absolute;
     top: 2200px;
     font-family: fot-tsukuardgothic-std, ui-rounded;
     font-size: 22px;
+	color: rgba(89,87,87,1);
 }
