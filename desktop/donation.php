@@ -262,6 +262,27 @@
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/3.png">
 			<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/4.png">
 		</div>
+		<div id="houmei-kojin">
+			<h1>個人協賛</h1>
+			<p>小林タクシー</p>
+			<p>神保　謙</p>
+		</div>
+		<div id="houmei-kurafan">
+		    <h1>クラウドファンディング</h1>
+			<p>りんりん</p>
+			<p>助川陽子</p>
+			<p>鈴木カズヒロ</p>
+			<p>篠原舟吾</p>
+			<p>七夕祭2010年度代表 江川慶</p>
+			<p>牧野智美</p>
+			<p>tana19 坂井</p>
+			<p>横山</p>
+			<p>舟山　玲子</p>
+			<p>笑口房</p>
+			<p>小塚睦文</p>
+			<p>梅若 英寿</p>
+			<p>元総務局長</p>
+		</div>
 	</div>
 	<div id="Text_cx">
 		<span>支援金</span>
