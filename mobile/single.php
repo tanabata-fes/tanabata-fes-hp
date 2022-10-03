@@ -24,14 +24,14 @@
 		<span><?php the_content(); ?></span>
 	</div>
 	<svg class="n_126">
-		<rect id="n_126" rx="20" ry="20" x="0" y="0" width="300" height="560">
+		<rect id="n_126" rx="20" ry="20" x="0" y="0" width="300" height="800">
 		</rect>
 	</svg>
 	<img id="n_165" src="<?php bloginfo('template_url'); ?>/mobile/images/single/n_165.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/single/n_165.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/single/n_165@2x.png 2x">
 		
 	</svg>
 	<svg class="n_127">
-		<rect id="n_127" rx="0" ry="0" x="0" y="0" width="250" height="466">
+		<rect id="n_127" rx="0" ry="0" x="0" y="0" width="250" height="700">
 		</rect>
 	</svg>
 	<div id="n_232">
