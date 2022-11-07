@@ -356,6 +356,9 @@
         <img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width:485px; position:absolute; top:4325px; left:360px;">
       </a>
     </div>
+    <div>
+      <a href="https://rikoten.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/rikoten.jpg" style="width:485px; position:absolute; top:4525px; left:360px;"></a>
+    </div>
     
     </div>
     <div id="n_197">

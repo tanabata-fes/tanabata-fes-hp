@@ -18,7 +18,7 @@
 #page-donation {
 	position: absolute;
 	width: 390px;
-	height: 4287px;
+	height: 5931px;
 	background-color: rgba(242,242,242,1);
 	overflow: hidden;
 	--web-view-name: page-donation;
@@ -647,7 +647,7 @@ body {
 	width: 279px;
 	height: 179px;
 	left: 56px;
-	top: 4097px;
+	top: 5742px;
 	overflow: visible;
 }
 #Copyright__2023___All_Rights_R {
@@ -1182,4 +1182,22 @@ body {
 }
 img {
     width: 299px;
+}
+div#houmei {
+    position: absolute;
+    top: 1270px;
+}
+div#houmei-kojin {
+    position: absolute;
+    top: 2000px;
+    font-size: 22px;
+    font-family: fot-tsukuardgothic-std, ui-rounded;
+	color: rgba(89,87,87,1);
+}
+div#houmei-kurafan {
+    position: absolute;
+    top: 2200px;
+    font-family: fot-tsukuardgothic-std, ui-rounded;
+    font-size: 22px;
+	color: rgba(89,87,87,1);
 }

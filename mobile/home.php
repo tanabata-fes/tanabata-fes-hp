@@ -30,7 +30,7 @@
 				<img id="n_122" src="<?php bloginfo('template_url'); ?>/mobile/images/home/n_122.png" srcset="<?php bloginfo('template_url'); ?>/mobile/images/home/n_122.png 1x, <?php bloginfo('template_url'); ?>/mobile/images/home/n_122@2x.png 2x">				</svg>
 			</div>
 			<svg class="n_81">
-				<rect id="n_81" rx="20" ry="20" x="0" y="0" width="300" height="310">
+				<rect id="n_81" rx="20" ry="20" x="0" y="0" width="300" height="360">
 				</rect>
 			</svg>
 		</div>
@@ -81,15 +81,7 @@
 	</div>
 	<div id="Text_by">
 		<div class="countDown">七夕祭まであと
-			<span class="countDownText">
-				<script language="JavaScript">
-					var now = new Date();
-					var point = new Date("2022/07/2");
-					var countdown = Math.ceil((point.getTime() - now.getTime()) / (1000 * 60 * 60 * 24));
-					if (countdown > 0) {
-						document.write(countdown);
-					}
-				</script>
+			<span class="countDownText">0
 			</span>日
 		</div>
 	</div>
@@ -198,6 +190,9 @@
 			<a href="https://hellocycling.onelink.me/5Qwh/7xnxz0qz">
 				<img src="<?php bloginfo('template_url'); ?>/desktop/images/donation/openstreet.jpg" style="width:299px;">
 			</a>
+		</div>
+		<div id="banner_sp_8">
+			<a href="https://rikoten.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/rikoten.jpg" style="width:299px;"></a>
 		</div>
 	</div>
 	<div id="footer" class="________24___1">

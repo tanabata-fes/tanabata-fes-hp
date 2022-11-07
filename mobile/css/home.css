@@ -18,7 +18,7 @@
 #home {
 	position: absolute;
 	width: 390px;
-	height: 4100px;
+	height: 4500px;
 	background-color: rgba(242,242,242,1);
 	overflow: hidden;
 	--web-view-name: home;
@@ -1057,7 +1057,7 @@ body {
 	width: 279px;
 	height: 179px;
 	left: 56px;
-	top: 3900px;
+	top: 4300px;
 	overflow: visible;
 }
 #Copyright__2023___All_Rights_R {
@@ -1588,4 +1588,8 @@ div#banner_sp_6 {
 div#banner_sp_7 {
 	position: absolute;
 	top: 1240;
+}
+div#banner_sp_8 {
+	position: absolute;
+	top: 1340;
 }
