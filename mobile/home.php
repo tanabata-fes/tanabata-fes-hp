@@ -120,7 +120,7 @@
 			</a>
 		</div>
 	</div>
-	<div id="n_200">
+	<!-- <div id="n_200">
 		<div id="text22pt595757_cd" class="text22pt_595757">
 			<div id="Text_ce">
 			</div>
@@ -194,7 +194,7 @@
 		<div id="banner_sp_8">
 			<a href="https://rikoten.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/rikoten.jpg" style="width:299px;"></a>
 		</div>
-	</div>
+	</div> -->
 	<div id="footer" class="________24___1">
 		<div id="Copyright__2023___All_Rights_R">
 			<span>Copyright ©️ 2022 慶應義塾大学 七夕祭 All Rights Reserved. </span>

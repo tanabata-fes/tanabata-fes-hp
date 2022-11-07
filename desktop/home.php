@@ -290,8 +290,8 @@
     </div>
     <div id="text22pt595757_gl" class="text22pt_595757">
       <div id="Text_gm">
-      </div>
     </div>
+    <!-- </div>
     <div id="n_169">
     <a href="http://www.jinsentei.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/banner_1.png" style="width: 485px;"></a>
       <div id="Text_gp">
@@ -358,7 +358,7 @@
     </div>
     <div>
       <a href="https://rikoten.com/"><img src="<?php bloginfo('template_url'); ?>/desktop/images/home/rikoten.jpg" style="width:485px; position:absolute; top:4525px; left:360px;"></a>
-    </div>
+    </div> -->
     
     </div>
     <div id="n_197">
